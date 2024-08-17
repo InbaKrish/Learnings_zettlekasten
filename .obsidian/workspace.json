@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asymmetric Encryption.md",
+                "file": "Hybrid Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asymmetric Encryption.md",
+                "file": "Hybrid Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asymmetric Encryption.md"
+                "file": "Hybrid Encryption.md"
               }
             }
           }
@@ -197,10 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad435c86f8270e6f",
+  "active": "18e46c5204a2b862",
   "lastOpenFiles": [
-    "Hybrid Encryption.md",
+    "Pasted image 20240817185938.png",
     "Asymmetric Encryption.md",
+    "Hybrid Encryption.md",
     "Pasted image 20240817184614.png",
     "Pasted image 20240817184146.png",
     "Tags/Encryption.md",
