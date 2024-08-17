@@ -9,5 +9,8 @@ Using [[RSA]] as an example
 -> Encrypt wit public key, decrypt with private key
 -> Sign with private key, verify with public key
 
+![[Pasted image 20240817184614.png]]
+
+-> [[Certificate Authority]] - 
 
 
