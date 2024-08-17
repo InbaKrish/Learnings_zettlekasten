@@ -69,9 +69,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bd1437e21577cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Signature and verification.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Encryption.md",
+                "file": "Digital Signature and verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Encryption.md",
+                "file": "Digital Signature and verification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Encryption.md"
+                "file": "Digital Signature and verification.md"
               }
             }
           }
@@ -197,11 +210,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18e46c5204a2b862",
+  "active": "3bd1437e21577cf4",
   "lastOpenFiles": [
+    "Pasted image 20240817191146.png",
+    "Hybrid Encryption.md",
+    "Digital Signature and verification.md",
     "Pasted image 20240817185938.png",
     "Asymmetric Encryption.md",
-    "Hybrid Encryption.md",
     "Pasted image 20240817184614.png",
     "Pasted image 20240817184146.png",
     "Tags/Encryption.md",
