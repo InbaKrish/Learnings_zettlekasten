@@ -12,5 +12,6 @@ Function/Algorithm to convert any data of any format to a fixed length identifie
 
 Usages,
 -> Passwords storage in identity management system, stored the password with a random data (known as salt) as hash and also the salt value. During verification same algorithm is used to match the stored hash with the random data.
+-> Used to figure whether the message sent between applications are not tampered, by verifying the hash between the sender and receiver with the same hash algo used.
 
 
