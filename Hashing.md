@@ -8,5 +8,9 @@ Function/Algorithm to convert any data of any format to a fixed length identifie
 
 ![[Pasted image 20240817182605.png]]
 
+**Note: Hash is not an encryption.**
+
+Usages,
+-> Passwords storage in identity management system, stored the password with a random data (known as salt) as hash and also the salt value. During verification same algorithm is used to match the stored hash with the random data.
 
 
