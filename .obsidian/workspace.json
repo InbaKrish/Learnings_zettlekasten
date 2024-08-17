@@ -32,13 +32,14 @@
             }
           },
           {
-            "id": "b952e0997b7258a7",
+            "id": "d80224531bcff1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashing.md",
+                "file": "Symmetric Encryption.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashing.md",
+                "file": "Symmetric Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashing.md",
+                "file": "Symmetric Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashing.md"
+                "file": "Symmetric Encryption.md"
               }
             }
           }
@@ -158,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,17 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b952e0997b7258a7",
+  "active": "d80224531bcff1c6",
   "lastOpenFiles": [
-    "Pasted image 20240817182605.png",
-    "Pasted image 20240817182603.png",
+    "Base64 Encoding.md",
+    "Tags/Cryptography.md",
+    "Symmetric Encryption.md",
     "Tags/Hashing Functions.md",
     "Hashing.md",
-    "Base64 Encoding.md",
+    "Pasted image 20240817182605.png",
+    "Pasted image 20240817182603.png",
     "Pasted image 20240817181652.png",
     "URL Encoding.md",
     "Pasted image 20240817181423.png",
-    "Tags/Cryptography.md",
     "Tags/Encoding.md",
     "Misc/crypt-play/important.txt",
     "Misc/crypt-play/dataimage.png",
