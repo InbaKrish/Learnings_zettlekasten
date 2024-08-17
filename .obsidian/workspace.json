@@ -43,9 +43,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad435c86f8270e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asymmetric Encryption.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Encryption.md",
+                "file": "Asymmetric Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Encryption.md",
+                "file": "Asymmetric Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Encryption.md"
+                "file": "Asymmetric Encryption.md"
               }
             }
           }
@@ -171,11 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d80224531bcff1c6",
+  "active": "ad435c86f8270e6f",
   "lastOpenFiles": [
+    "Symmetric Encryption.md",
+    "Asymmetric Encryption.md",
+    "Pasted image 20240817183804.png",
+    "Pasted image 20240817183618.png",
     "Base64 Encoding.md",
     "Tags/Cryptography.md",
-    "Symmetric Encryption.md",
     "Tags/Hashing Functions.md",
     "Hashing.md",
     "Pasted image 20240817182605.png",
