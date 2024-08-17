@@ -2,4 +2,4 @@ Tags - [[Encoding]] [[Cryptography]]
 
 ![[Pasted image 20240817181423.png]]
 
-Servers encode
+Servers encode and decode URLs to handle HTTP requests.
