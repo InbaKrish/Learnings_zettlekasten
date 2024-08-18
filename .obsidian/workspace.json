@@ -24,8 +24,13 @@
             "id": "4d410526ba5c3ea6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hashing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hashing.md"
+              }
             }
           }
         ]
@@ -153,10 +162,10 @@
   },
   "active": "4d410526ba5c3ea6",
   "lastOpenFiles": [
-    "URL Encoding.md",
-    "Base64 Encoding.md",
     "Digital Signature and verification.md",
+    "Base64 Encoding.md",
     "Asymmetric Encryption.md",
+    "URL Encoding.md",
     "Symmetric Encryption.md",
     "Hybrid Encryption.md",
     "Pasted image 20240817191146.png",

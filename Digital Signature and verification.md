@@ -1,5 +1,8 @@
-Tags - [[Encoding]] [[Cryptography]] [[Encryption]]
-
+---
+tags:
+  - Cryptography/Encryption
+  - Cryptography/Encoding
+---
 ![[Pasted image 20240817191146.png]]
 
 -> Here the data is hashed (say using SHA-256), then the hash is signed with the provider's private RSA key, then the data (either as the original or encrypted using the hybrid encryption) along with the signature value is sent to the recipient.

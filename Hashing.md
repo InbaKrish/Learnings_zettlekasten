@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 Tags - [[Cryptography]] [[Hashing Functions]]
 
 Function/Algorithm to convert any data of any format to a fixed length identifier.
