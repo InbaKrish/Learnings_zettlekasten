@@ -1,4 +1,7 @@
-Tags - [[Encoding]] [[Cryptography]] [[Encryption]]
+---
+tags:
+  - Cryptography/Encryption
+---
 
 Uses a known algorithm to encrypt a data, but with a secret key and can be decoded only with the secret key.
 

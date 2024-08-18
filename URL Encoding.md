@@ -1,4 +1,7 @@
-Tags - [[Encoding]] [[Cryptography]]
+---
+tags:
+  - Cryptography/Encoding
+---
 
 ![[Pasted image 20240817181423.png]]
 
