@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "da1c6532df94c605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cache Invalidation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4d410526ba5c3ea6",
             "type": "leaf",
             "state": {
@@ -42,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETL.md",
+                "file": "Cache Invalidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETL.md",
+                "file": "Cache Invalidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETL.md"
+                "file": "Cache Invalidation.md"
               }
             }
           }
@@ -170,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c354d4de5d83cac",
+  "active": "da1c6532df94c605",
   "lastOpenFiles": [
-    "URL Encoding.md",
     "ETL.md",
+    "Cache Invalidation.md",
+    "URL Encoding.md",
     "Symmetric Encryption.md",
     "Hybrid Encryption.md",
     "Hashing.md",
