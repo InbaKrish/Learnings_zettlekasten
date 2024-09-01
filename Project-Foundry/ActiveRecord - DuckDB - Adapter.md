@@ -3,5 +3,8 @@ tags:
   - Project/Foundry
   - Rails/ActiveRecord
   - Databases
-Reference: https://eng.localytics.com/odbc-and-writing-your-own-activerecord-adapter/
 ---
+### References
+https://eng.localytics.com/odbc-and-writing-your-own-activerecord-adapter/
+https://api.rubyonrails.org/classes/ActiveRecord/ConnectionAdapters/AbstractAdapter.html
+
