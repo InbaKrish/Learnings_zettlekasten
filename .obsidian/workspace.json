@@ -4,58 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3918a71f117e05",
+        "id": "6694c3d1ee34c00b",
         "type": "tabs",
         "children": [
           {
-            "id": "547cd902fe7942e9",
+            "id": "3f56862fc54d1802",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "URL Encoding.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c354d4de5d83cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ETL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da1c6532df94c605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cache Invalidation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d410526ba5c3ea6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SystemDesign/Cache",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cache Invalidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cache Invalidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cache Invalidation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da1c6532df94c605",
+  "active": "194bea2527d20605",
   "lastOpenFiles": [
-    "ETL.md",
+    "Project-",
     "Cache Invalidation.md",
+    "ETL.md",
     "URL Encoding.md",
     "Symmetric Encryption.md",
     "Hybrid Encryption.md",
@@ -216,7 +172,6 @@
     "Misc",
     "Tags/Untitled.md",
     "Welcome.md",
-    "Untitled",
     "Tags"
   ]
 }
