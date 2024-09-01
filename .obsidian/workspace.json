@@ -11,8 +11,13 @@
             "id": "3f56862fc54d1802",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project-Foundry/ActiveRecord - DuckDB - Adapter.md"
+              }
             }
           }
         ],
@@ -138,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "194bea2527d20605",
+  "active": "3f56862fc54d1802",
   "lastOpenFiles": [
+    "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry",
     "Cache Invalidation.md",
     "ETL.md",
