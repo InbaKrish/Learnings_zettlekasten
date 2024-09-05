@@ -12,7 +12,7 @@ Config can be passed separately via `-C` options during command trigger, if not 
 
 The `-c` concurrency and `-q` gets set in every sidekiq [[Capsules]] (compartmentalized group of separate configuration).
 
-
+End calls the `run` method of the CLI class, loads the application/ the path mentioned in the `-r (require)` path (`.` is the default path). (ref - )
 
 ### References 
 [Sidekiq-internals](https://dansvetlov.me/sidekiq-internals/)
