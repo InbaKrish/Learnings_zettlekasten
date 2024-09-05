@@ -4,6 +4,14 @@ tags:
   - Rails
   - AI
   - Vectordatabase
-Reference:
-  - "[[Web page save - Ruby gem]]"
 ---
+Clone - [Supermemory AI](https://github.com/supermemoryai/supermemory)
+
+### What's new?
+Add offline save feature with [[Web page save - Ruby gem]]
+
+### Tools
+Weaviate Ruby
+Langchain RB
+PG
+If possible - [[ActiveRecord - DuckDB - Adapter]]

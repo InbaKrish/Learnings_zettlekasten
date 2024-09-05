@@ -37,17 +37,12 @@
             "id": "71e5145d24a266c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md",
+                "file": "Project-Foundry/Web page save - Ruby gem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md",
+                "file": "Project-Foundry/Web page save - Ruby gem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md"
+                "file": "Project-Foundry/Web page save - Ruby gem.md"
               }
             }
           }
@@ -174,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71e5145d24a266c3",
+  "active": "0852aff980dfe8b8",
   "lastOpenFiles": [
-    "Project-Foundry/Web page save - Ruby gem.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
+    "Project-Foundry/Web page save - Ruby gem.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry",
     "Cache Invalidation.md",
