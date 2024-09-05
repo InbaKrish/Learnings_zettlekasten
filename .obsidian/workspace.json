@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sidekiq - Internals.md",
+                "file": "Sidekiq - Booting up.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sidekiq - Internals.md",
+                "file": "Sidekiq - Booting up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sidekiq - Internals.md",
+                "file": "Sidekiq - Booting up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sidekiq - Internals.md"
+                "file": "Sidekiq - Booting up.md"
               }
             }
           }
@@ -185,7 +185,7 @@
   "active": "bb6d07dfa3d43a9c",
   "lastOpenFiles": [
     "Project-Foundry/Web page save - Ruby gem.md",
-    "Sidekiq - Internals.md",
+    "Sidekiq - Booting up.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry",
