@@ -10,7 +10,7 @@ It instantiates the `Sidekiq::CLI` class with the config and options passed via 
 
 Config can be passed separately via `-C` options during command trigger, if not then it will use the global config declared under `./config`.
 
-The `-c` concurrency 
+The `-c` concurrency and `-q` gets set in every sidekiq [[Capsules]] (compartmentalized group of separate configuration). 
 
 ### References 
 [Sidekiq-internals](https://dansvetlov.me/sidekiq-internals/)
