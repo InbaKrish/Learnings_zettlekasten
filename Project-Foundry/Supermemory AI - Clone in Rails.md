@@ -4,4 +4,6 @@ tags:
   - Rails
   - AI
   - Vectordatabase
+Reference:
+  - "[[Web page save - Ruby gem]]"
 ---
