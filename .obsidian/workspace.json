@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71e5145d24a266c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-Foundry/Web page save - Ruby gem.md",
+                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-Foundry/Web page save - Ruby gem.md",
+                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-Foundry/Web page save - Ruby gem.md"
+                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md"
               }
             }
           }
@@ -161,10 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0852aff980dfe8b8",
+  "active": "71e5145d24a266c3",
   "lastOpenFiles": [
-    "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry/Web page save - Ruby gem.md",
+    "Project-Foundry/Supermemory AI - Clone in Rails.md",
+    "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry",
     "Cache Invalidation.md",
     "ETL.md",
