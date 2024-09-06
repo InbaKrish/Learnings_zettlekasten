@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "a64d6e590c465af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sidekiq - Signal Handling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "71e5145d24a266c3",
             "type": "leaf",
             "state": {
@@ -55,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sidekiq - Booting up.md",
+                "file": "Sidekiq - Signal Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sidekiq - Booting up.md",
+                "file": "Sidekiq - Signal Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sidekiq - Booting up.md"
+                "file": "Sidekiq - Signal Handling.md"
               }
             }
           }
@@ -182,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb6d07dfa3d43a9c",
+  "active": "a64d6e590c465af0",
   "lastOpenFiles": [
-    "Project-Foundry/Web page save - Ruby gem.md",
     "Sidekiq - Booting up.md",
+    "Sidekiq - Signal Handling.md",
+    "Project-Foundry/Web page save - Ruby gem.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry",
