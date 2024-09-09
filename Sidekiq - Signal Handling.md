@@ -5,7 +5,7 @@ tags:
   - Sidekiq
 ---
 [[Signals]] - type of inter-process communication. 
-Sidekiq uses signals for process communi
+Sidekiq uses signals for process communitcation like process termination.
 
 ### References
 [signals](https://man7.org/linux/man-pages/man7/signal.7.html)
