@@ -4,4 +4,4 @@ tags:
   - Rails
   - Sidekiq
 ---
-At the end of `Sdekiq::CLrun` 
+At the end of `Sidekiq::CLI#run` method the `Sidekiq::CLI#launch` method is triggered (from the main thread).
