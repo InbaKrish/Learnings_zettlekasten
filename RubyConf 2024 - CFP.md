@@ -24,4 +24,5 @@ Despite the scare scenario of Ruby on AI race for the past decades, the communit
 Currently specific use cases can leverage its strengths that align with requirements for applications like Chatbots, data analysis pipelines, content personalisation, supporting customer satisfactions and many more.
 
 #### Langchainrb
-Langchain is 
+Langchain is a framework that simplifies the integration of LLMs to the applitcations and interfaces to chain with lot of other integrations. This talks mainly focuses on the langchainrb gem, providing the LLM integration with top level abstractions.
+
