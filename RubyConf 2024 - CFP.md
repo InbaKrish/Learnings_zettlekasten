@@ -19,4 +19,7 @@ When it comes to Ruby, it remains a outlier, especially when it comes to AI/ML o
 Ruby and its community is mature and pragmatic, we hate re-inventing the wheel, the notion of **there's a gem for it** says it all. Recently, there’s a shift back to monolithic architecture as an alternative to microservices. In this context, Ruby on Rails stands as the Mjolnir of monolithic frameworks.
 
 #### Hope for Rubyists
-Despite the scare scenario of Ruby on AI race for the past decades, the community has acknowledged these limitations and has actively been working on creating and enhancing the AI requirements attracting more developers and companies to use Ruby in their AI and ML  
+Despite the scare scenario of Ruby on AI race for the past decades, the community has acknowledged these limitations and has actively been working on creating and enhancing the AI requirements attracting more developers and companies to use Ruby in their AI/ML products (off-course added with all the Ruby magics). 
+
+Currently specific use cases can leverage its strengths that align with requirements for applications like Chatbots, data analysis pipelines, content personalisation, supporting customer satisfactions and many more.
+
