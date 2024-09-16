@@ -5,4 +5,5 @@ tags:
   - AI
 ---
 ### Title
-Ruby on AI race: Incorporate LLMs power into Ruby & Rails applications
+Ruby on AI Race: Incorporating LLM Power into Ruby & Rails Applications
+
