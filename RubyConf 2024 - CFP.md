@@ -26,3 +26,6 @@ Currently specific use cases can leverage its strengths that align with requirem
 One exciting development is [Langchainrb](https://github.com/patterns-ai-core/langchainrb)—a framework that simplifies the integration of large language models (LLMs) into applications. This talk will explore Langchainrb, highlighting its top-level abstractions and practical use cases. As Langchainrb evolves rapidly, it’s an excellent time for Rubyists to delve into its capabilities.
 
 Whether you’re an experienced developer or curious about AI’s intersection with Ruby, this talk will equip you with the insights and tools needed to confidently engage in the AI revolution.
+
+## Notes
+With my interest and expertise over Ruby and Rails for the past 3+ years, with eagerness to dwelve into tech advancements and AI domains 
