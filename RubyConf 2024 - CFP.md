@@ -14,4 +14,6 @@ AI - Why Not Ruby? Dive into the AI revolution with Ruby! Learn to integrate AI 
 We are in 2k24, When we talk about modern web applications/services, we can't ignore the AI part in it. Every products and tech giants incorporate the AI magics to their ecosystem to boost the user satisfaction and also for some show offs (offcourse boosting the sales and income). 
 
 #### Why (not) Ruby?
-When it comes to Ruby, it remains a outlier, especially when it comes to AI/ML or on the whole data science  
+When it comes to Ruby, it remains a outlier, especially when it comes to AI/ML or on the whole data science works.
+
+Ruby and its community is mature and pragmatic, we hate re-inventing the wheel, the notion of **there's a gem for it** says it all. With 
