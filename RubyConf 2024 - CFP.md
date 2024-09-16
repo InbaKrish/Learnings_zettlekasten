@@ -16,4 +16,5 @@ We are in 2k24, When we talk about modern web applications/services, we can't ig
 #### Why (not) Ruby?
 When it comes to Ruby, it remains a outlier, especially when it comes to AI/ML or on the whole data science works.
 
-Ruby and its community is mature and pragmatic, we hate re-inventing the wheel, the notion of **there's a gem for it** says it all. Recently, there’s a shift back to monolithic architecture as an alternative to microservices, and Ruby with the framework like Rails is the Mjolnir in that segment. 
+Ruby and its community is mature and pragmatic, we hate re-inventing the wheel, the notion of **there's a gem for it** says it all. Recently, there’s a shift back to monolithic architecture as an alternative to microservices. In this context, Ruby on Rails stands as the Mjolnir of monolithic frameworks.
+
