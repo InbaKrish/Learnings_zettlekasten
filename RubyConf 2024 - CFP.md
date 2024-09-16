@@ -11,12 +11,11 @@ Ruby on AI Race: Incorporating LLM Power into Ruby & Rails Applications
 AI - Why Not Ruby? Dive into the AI revolution with Ruby! Learn to integrate AI into your Ruby/Rails apps using tools like LangChain and vector databases. This talk demystifies LLM-powered applications, showing how Ruby's LangChain makes AI integration accessible for all Rubyists.
 
 ### Description
-We are in 2k24, When we talk about modern web applications/services, we can't ignore the AI part in it. Every products and tech giants incorporate the AI magics to their ecosystem to boost the user satisfaction and also for some show offs (offcourse boosting the sales and income). 
+In 2024, AI is a cornerstone of modern web applications and services. From enhancing user experiences to driving sales, tech giants integrate AI to captivate users and boost their bottom lines.
 
 #### Why (not) Ruby?
-When it comes to Ruby, it remains a outlier, especially when it comes to AI/ML or on the whole data science works.
-
-Ruby and its community is mature and pragmatic, we hate re-inventing the wheel, the notion of **there's a gem for it** says it all. Recently, there’s a shift back to monolithic architecture as an alternative to microservices. In this context, Ruby on Rails stands as the Mjolnir of monolithic frameworks.
+Ruby has often been seen as an outlier in the AI and data science domains. Despite its mature and pragmatic community, and the mantra "there's a gem for that," Ruby has lagged in AI/ML advancements. 
+However, there's a resurgence of interest in monolithic architectures, with Ruby on Rails emerging as a robust framework in this area, akin to Mjolnir in its strength and utility.
 
 #### Hope for Rubyists
 Despite the scare scenario of Ruby on AI race for the past decades, the community has acknowledged these limitations and has actively been working on creating and enhancing the AI requirements attracting more developers and companies to use Ruby in their AI/ML products (off-course added with all the Ruby magics). 
@@ -24,8 +23,6 @@ Despite the scare scenario of Ruby on AI race for the past decades, the communit
 Currently specific use cases can leverage its strengths that align with requirements for applications like Chatbots, data analysis pipelines, content personalisation, supporting customer satisfactions and many more.
 
 #### Langchainrb
-Langchain is a framework that simplifies the integration of LLMs to the applitcations and interfaces to chain with lot of other integrations. This talks mainly focuses on the langchainrb gem, providing the LLM integration with top level abstractions.
+One exciting development is Langchainrb—a framework that simplifies the integration of large language models (LLMs) into applications. This talk will explore Langchainrb, highlighting its top-level abstractions and practical use cases. As Langchainrb evolves rapidly, it’s an excellent time for Rubyists to delve into its capabilities.
 
-Currently this is under fast-paced development, and time for all the rubysists to take a closer look, which will be provided in this talk along with practical use cases.
-
-Whether you're an experienced developer or simply curious about the intersection of AI and Ruby, this talk will provide you with the tools and understanding needed to join the AI race confidently.
+Whether you’re an experienced developer or curious about AI’s intersection with Ruby, this talk will equip you with the insights and tools needed to confidently engage in the AI revolution.
