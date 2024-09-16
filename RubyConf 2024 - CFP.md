@@ -28,4 +28,6 @@ One exciting development is [Langchainrb](https://github.com/patterns-ai-core/la
 Whether you’re an experienced developer or curious about AI’s intersection with Ruby, this talk will equip you with the insights and tools needed to confidently engage in the AI revolution.
 
 ## Notes
-With my interest and expertise over Ruby and Rails for the past 3+ years, with eagerness to dwelve into tech advancements and AI domains 
+With my interest and expertise over Ruby and Rails for the past 3+ years, with eagerness to dwelve into tech advancements and AI domains, and excitement to guide the attendees through this trendy topic, makes me well suited. To add on I have worked on some projects and researches over the vector databases and LLMs with Ruby ecosystem.
+
+This session includes interactive elements like live demos with codes and a Q&A session ensuring that the audience remains engaged and leaves with valuable, actionable insights.
