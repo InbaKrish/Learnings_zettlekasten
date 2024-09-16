@@ -26,3 +26,6 @@ Currently specific use cases can leverage its strengths that align with requirem
 #### Langchainrb
 Langchain is a framework that simplifies the integration of LLMs to the applitcations and interfaces to chain with lot of other integrations. This talks mainly focuses on the langchainrb gem, providing the LLM integration with top level abstractions.
 
+Currently this is under fast-paced development, and time for all the rubysists to take a closer look, which will be provided in this talk along with practical use cases.
+
+Whether you're an experienced developer or simply curious about the intersection of AI and Ruby, this talk will provide you with the tools and understanding needed to join the AI race confidently.
