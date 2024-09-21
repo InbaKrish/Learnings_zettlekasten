@@ -33,3 +33,9 @@ With over 3 years of experience in Ruby and Rails, combined with a strong intere
 This session will feature interactive elements such as live code demos and a Q&A segment to keep the audience engaged and provide valuable, actionable insights. I look forward to sharing practical knowledge and sparking discussions about the future of AI in the Ruby community.
 
 **Technical Requirements**: A projector for live coding demonstrations, and internet access to showcase integrations and examples.
+
+
+## Bio
+I'm a fresh Rubyist, with very much interest and passion towards Ruby & Rails as soon as I got into it. Currently got interests with the AI, exploring the Ruby ways of integrating the capabulities into it. I'm pretty much work on databse optimizations, R&D of new Rails & Ruby features into our applications in my company projects, working with IoT field. 
+
+I may not spoken any public tech talks till
