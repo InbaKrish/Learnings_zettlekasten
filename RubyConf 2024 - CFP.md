@@ -38,4 +38,6 @@ This session will feature interactive elements such as live code demos and a Q&A
 ## Bio
 I'm a fresh Rubyist, with very much interest and passion towards Ruby & Rails as soon as I got into it. Currently got interests with the AI, exploring the Ruby ways of integrating the capabulities into it. I'm pretty much work on databse optimizations, R&D of new Rails & Ruby features into our applications in my company projects, working with IoT field. 
 
-I may not spoken any public tech talks till
+I may not spoken any public tech talks till date, but have given many internal webinars on various Rails features like actioncables, Turbo, vector databases, LLMs, and devcontainer setup for internal Rails applications to name a few.
+
+Oh, and my favourite one direction memer
