@@ -40,4 +40,4 @@ I'm a fresh Rubyist, with very much interest and passion towards Ruby & Rails as
 
 I may not spoken any public tech talks till date, but have given many internal webinars on various Rails features like actioncables, Turbo, vector databases, LLMs, and devcontainer setup for internal Rails applications to name a few.
 
-Oh, and my favourite one direction memer
+Oh, **one directoin member?**, this made me google this part, as I'm not sure about the **One Direction** band till date. But I like our in-home **AR Rahman**.
