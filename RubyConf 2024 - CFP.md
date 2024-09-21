@@ -36,8 +36,8 @@ This session will feature interactive elements such as live code demos and a Q&A
 
 
 ## Bio
-I'm a fresh Rubyist, with very much interest and passion towards Ruby & Rails as soon as I got into it. Currently got interests with the AI, exploring the Ruby ways of integrating the capabulities into it. I'm pretty much work on databse optimizations, R&D of new Rails & Ruby features into our applications in my company projects, working with IoT field. 
+I'm a passionate Rubyist, having quickly developed a love for Ruby and Rails since diving into it. Currently, I'm exploring the exciting intersection of AI and Ruby, finding ways to integrate AI capabilities into Rails applications. My professional work focuses on database optimizations, R&D on new Ruby and Rails features, and working on IoT projects within my company.
 
-I may not spoken any public tech talks till date, but have given many internal webinars on various Rails features like actioncables, Turbo, vector databases, LLMs, and devcontainer setup for internal Rails applications to name a few.
+While I haven't spoken at any public tech talks yet, I’ve delivered several internal webinars covering topics like ActionCable, Turbo, vector databases, LLMs, and setting up devcontainers for Rails applications.
 
-Oh, **one directoin member?**, this made me google this part, as I'm not sure about the **One Direction** band till date. But I like our in-home **AR Rahman**.
+**One Direction member?** I actually had to Google that! Not familiar with the band, but if we're talking about music legends, I’d go with **AR Rahman**—a true icon in my book.
