@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RubyConf 2024 - CFP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RubyConf 2024 - CFP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +210,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RubyConf 2024 - CFP.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -234,10 +230,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7288fb9f7b6930e",
+  "active": "71e5145d24a266c3",
   "lastOpenFiles": [
-    "RubyConf - Catching the AI Train.md",
     "RubyConf 2024 - CFP.md",
+    "RubyConf - Catching the AI Train.md",
     "Sidekiq - Launch.md",
     "Sidekiq - Booting up.md",
     "Sidekiq - Signal Handling.md",
