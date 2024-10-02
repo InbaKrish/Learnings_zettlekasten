@@ -91,7 +91,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RubyConf 2024 - CFP.md",
+                "file": "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd057ec1a3acc7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RubyConf 2024 - CFP.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RubyConf 2024 - CFP.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RubyConf 2024 - CFP.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -226,17 +239,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "194bea2527d20605",
+  "active": "bd057ec1a3acc7b9",
   "lastOpenFiles": [
-    "Blog",
+    "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
+    "Untitled.md",
     "RubyConf 2024 - CFP.md",
+    "Blog-Foundry",
     "RubyConf - Catching the AI Train.md",
     "Sidekiq - Launch.md",
     "Sidekiq - Booting up.md",
     "Sidekiq - Signal Handling.md",
     "Project-Foundry/Web page save - Ruby gem.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
-    "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry",
     "Cache Invalidation.md",
     "ETL.md",

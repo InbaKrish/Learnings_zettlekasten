@@ -7,6 +7,11 @@
       "folder": "Project-Foundry",
       "tag": "#Project/Foundry",
       "pattern": ""
+    },
+    {
+      "folder": "Blog-Foundry",
+      "tag": "#Blog/Foundry",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
