@@ -4,6 +4,7 @@ tags:
 Reference:
   - https://www.youtube.com/watch?v=M9HHWFp84f0
 ---
+Basic unit of CPU utilization. Programming way to say the OS to perform certain parts of a task can be handled concurrently.
 
 [[Process]] - runs the application.
 
