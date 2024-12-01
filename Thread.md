@@ -13,4 +13,9 @@ Each procees contains the following components,
 
 Program counter handle the program control. Having single program counter handle only one process at a time. 
 
-Instead have multiple program counters under a process
+Instead have multiple program counters under a process, and also stacks and other address components
+![[Pasted image 20241201211858.png]]
+
+Example of how OS handles processes and thread.
+![[Pasted image 20241201212004.png]]
+
