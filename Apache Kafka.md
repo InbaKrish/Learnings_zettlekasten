@@ -19,3 +19,7 @@ Producer pushes the messages to the topic, and consumer polls the message using 
 ### Partitions
 Splitting up the topic to store large data based on certain criteria.
 ![[Pasted image 20241204203019.png]]
+
+### Consumer Group
+![[Pasted image 20241204205452.png]]
+		
