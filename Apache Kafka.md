@@ -24,3 +24,7 @@ Splitting up the topic to store large data based on certain criteria.
 ![[Pasted image 20241204205452.png]]
 Used to parallel process the messages from a topic by assigning a consumer to a partition.
 
+With Consumer Group we can have Kafka be
+-> used as a queue if we have all consumers in one group and assigned to a topic so that no other consumer group exists and the read gets duplicated (mock queue)
+-> serve as pub/sub if we have consumers in unique groups
+
