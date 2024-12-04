@@ -16,4 +16,5 @@ Server listens and communicates between producer and consumer via topic.
 Producer pushes the messages to the topic, and consumer polls the message using position pointer.
 ![[Pasted image 20241202213225.png]]
 
+### Partitions
 
