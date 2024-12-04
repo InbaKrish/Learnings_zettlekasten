@@ -22,4 +22,5 @@ Splitting up the topic to store large data based on certain criteria.
 
 ### Consumer Group
 ![[Pasted image 20241204205452.png]]
-		
+Used to parallel process the messages from a topic by assigning a consumer to a partition.
+
