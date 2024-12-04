@@ -17,4 +17,5 @@ Producer pushes the messages to the topic, and consumer polls the message using 
 ![[Pasted image 20241202213225.png]]
 
 ### Partitions
-
+Splitting up the topic to store large data based on certain criteria.
+![[Pasted image 20241204203019.png]]
