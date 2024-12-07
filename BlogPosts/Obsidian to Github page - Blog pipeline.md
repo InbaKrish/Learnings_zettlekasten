@@ -6,10 +6,12 @@ tags:
 date: 2024-12-07
 draft: "false"
 ---
-Starting my blog journey, as developers - we want everything automated, with everyone saying its bad for a software engineer to work on his career without his/her blog contributions. 
+As developers, we thrive on automation. Yet, it's often said that one of the best ways to advance our careers is through blog contributions. Despite this, starting a blog can feel daunting—it's not just about writing. There's ideation, creating templates, validation, and the publishing process itself. And let’s face it, it all takes time. 
 
-But takes its own time, ideation, templating the blog, validations and publishing the blog. As a developer eachone will be having their own note taking application of choice, I feel petty for those who haven't tried Obsidian. 
+I have used the following 
 
-> Obsidian is the BEST note taking application in the world, so Go download it - https://obsidian.md/
+Every developer has their own preferred tool for taking notes. But if you haven’t tried **Obsidian**, you're missing out.
 
-With a note taking applicatoin like Obsidian, we can have the notes, ideation, templating and blog written in the same application with the wonderful MARKDOWN
+> **Obsidian** is, hands down, the best note-taking application for developers. If you haven't tried it yet, do yourself a favor—[download Obsidian now](https://obsidian.md/)!
+
+With Obsidian, all aspects of the blogging process come together seamlessly. You can ideate, organize notes, draft posts, and even template your blog—all within a single, powerful tool. And with its support for **Markdown**, writing and formatting your posts becomes a breeze.
