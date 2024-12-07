@@ -8,7 +8,7 @@ draft: "false"
 ---
 As developers, we thrive on automation. Yet, it's often said that one of the best ways to advance our careers is through blog contributions. Despite this, starting a blog can feel daunting—it's not just about writing. There's ideation, creating templates, validation, and the publishing process itself. And let’s face it, it all takes time. 
 
-I have used the following 
+I have used the following automation blog pipeline inspired from various developers and curated this workflow. 
 
 Every developer has their own preferred tool for taking notes. But if you haven’t tried **Obsidian**, you're missing out.
 
