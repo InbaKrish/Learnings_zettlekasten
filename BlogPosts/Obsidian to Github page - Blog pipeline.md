@@ -12,4 +12,4 @@ But takes its own time, ideation, templating the blog, validations and publishin
 
 > Obsidian is the BEST note taking application in the world, so Go download it - https://obsidian.md/
 
-With a note taking applicatoin like Obsi
+With a note taking applicatoin like Obsidian, we can have the notes, ideation, templating and blog written in the same application with the wonderful MARKDOWN
