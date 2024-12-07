@@ -19,6 +19,18 @@ Every developer has their own preferred tool for taking notes. But if you havenâ
 
 With Obsidian, all aspects of the blogging process come together seamlessly. You can ideate, organize notes, draft posts, and even template your blogâ€”all within a single, powerful tool. And with its support for **Markdown**, writing and formatting your posts becomes a breeze.
 
+For blog contents add some front matter/properties like title, data, and tags (based on Hugo themes they support variety of options).
+```md
+---
+title: blogtitle
+date: 2024-11-06
+draft: false
+tags:
+  - tag1
+  - tag2
+---
+```
+
 ----
 ## Go - Hugo
 
@@ -42,4 +54,4 @@ For mac/linux use [rsync](https://www.geeksforgeeks.org/rsync-command-in-linux-w
 rsync -av --delete "sourcepath" "destinationpath"
 ```
 
-Under obsidian, create a new folder to manager your blog content `<obsidian vault>/` and for the hugo project the content should be copied to `<hugo project root>/content/posts`.
+Under obsidian, create a new folder to manager your blog content `<obsidian vault>/BlogPosts` and for the hugo project the content should be copied to `<hugo project root>/content/posts`.
