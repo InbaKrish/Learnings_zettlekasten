@@ -172,3 +172,6 @@ Total in 84 ms
 Stage all the changes under the `public` folder and push the changes to `git@github.com-personal:<user name>/<repo name>.git` repository.
 
 Configure the Github repo pages settings,
+![[Pasted image 20241207205612.png]]
+use **Deploy from a branch**, with the **main** branch. After the configuration setup, the static content (your awesome blog), will be hosted on the configured repo name (URL).
+
