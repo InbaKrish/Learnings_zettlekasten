@@ -175,3 +175,6 @@ Configure the Github repo pages settings,
 ![[Pasted image 20241207205612.png]]
 use **Deploy from a branch**, with the **main** branch. After the configuration setup, the static content (your awesome blog), will be hosted on the configured repo name (URL).
 
+> NOTE - If you want custom domain configuration, refer to the [official docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) and it can be configured such.
+
+
