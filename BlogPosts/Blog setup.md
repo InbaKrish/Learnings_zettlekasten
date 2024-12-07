@@ -8,6 +8,7 @@ title: Blog Setup
 
 
 Have you ever wondered how to build an image search engine (like Google Images, Myntra fashion products search, etc,.)? In this blog post we will create a simple image search feature in the Ruby on Rails application using [Weaviate](https://weaviate.io/) vector database.
+![[KLQ29UJS.jpeg]]
 
 The modern approach to implementing image search involves [vector embeddings](https://www.pinecone.io/learn/vector-embeddings-for-developers/). Leveraging the magic of neural networks and vector databases, we'll explore how to realize vector-based image searching.
 
@@ -16,7 +17,7 @@ The popularity of vector search databases has skyrocketed recently, especially f
 ## What is a vector database?
 Type of database, that stores date as a high-dimensional value. Working with vector embeddings is more complex and the traditional databases can't keep up with it for providing insights and real-time analysis with the data. That's where vector DBs come into play, these are designed for handling this type of data and offer the performance, scalability, and flexibility you need to make the most out of your data.
 
-![[Pasted image 20230724141302.png]]
+![[Pasted image 20230724141302 1.png]]
 
 The flow will be like, first we use the embedding model to create vectors from the content, next the vector embeddings of the content is inserted into the vector database, with some reference to the original content. Now using an application we will interact with the vector DB via the embedding model, like on issuing a query we use the same embedding model to create embeddings for the query and use those to query the database for similar vector embeddings.
 
