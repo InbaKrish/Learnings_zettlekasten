@@ -27,4 +27,4 @@ But with Obsidian, how to make the markdown written content to html? [Hugo](http
 Install Hugo - https://gohugo.io/installation, with all the mentioned prerequisites.
 
 ### Hugo Theme
-For my 
+For my blog, I'm using [Papermod](https://themes.gohugo.io/themes/hugo-papermod/) theme. You can choose any, and go over the installation steps 
