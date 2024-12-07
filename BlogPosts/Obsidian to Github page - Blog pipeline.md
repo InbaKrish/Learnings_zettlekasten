@@ -22,4 +22,6 @@ With Obsidian, all aspects of the blogging process come together seamlessly. You
 ----
 ## Go - Hugo
 
-But with Obsidian, how to make the markdown written content to html? [Hugo](https://gohugo.io/), makes it hassle-free and with the 
+But with Obsidian, how to make the markdown written content to html? [Hugo](https://gohugo.io/), makes it hassle-free and with the community contributes [themes](https://themes.gohugo.io/) available, one can make a wonderful static website with his markdown content.
+
+Install Hugo - https://gohugo.io/installation, with all the mentioned pre-requisites.
