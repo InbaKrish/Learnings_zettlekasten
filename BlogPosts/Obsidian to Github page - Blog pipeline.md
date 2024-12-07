@@ -55,3 +55,7 @@ rsync -av --delete "sourcepath" "destinationpath"
 ```
 
 Under obsidian, create a new folder to manager your blog content `<obsidian vault>/BlogPosts` and for the hugo project the content should be copied to `<hugo project root>/content/posts`.
+
+**But there's a issue**, with the above command the text content of the files get synced, but Obsidian handles the attachment in a different way like in the root folder (default) or as per the folder configuration configured by the individuals.
+
+To handle that, use the below python script which looks for the image files with the 
