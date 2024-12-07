@@ -40,7 +40,7 @@ But with Obsidian, how to make the markdown written content to html? [Hugo](http
 
 * Install Hugo - https://gohugo.io/installation, with all the mentioned prerequisites.
 * Create a Hugo project (I'm using yaml for my configurations) and configure the Hugo theme of you choice.
-```bash
+```sh
 hugo new site MyPersonalBlogSite -f yaml
 ```
 
@@ -52,7 +52,7 @@ For my blog, I'm using [Papermod](https://themes.gohugo.io/themes/hugo-papermod/
 ### Sync Obsidian content to Hugo
 
 For mac/linux use [rsync](https://www.geeksforgeeks.org/rsync-command-in-linux-with-examples/) to sync the content from Obsidian folder to Hugo content.
-```bash
+```sh
 rsync -av --delete "sourcepath" "destinationpath"
 ```
 
@@ -126,11 +126,11 @@ Now we need to create a repository which will host the static files hosted in th
 
 1. Create a repository with the required URL, l used `inbakrish.github.io`. ![[Pasted image 20241207201814.png]]
 2. Now configure this repository as s submodule under the hugo blog project for the `/public` folder.
-```bash
+```sh
 git submodule add git@github.com-personal:<user name>/<repo name>.git public
 ```
 3. Now verify the remote for the submodule added above,
-```bash
+```sh
 cd /public
 git remote -v #-> origin git@github.com-personal:<user name>/<repo name>.git
 ```
@@ -146,7 +146,7 @@ baseURL: "https://inbakrish.github.io/"
 ```
 
 Next, trigger the `hugo` command to generate the static HTML files content,
-```
+```sh
 hugo
 
 # Output sample
