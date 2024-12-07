@@ -1,6 +1,9 @@
 ---
 tags:
   - InbaKrishBlog
+date: 2024-12-07
+draft: "false"
+title: Blog Setup
 ---
 
 
