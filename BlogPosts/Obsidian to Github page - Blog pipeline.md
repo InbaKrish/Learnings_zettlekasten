@@ -123,4 +123,8 @@ print("Markdown files processed and attachments copied successfully.")
 Now we need to create a repository which will host the static files hosted in the Github pages.
 
 1. Create a repository with the required URL, l used `inbakrish.github.io`. ![[Pasted image 20241207201814.png]]
-2. Now configure this repository as s submodule under the hugo blog project for the `/public` folder 
+2. Now configure this repository as s submodule under the hugo blog project for the `/public` folder.
+```bash
+git submodule add git@github.com-personal:<user name>/<repo name>.git public
+```
+3. Now verify the 
