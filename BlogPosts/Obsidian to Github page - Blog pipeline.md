@@ -58,4 +58,4 @@ Under obsidian, create a new folder to manager your blog content `<obsidian vaul
 
 **But there's a issue**, with the above command the text content of the files get synced, but Obsidian handles the attachment in a different way like in the root folder (default) or as per the folder configuration configured by the individuals.
 
-To handle that, use the below python script which looks for the image files with the 
+To handle that, use the below python script (written for linux, modify accordingly for windows/other OS, or ask straight to a chat LLMs) which looks for the image files with the markdown content and finds the respective file within the obsidian source attachment folder and modifies the content within the hugo's content folder.
