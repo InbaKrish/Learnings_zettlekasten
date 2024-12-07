@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlogPosts/Obsidian to Github page - Blog pipeline.md",
+                "file": "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian to Github page - Blog pipeline"
+              "title": "Obsidian to Github page - Automated Blog pipeline"
             }
           },
           {
@@ -299,11 +299,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "194bea2527d20605",
+  "active": "bd057ec1a3acc7b9",
   "lastOpenFiles": [
     "Pasted image 20241207201814.png",
     "BlogPosts/Blog setup.md",
-    "BlogPosts/Obsidian to Github page - Blog pipeline.md",
+    "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
     "KLQ29UJS.jpeg",
     "vector_based_img_search_ror.pdf",
     "Pasted image 20230724141302 1.png",
