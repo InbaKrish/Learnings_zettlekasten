@@ -24,7 +24,14 @@ With Obsidian, all aspects of the blogging process come together seamlessly. You
 
 But with Obsidian, how to make the markdown written content to html? [Hugo](https://gohugo.io/), makes it hassle-free and with Hugo’s user-friendly setup and an extensive community of [themes](https://themes.gohugo.io/), you can create a professional-looking site with minimal effort.
 
-Install Hugo - https://gohugo.io/installation, with all the mentioned prerequisites.
+* Install Hugo - https://gohugo.io/installation, with all the mentioned prerequisites.
+* Create a Hugo project and configure the Hugo theme of you choice.
+```
+```
 
 ### Hugo Theme
-For my blog, I'm using [Papermod](https://themes.gohugo.io/themes/hugo-papermod/) theme. You can choose any, and go over the installation steps 
+For my blog, I'm using [Papermod](https://themes.gohugo.io/themes/hugo-papermod/) theme. You can choose any, and go over the installation steps and ready to go.
+
+----
+
+### Sync Obsidian content to 
