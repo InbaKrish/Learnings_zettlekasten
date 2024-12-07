@@ -137,4 +137,13 @@ git remote -v #-> origin git@github.com-personal:<user name>/<repo name>.git
 
 ## Generate static files
 
-Now all the setup in place, modify the base
+Now all the setup in place, modify the `baseURL` config,
+```yaml
+# config.yaml
+baseURL: "https://inbakrish.github.io/"
+```
+
+Next, trigger the `hugo` command to generate the static HTML files content,
+```
+hugo
+```
