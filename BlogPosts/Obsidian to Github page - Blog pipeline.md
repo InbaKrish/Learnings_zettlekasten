@@ -127,4 +127,14 @@ Now we need to create a repository which will host the static files hosted in th
 ```bash
 git submodule add git@github.com-personal:<user name>/<repo name>.git public
 ```
-3. Now verify the 
+3. Now verify the remote for the submodule added above,
+```bash
+cd /public
+git remote -v #-> origin git@github.com-personal:<user name>/<repo name>.git
+```
+
+---
+
+## Generate static files
+
+Now all the setup in place, modify the base
