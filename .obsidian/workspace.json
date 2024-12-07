@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlogPosts/Blog setup.md",
+                "file": "BlogPosts/Obsidian to Github page - Blog pipeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blog setup"
+              "title": "Obsidian to Github page - Blog pipeline"
             }
           },
           {
@@ -301,11 +301,12 @@
   },
   "active": "bd057ec1a3acc7b9",
   "lastOpenFiles": [
+    "BlogPosts/Blog setup.md",
+    "BlogPosts/Obsidian to Github page - Blog pipeline.md",
     "KLQ29UJS.jpeg",
     "vector_based_img_search_ror.pdf",
     "Pasted image 20230724141302 1.png",
     "Apache Kafka.md",
-    "BlogPosts/Blog setup.md",
     "BlogPosts",
     "Untitled.md",
     "Pasted image 20241204205452.png",
@@ -339,7 +340,6 @@
     "Base64 Encoding.md",
     "Asymmetric Encryption.md",
     "Pasted image 20240817191146.png",
-    "Pasted image 20240817185938.png",
     "Tags/Encryption.md",
     "Misc/crypt-play/important.txt",
     "Misc/crypt-play/crypto-commands.txt",
