@@ -37,4 +37,9 @@ For my blog, I'm using [Papermod](https://themes.gohugo.io/themes/hugo-papermod/
 
 ### Sync Obsidian content to Hugo
 
-For mac/linux use rsync
+For mac/linux use [rsync](https://www.geeksforgeeks.org/rsync-command-in-linux-with-examples/) to sync the content from Obsidian folder to Hugo content.
+```bash
+rsync -av --delete "sourcepath" "destinationpath"
+```
+
+Under obsidian, create a new folder to manager your blog content `<obsidian vault>/` and for the hugo project the content should be copied to `<hugo project root>/content/posts`.
