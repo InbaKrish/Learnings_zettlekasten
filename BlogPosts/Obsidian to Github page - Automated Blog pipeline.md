@@ -8,6 +8,8 @@ draft: "false"
 ---
 As developers, we thrive on automation. Yet, it's often said that one of the best ways to advance our careers is through blog contributions. Despite this, starting a blog can feel daunting—it's not just about writing. There's ideation, creating templates, validation, and the publishing process itself. And let’s face it, it all takes time. 
 
+![[Pasted image 20241207210246.png]]
+
 I have used the following automation blog pipeline inspired from various developers and curated this workflow.
 
 ----
@@ -178,3 +180,4 @@ use **Deploy from a branch**, with the **main** branch. After the configuration 
 > NOTE - If you want custom domain configuration, refer to the [official docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) and it can be configured such.
 
 
+![[Pasted image 20241207210218.png]]
