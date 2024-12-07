@@ -171,4 +171,4 @@ Total in 84 ms
 
 Stage all the changes under the `public` folder and push the changes to `git@github.com-personal:<user name>/<repo name>.git` repository.
 
-Configure the 
+Configure the Github repo pages settings,
