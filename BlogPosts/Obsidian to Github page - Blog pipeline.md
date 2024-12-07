@@ -115,3 +115,9 @@ for filename in os.listdir(POSTS_DIR):
 
 print("Markdown files processed and attachments copied successfully.")
 ```
+
+----
+
+## Generating Static content
+
+After migrating the markdown and the associated attachment contents from Obsidian 
