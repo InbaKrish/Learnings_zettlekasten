@@ -146,4 +146,27 @@ baseURL: "https://inbakrish.github.io/"
 Next, trigger the `hugo` command to generate the static HTML files content,
 ```
 hugo
+
+# Output sample
+Start building sites … 
+hugo v0.139.3-2f6864387cd31b975914e8373d4bf38bddbd47bc+extended linux/amd64 BuildDate=2024-11-29T15:36:56Z VendorInfo=snap:0.139.3
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 21  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  2  
+  Processed images |  0  
+  Aliases          |  5  
+  Cleaned          |  0  
+
+Total in 84 ms
 ```
+
+---
+
+## Deployment
+
+Stage all the 
