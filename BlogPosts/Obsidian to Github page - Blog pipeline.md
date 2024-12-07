@@ -118,6 +118,8 @@ print("Markdown files processed and attachments copied successfully.")
 
 ----
 
-## Generating Static content
+## Github Page - repo setup
 
-After migrating the markdown and the associated attachment contents from Obsidian 
+Now we need to create a repository which will host the static files hosted in the Github pages.
+
+1. Create a repository with the required URL, l used `inba`
