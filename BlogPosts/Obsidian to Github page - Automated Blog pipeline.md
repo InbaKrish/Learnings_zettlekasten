@@ -183,7 +183,8 @@ use **Deploy from a branch**, with the **main** branch. After the configuration 
 
 Now instead of manually building the static files and pushing manually to the repository, trigger a github action for the main repository, which generates the static files and pushes it to the github page repo.
 
-1. Create personal access token, as we need to access another repo create access token with repo
+1. Create personal access token, as we need to access another repo create access token with repo and workflow scopes.![[Pasted image 20241208112436.png]]
+2. Create `production` environment and add the PAT_TOKEN secret ![[Pasted image 20241208112652.png]] 
 
 
 
