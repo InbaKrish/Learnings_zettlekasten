@@ -51,7 +51,7 @@ For my blog, I'm using [Papermod](https://themes.gohugo.io/themes/hugo-papermod/
 
 ### Sync Obsidian content to Hugo
 
-For mac/linux use [rsync](https://www.geeksforgeeks.org/rsync-command-in-linux-with-examples/) to sync the content from Obsidian folder to Hugo content. For windows there are similar tools like 
+For mac/linux use [rsync](https://www.geeksforgeeks.org/rsync-command-in-linux-with-examples/) to sync the content from Obsidian folder to Hugo content. For windows there are similar tools like [robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy).
 ```sh
 rsync -av --delete "sourcepath" "destinationpath"
 ```
@@ -60,7 +60,7 @@ Under obsidian, create a new folder to manage your blog content `<obsidian vault
 
 **But there's a issue**, with the above command the text content of the files get synced, but Obsidian handles the attachment in a different way like in the root folder (default) or as per the folder configuration configured by the individuals.
 
-To handle that, use the below python script (written for linux, modify accordingly for windows/other OS, or ask straight to a chat LLMs) which looks for the image files with the markdown content and finds the respective file within the obsidian source attachment folder and modifies the content within the hugo's content folder.
+To handle that, use the below python script (written for linux, modify accordingly for windows/other OS, or ask straight to a LLM chatbot) which looks for the image files within the markdown content and finds the respective file within the obsidian source attachment folder and modifies the content within the hugo's content folder.
 ```python
 import os
 import re
@@ -68,7 +68,7 @@ import shutil
 
 # Paths for source (Obsidian Vault) and destination (Hugo Project)
 POSTS_DIR = "<Hugo project root path>/content/posts/"
-ATTACHMENTS_DIR = "<Obsidian vault root path>/learnings_v2/"
+ATTACHMENTS_DIR = "<Obsidian vault attachements path>/"
 STATIC_FILES_DIR = "<Hugo project root path>/static/images/"
 
 # Regex to match any attachment (image, pdf, etc.)
@@ -84,7 +84,7 @@ for filename in os.listdir(POSTS_DIR):
         with open(filepath, "r") as file:
             content = file.read()
         
-        # Find all attachment links (images, PDFs, etc.)
+        # Find all attachment links (images)
         attachments = re.findall(ATTACHMENT_REGEX, content)
 
         for attachment in attachments:
@@ -179,7 +179,7 @@ use **Deploy from a branch**, with the **main** branch. After the configuration 
 
 > NOTE - If you want custom domain configuration, refer to the [official docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) and it can be configured such.
 
-### Automate deployment using - Github Action
+### Automate deployment using - Github Action (optional)
 
 Now instead of manually building the static files and pushing manually to the repository, trigger a github action for the main repository, which generates the static files and pushes it to the github page repo.
 
