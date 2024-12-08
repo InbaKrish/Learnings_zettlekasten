@@ -234,8 +234,9 @@ jobs:
           publish_dir: ./public
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-
 ```
+
+**Hola!**, Now we have improved the automated setup, now steps just involves the files and image sync from obsidian to Hugo project, commit all the push. From the hugo project the Github action deploys the static site to the github page configures repo using the PAT_TOKEN.
 
 
 ![[Pasted image 20241207210218.png]]
