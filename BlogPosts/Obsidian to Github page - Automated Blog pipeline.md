@@ -185,6 +185,7 @@ Now instead of manually building the static files and pushing manually to the re
 
 1. Create personal access token, as we need to access another repo create access token with repo and workflow scopes.![[Pasted image 20241208112436.png]]
 2. Create `production` environment and add the PAT_TOKEN secret ![[Pasted image 20241208112652.png]] 
+3. Use the below Github deploy workflow (the work)
 
 
 
