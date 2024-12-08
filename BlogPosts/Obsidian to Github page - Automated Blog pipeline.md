@@ -19,7 +19,7 @@ Every developer has their own preferred tool for taking notes. But if you haven�
 
 > **Obsidian** is, hands down, the best note-taking application for developers. If you haven't tried it yet, do yourself a favor—[download Obsidian now](https://obsidian.md/)!
 
-With Obsidian, all aspects of the blogging process come together seamlessly. You can ideate, organize notes, draft posts, and even template your blog—all within a single, powerful tool. And with its support for **Markdown**, writing and formatting your posts becomes a breeze.
+With Obsidian, all aspects of the blogging process come together seamlessly. You can ideate, organize notes, draft posts, and even template your blog—all within a single, powerful tool and with its support for **Markdown**, writing and formatting your posts becomes a breeze.
 
 For blog contents add some front matter/properties like title, data, and tags (based on Hugo themes they support variety of options).
 ```md
@@ -36,7 +36,7 @@ tags:
 ----
 ## Go - Hugo
 
-But with Obsidian, how to make the markdown written content to html? [Hugo](https://gohugo.io/), makes it hassle-free and with Hugo’s user-friendly setup and an extensive community of [themes](https://themes.gohugo.io/), you can create a professional-looking site with minimal effort.
+But how to make the Obsidian's markdown written content to html? [Hugo](https://gohugo.io/), makes it hassle-free and with Hugo’s user-friendly setup and an extensive community of [themes](https://themes.gohugo.io/), you can create a professional-looking site with minimal effort.
 
 * Install Hugo - https://gohugo.io/installation, with all the mentioned prerequisites.
 * Create a Hugo project (I'm using yaml for my configurations) and configure the Hugo theme of you choice.
@@ -45,18 +45,18 @@ hugo new site MyPersonalBlogSite -f yaml
 ```
 
 ### Hugo Theme
-For my blog, I'm using [Papermod](https://themes.gohugo.io/themes/hugo-papermod/) theme. You can choose any, and go over the installation steps and ready to go. For Papermode refer - [Papermod installation wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation).
+For my blog, I'm using [Papermod](https://themes.gohugo.io/themes/hugo-papermod/) theme. You can choose any, and go over the installation steps and ready to go. For Papermod refer - [Papermod installation wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation).
 
 ----
 
 ### Sync Obsidian content to Hugo
 
-For mac/linux use [rsync](https://www.geeksforgeeks.org/rsync-command-in-linux-with-examples/) to sync the content from Obsidian folder to Hugo content.
+For mac/linux use [rsync](https://www.geeksforgeeks.org/rsync-command-in-linux-with-examples/) to sync the content from Obsidian folder to Hugo content. For windows there are similar tools like 
 ```sh
 rsync -av --delete "sourcepath" "destinationpath"
 ```
 
-Under obsidian, create a new folder to manager your blog content `<obsidian vault>/BlogPosts` and for the hugo project the content should be copied to `<hugo project root>/content/posts`.
+Under obsidian, create a new folder to manage your blog content `<obsidian vault>/BlogPosts` and for the hugo project the content should be copied to `<hugo project root>/content/posts`.
 
 **But there's a issue**, with the above command the text content of the files get synced, but Obsidian handles the attachment in a different way like in the root folder (default) or as per the folder configuration configured by the individuals.
 
