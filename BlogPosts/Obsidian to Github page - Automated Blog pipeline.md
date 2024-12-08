@@ -181,7 +181,8 @@ use **Deploy from a branch**, with the **main** branch. After the configuration 
 
 ### Automate deployment using - Github Action
 
-Now instead of manually building the static files and pushing manually to the repository, trigger a github action for the main 
+Now instead of manually building the static files and pushing manually to the repository, trigger a github action for the main repository, which generates the static files and pushes it to the github page repo.
+
 
 
 ![[Pasted image 20241207210218.png]]
