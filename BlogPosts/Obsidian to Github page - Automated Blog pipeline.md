@@ -179,5 +179,9 @@ use **Deploy from a branch**, with the **main** branch. After the configuration 
 
 > NOTE - If you want custom domain configuration, refer to the [official docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) and it can be configured such.
 
+### Automate deployment using - Github Action
+
+Now instead of manually building the static files and pushing manually to the repository, trigger a github action for the main 
+
 
 ![[Pasted image 20241207210218.png]]
