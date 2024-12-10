@@ -35,9 +35,7 @@ Producer writes to a single leader and it replicates to the follower replicas.
 
 [[Zookeeper]] / [[Kraft]] manages the metadata for leader management, like if any of the broker goes down, it manages and elects the next leader for the partitions.
 
-Having single leader per broker acts as a load balancing strategy.
-
-
+Having single leader per broker acts as a load balancing strategy, increasing the throughput.
 
 ### Consumer Group
 ![[Pasted image 20241204205452.png]]
