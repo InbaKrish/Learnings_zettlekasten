@@ -266,9 +266,19 @@
               "icon": "lucide-list",
               "title": "Outline of Apache Kafka"
             }
+          },
+          {
+            "id": "f510807024d249e7",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -281,10 +291,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "a7288fb9f7b6930e",
+  "active": "f510807024d249e7",
   "lastOpenFiles": [
     "Pasted image 20241210210908.png",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",

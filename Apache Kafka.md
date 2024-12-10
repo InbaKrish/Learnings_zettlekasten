@@ -25,7 +25,9 @@ Splitting up the topic to store large data based on certain criteria.
 Each kafka broker holds n number of partitions and each of these can either be a leader/replica for each topic. All read & writes of the topic goes through the leader. 
 
 **Leader** is a role asssigned to a partition under a broker like in this example,
--> Partition 0 is the leader in 
+-> For partition 0 Broker 1 is the leader,
+-> For p1 b2
+-> For p2 b3
 ![[Pasted image 20241210210908.png]]
 
 ### Consumer Group
