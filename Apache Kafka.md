@@ -30,6 +30,15 @@ Each kafka broker holds n number of partitions and each of these can either be a
 -> For p2 b3
 ![[Pasted image 20241210210908.png]]
 
+Producer writes to a single leader and it replicates to the follower replicas.
+![[Pasted image 20241210212310.png]]
+
+[[Zookeeper]] / [[Kraft]] manages the metadata for leader management, like if any of the broker goes down, it manages and elects the next leader for the partitions.
+
+Having single leader per broker acts as a load balancing strategy.
+
+
+
 ### Consumer Group
 ![[Pasted image 20241204205452.png]]
 Used to parallel process the messages from a topic by assigning a consumer to a partition.
