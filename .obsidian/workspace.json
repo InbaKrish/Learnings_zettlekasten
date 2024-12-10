@@ -103,28 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
+                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ActiveRecord - DuckDB - Adapter"
-            }
-          },
-          {
-            "id": "bd057ec1a3acc7b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apache Kafka.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apache Kafka"
+              "title": "Supermemory AI - Clone in Rails"
             }
           },
           {
@@ -158,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -299,9 +284,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd057ec1a3acc7b9",
+  "active": "a7288fb9f7b6930e",
   "lastOpenFiles": [
+    "Apache Kafka.md",
+    "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
+    "Hashing.md",
+    "Digital Signature and verification.md",
     "Pasted image 20241208113243.png",
     "Pasted image 20241208112656.png",
     "Pasted image 20241208112652.png",
@@ -314,14 +303,12 @@
     "KLQ29UJS.jpeg",
     "vector_based_img_search_ror.pdf",
     "Pasted image 20230724141302 1.png",
-    "Apache Kafka.md",
     "BlogPosts",
     "Untitled.md",
     "Thread.md",
     "Kafka.md",
     "Process.md",
     "Nginx.md",
-    "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "RubyConf 2024 - CFP.md",
     "Blog-Foundry",
     "RubyConf - Catching the AI Train.md",
@@ -336,8 +323,6 @@
     "URL Encoding.md",
     "Symmetric Encryption.md",
     "Hybrid Encryption.md",
-    "Hashing.md",
-    "Digital Signature and verification.md",
     "Base64 Encoding.md",
     "Asymmetric Encryption.md",
     "Misc/crypt-play/important.txt",
