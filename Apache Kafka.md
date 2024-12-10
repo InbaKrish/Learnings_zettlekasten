@@ -22,7 +22,10 @@ Producer pushes the messages to the topic, and consumer polls the message using 
 Splitting up the topic to store large data based on certain criteria.
 ![[Pasted image 20241204203019.png]]
 
-Each kafka broker holds n number of partitions and each of these can either be a leader/replica for each topic. All read & writes of the topic goes through 
+Each kafka broker holds n number of partitions and each of these can either be a leader/replica for each topic. All read & writes of the topic goes through the leader. 
+
+**Leader** is a role asssigned to a partition under a broker like in this example,
+-> Partition 0 is the leader in 
 ![[Pasted image 20241210210908.png]]
 
 ### Consumer Group
