@@ -3,6 +3,8 @@ tags:
   - SystemDesign
   - Stream
   - DataDriven
+Reference:
+  - https://sookocheff.com/post/kafka/kafka-in-a-nutshell/
 ---
 ### Event
 Trggeri, notification, when-ness
