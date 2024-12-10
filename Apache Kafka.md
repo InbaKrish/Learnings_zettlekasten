@@ -40,8 +40,14 @@ Having single leader per broker acts as a load balancing strategy, increasing th
 ### Replication
 During broker, topic and partitions setup based on the `replication_factor`, it determines the partition split. (`replication_factor = 1` means no replication - each partitions are spread across the available brokers)
 
-Say TestTopic with 2 brokers () with 4 partitions,
+Say TestTopic with 2 brokers (b1, b2) with 4 partitions (p0,p1,p2,p3),
 -> For replication_factor = 1,
+	-> b1 hold p0, p1
+	-> b2 hold p2, p3
+-> For replication_factor = 2 (each partition is replicated on both brokers)
+	-> p0 - leader on b1, replica on b2
+	-> p1 - leader on b2, replica on b1
+	-> 
 
 
 ### Consumer Group
