@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-Foundry/Supermemory AI - Clone in Rails.md",
+                "file": "Apache Kafka.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supermemory AI - Clone in Rails"
+              "title": "Apache Kafka"
             }
           },
           {
@@ -286,6 +286,7 @@
   },
   "active": "a7288fb9f7b6930e",
   "lastOpenFiles": [
+    "Project-Foundry/Supermemory AI - Clone in Rails.md",
     "Apache Kafka.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
@@ -316,7 +317,6 @@
     "Sidekiq - Booting up.md",
     "Sidekiq - Signal Handling.md",
     "Project-Foundry/Web page save - Ruby gem.md",
-    "Project-Foundry/Supermemory AI - Clone in Rails.md",
     "Project-Foundry",
     "Cache Invalidation.md",
     "ETL.md",
