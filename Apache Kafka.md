@@ -37,6 +37,13 @@ Producer writes to a single leader and it replicates to the follower replicas.
 
 Having single leader per broker acts as a load balancing strategy, increasing the throughput.
 
+### Replication
+During broker, topic and partitions setup based on the `replication_factor`, it determines the partition split. (`replication_factor = 1` means no replication - each partitions are spread across the available brokers)
+
+Say TestTopic with 2 brokers () with 4 partitions,
+-> For replication_factor = 1,
+
+
 ### Consumer Group
 ![[Pasted image 20241204205452.png]]
 Used to parallel process the messages from a topic by assigning a consumer to a partition.
