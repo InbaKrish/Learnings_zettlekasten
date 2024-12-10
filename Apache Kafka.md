@@ -45,9 +45,23 @@ Say TestTopic with 2 brokers (b1, b2) with 4 partitions (p0,p1,p2,p3),
 	-> b1 hold p0, p1
 	-> b2 hold p2, p3
 -> For replication_factor = 2 (each partition is replicated on both brokers)
-	-> p0 - leader on b1, replica on b2
-	-> p1 - leader on b2, replica on b1
-	-> 
+	-> p0, p2 - leader on b1, replica on b2
+	-> p1, p3 - leader on b2, replica on b1
+
+in this scenario the consumer group will act like,
+**Consumer Group A**:
+- 2 consumers (`C1`, `C2`).
+- Kafka ensures that **all partitions are assigned** across the consumers:
+    - `C1` reads from partitions `P0` and `P1`.
+    - `C2` reads from partitions `P2` and `P3`.
+
+**Consumer Group B**:
+- 4 consumers (`C1`, `C2`, `C3`, `C4`).
+- Kafka can assign **one partition per consumer**:
+    - `C1` reads from `P0`.
+    - `C2` reads from `P1`.
+    - `C3` reads from `P2`.
+    - `C4` reads from `P3`.
 
 
 ### Consumer Group
