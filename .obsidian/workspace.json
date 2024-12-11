@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apache Kafka.md",
+                "file": "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Kafka"
+              "title": "Obsidian to Github page - Automated Blog pipeline"
             }
           },
           {
@@ -297,10 +297,10 @@
   },
   "active": "a7288fb9f7b6930e",
   "lastOpenFiles": [
+    "Apache Kafka.md",
     "Pasted image 20241210212310.png",
     "Pasted image 20241210210908.png",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
-    "Apache Kafka.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
     "Hashing.md",
@@ -314,7 +314,6 @@
     "Pasted image 20241207205612.png",
     "Pasted image 20241207201814.png",
     "BlogPosts/Blog setup.md",
-    "KLQ29UJS.jpeg",
     "vector_based_img_search_ror.pdf",
     "BlogPosts",
     "Untitled.md",
