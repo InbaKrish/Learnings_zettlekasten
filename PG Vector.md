@@ -14,3 +14,4 @@ Combined with [[pgvectorscale]], [[pgai]], PostgreSQL can be a full fledged vect
 
 ![[Pasted image 20241221211518.png]]
 
+![[Pasted image 20241221214500.png]]
