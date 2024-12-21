@@ -11,3 +11,6 @@ Reference:
 -> Provides vector search indexes like [[HNSW]], [[IVFFLAT]]
 
 Combined with [[pgvectorscale]], [[pgai]], PostgreSQL can be a full fledged vector database.
+
+![[Pasted image 20241221211518.png]]
+
