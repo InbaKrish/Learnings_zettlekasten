@@ -17,4 +17,3 @@ WHERE condition;
 ```
 
 Need to be refreshed to update with the latest SQL response.
-
