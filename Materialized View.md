@@ -15,3 +15,6 @@ SELECT column1, column2, ...
 FROM table_name    
 WHERE condition;
 ```
+
+Need to be refreshed to update with the latest SQL response.
+
