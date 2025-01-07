@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -357,12 +357,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c72324bbea0c91f6",
+  "active": "aa62e6aca0f00693",
   "lastOpenFiles": [
-    "Thread.md",
-    "SDE Abroad.md",
-    "Materialized View.md",
     "AI Agents.md",
+    "Materialized View.md",
+    "SDE Abroad.md",
+    "Thread.md",
     "PG Vector.md",
     "Pasted image 20241221214500.png",
     "Pasted image 20241221211518.png",
