@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PG Vector.md",
+                "file": "AI Agents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PG Vector"
+              "title": "AI Agents"
             }
           },
           {
@@ -359,11 +359,11 @@
   },
   "active": "aa62e6aca0f00693",
   "lastOpenFiles": [
+    "PG Vector.md",
     "AI Agents.md",
     "Materialized View.md",
     "SDE Abroad.md",
     "Thread.md",
-    "PG Vector.md",
     "Pasted image 20241221214500.png",
     "Pasted image 20241221211518.png",
     "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
