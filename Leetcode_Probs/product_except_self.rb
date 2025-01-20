@@ -23,15 +23,12 @@ def product_except_self(nums)
         j -= 1
     end
 
-    p prefix_prd
-    p suffix_prd
-
     result = [suffix_prd[-1]]
-    p result
     i = 0
 
     while i < n - 1 do
-        result << prefix_prd[i] * suffix_prd[i-2]
+        p i, -(i+2), result
+        result << prefix_prd[i] * suffix_prd[-(i+2)]
         i += 1
     end
 
