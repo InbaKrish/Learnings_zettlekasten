@@ -4,8 +4,10 @@ end
 
 def pes1bf(nums)
     (0..nums.size).each do |i|
-        prefix = nums[:i]
-        suffix = nums[i:]
+        prefix = i.zero? ? [] : nums.slice(..i-1)
+        suffix = nums.slice(i+1..)
+        p prefix
+        p suffix
     end
 end
 
