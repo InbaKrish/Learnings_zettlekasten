@@ -131,3 +131,5 @@ Nobody can predict the future with certainty. The tech industry thrives on evolu
 **Remember:** _"Focus on the present, adapt to change, and keep learning."_
 
 The future belongs to those who evolve with it.
+
+![[Pasted image 20250120204149.png]]
