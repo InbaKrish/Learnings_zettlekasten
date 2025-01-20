@@ -23,6 +23,9 @@ def product_except_self(nums)
         j -= 1
     end
 
+    p prefix_prd
+    p suffix_prd
+
     result = [suffix_prd[-1]]
     p result
     i = 0
