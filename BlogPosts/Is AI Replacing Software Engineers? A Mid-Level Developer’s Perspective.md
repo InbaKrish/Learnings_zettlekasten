@@ -64,6 +64,8 @@ Gone are the days of large DevOps teams managing on-prem servers. With cloud inf
 
 ## Don’t Panic – Adapt
 
+The Rise of the AI Engineer[https://www.latent.space/p/ai-engineer]
+
 ### Efficiency Is the New Metric
 
 AI enhances productivity. If fewer engineers can achieve the same output, companies may hire less. But this doesn’t mean AI will replace engineers outright.
