@@ -13,7 +13,18 @@ def product_except_self(nums)
             prefix_prd << nums[i]
         end
 
-        
+        if suffix_prd.last
+            suffix_prd << suffix_prd.last * nums[j]
+        else
+            suffix_prd << nums[j]
+        end
+
+        i += 1
+        j -= 1
+    end
+
+    p prefix_prd
+    p suffix_prd
 end
 
 def pes1bf(nums)
