@@ -64,7 +64,7 @@ Gone are the days of large DevOps teams managing on-prem servers. With cloud inf
 
 ## Don’t Panic – Adapt
 
-The Rise of the AI Engineer[https://www.latent.space/p/ai-engineer]
+I would suggest a read of [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
 
 ### Efficiency Is the New Metric
 
@@ -78,6 +78,7 @@ AI enhances productivity. If fewer engineers can achieve the same output, compan
     
 3. **Adaptability:** Stay updated with new tools and frameworks.
     
+![[Pasted image 20250120203836.png]]
 
 ### The Expanding Pie
 
