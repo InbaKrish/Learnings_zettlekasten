@@ -6,7 +6,14 @@ def product_except_self(nums)
     j = -1
     n = nums.size
 
-    while i < n && j > -n
+    while i < n && j > -n do
+        if prefix_prd.last
+            prefix_prd << prefix_prd.last * nums[i]
+        else
+            prefix_prd << nums[i]
+        end
+
+        
 end
 
 def pes1bf(nums)
