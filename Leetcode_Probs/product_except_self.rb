@@ -43,7 +43,7 @@ def pes_opt_sol(nums)
     prefix_prd = 1
     for i in 0...n
         result[i] = prefix_prd
-        prefix_prd *= result[i]
+        prefix_prd *= nums[i]
     end
 
     suffix_prd = 1
