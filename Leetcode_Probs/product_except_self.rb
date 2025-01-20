@@ -36,6 +36,26 @@ def product_except_self(nums)
     result
 end
 
+def pes_opt_sol(nums)
+    n = nums.size
+    result = Array.new(n, 0)
+
+    prefix_prd = 1
+    for i in 0...n
+        result[i] = prefix_prd
+        prefix_prd *= result[i]
+    end
+
+    suffix_prd = 1
+    for i in (n-1).downto(0)
+        result[i] *= suffix_prd
+        suffix_prd *= nums[i]
+    end
+
+    result
+end
+
+
 def pes1bf(nums)
     result = []
     (0..nums.size - 1).each do |i|
