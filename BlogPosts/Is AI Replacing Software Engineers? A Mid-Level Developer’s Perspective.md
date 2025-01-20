@@ -97,7 +97,7 @@ While individual companies might need fewer engineers, the industry’s scope is
 - **AI Engineers** are in demand to build and maintain these systems.
     
 
-**Example:** Even OpenAI, the creators of ChatGPT, are hiring engineers with salaries as high as $400k. Clearly, there’s no AI apocalypse for developers.
+**Example:** Even OpenAI, the creators of ChatGPT, are [hiring engineers](https://openai.com/careers/software-engineer-frontend/) with salaries as high as $400k. Clearly, there’s no AI apocalypse for developers.
 
 ---
 
