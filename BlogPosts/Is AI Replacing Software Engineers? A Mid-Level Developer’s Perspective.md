@@ -2,8 +2,8 @@ The tech world is abuzz with statements from industry leaders like Mark Zuckerbe
 
 ## The Bold Claims
 
-**Mark Zuckerberg:** _"Probably in 2025, Meta will have AI that can function as a mid-level engineer."
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/FlGFojKkIPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Mark Zuckerberg:** _"Probably in 2025, Meta will have AI that can function as a mid-level engineer."_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vol1qJB2waE?si=OOPOLaK20VIprzoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Salesforce CEO:** _"We’re not adding any more engineers next year because AI has boosted productivity."_
 
