@@ -1,5 +1,12 @@
 def product_except_self(nums)
-    
+    prefix_prd = []
+    suffix_prd = []
+
+    i = 0
+    j = -1
+    n = nums.size
+
+    while i < n && j > -n
 end
 
 def pes1bf(nums)
