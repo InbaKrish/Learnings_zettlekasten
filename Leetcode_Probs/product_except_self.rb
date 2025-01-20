@@ -26,13 +26,14 @@ def product_except_self(nums)
     result = [suffix_prd[-1]]
     i = 0
 
-    while i < n - 1 do
-        p i, -(i+2), result
+    while i < n - 2 do
         result << prefix_prd[i] * suffix_prd[-(i+2)]
         i += 1
     end
 
-    p result
+    result << prefix_prd[-1]
+
+    result
 end
 
 def pes1bf(nums)
