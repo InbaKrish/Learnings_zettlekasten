@@ -30,6 +30,7 @@ But let’s pause and ask: how often have predictions about technology unfolded 
 Tech leaders are visionary, but that doesn’t make them infallible. Recall the bold claims about the metaverse a few years ago:
 
 _"Starting today, our company is now Meta. We’re bringing the metaverse to life."_
+![[Pasted image 20250120205752.png]]
 
 Yet here we are, not living entirely in VR headsets. Predictions are just that – forecasts based on current trends, not crystal balls.
 
