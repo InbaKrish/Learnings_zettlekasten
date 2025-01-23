@@ -13,3 +13,6 @@ O(n log n) - Linearthmic
 O(n^2) - quadratic
 O(2^n) - exponential
 O(n!) - factorial
+
+![[Pasted image 20250123211058.png]]
+
