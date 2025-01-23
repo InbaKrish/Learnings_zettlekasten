@@ -6,3 +6,10 @@ Reference:
 ---
 How running time of an algorithm increases with the size of the input data.
 
+O(1) - constant 
+O(log n) - logarithmic
+O(n) - linear
+O(n log n) - Linearthmic
+O(n^2) - quadratic
+O(2^n) - exponential
+O(n!) - factorial
