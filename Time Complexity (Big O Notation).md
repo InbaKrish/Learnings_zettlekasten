@@ -16,3 +16,10 @@ O(n!) - factorial
 
 ![[Pasted image 20250123211058.png]]
 
+
+## Notation types
+
+Big O - Upper bound (worst case)
+Big Ω - lower bound (best case)
+Big Θ (theta) - Tight bound (average case)
+
