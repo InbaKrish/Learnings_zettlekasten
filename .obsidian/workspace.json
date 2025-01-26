@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -386,10 +386,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "e3883d804912723d",
+  "active": "a7efb4aa8a1a7b8a",
   "lastOpenFiles": [
-    "Amortized Time.md",
     "Time & Space Complexity (Big O Notation).md",
+    "Amortized Time.md",
     "Project-Foundry/One Place - Fashion AI.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
     "Pasted image 20250123211058.png",
