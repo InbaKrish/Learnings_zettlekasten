@@ -7,4 +7,5 @@ tags:
 
 -> Make users integrate/add apps of their choices 
 -> auto link available products through google sso
--> ask for c
+-> ask for custom integrations
+-> manage SSO session
