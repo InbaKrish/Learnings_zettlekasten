@@ -25,3 +25,5 @@ Big Θ (theta) - Tight bound (average case)
 
 -> For method call stacks, that will add up to the space complexity, like for recursive functions each method calls under the stack adds up to the space complexity, therefore `n` method recursive calls in the stack adds to the complexity as `O(n)`.
 
+[[Amortized Time]]
+

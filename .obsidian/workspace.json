@@ -143,6 +143,21 @@
             }
           },
           {
+            "id": "a7efb4aa8a1a7b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amortized Time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amortized Time"
+            }
+          },
+          {
             "id": "68435775ccfe2702",
             "type": "leaf",
             "state": {
@@ -373,9 +388,10 @@
   },
   "active": "e3883d804912723d",
   "lastOpenFiles": [
+    "Amortized Time.md",
+    "Time & Space Complexity (Big O Notation).md",
     "Project-Foundry/One Place - Fashion AI.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
-    "Time & Space Complexity (Big O Notation).md",
     "Pasted image 20250123211058.png",
     "BlogPosts/Is AI Replacing Software Engineers? A Mid-Level Developer’s Perspective.md",
     "Leetcode_Probs/product_except_self.rb",
@@ -414,7 +430,6 @@
     "Project-Foundry/Web page save - Ruby gem.md",
     "Project-Foundry",
     "Cache Invalidation.md",
-    "ETL.md",
     "Misc/crypt-play/important.txt",
     "Misc/crypt-play/crypto-commands.txt",
     "Misc/crypt-play",
