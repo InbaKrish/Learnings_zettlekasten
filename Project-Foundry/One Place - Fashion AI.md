@@ -9,3 +9,6 @@ tags:
 -> auto link available products through google sso
 -> ask for custom integrations
 -> manage SSO session
+
+---
+### Chat GPT validation
