@@ -38,3 +38,7 @@ spec:
         - configMapRef:
             name: example-configmap
 ```
+
+Mounted volume,
+```ya
+```
