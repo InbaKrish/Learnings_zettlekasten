@@ -292,7 +292,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config Map.md",
+                "file": "Config Map & Secrets - K8s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -307,7 +307,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Config Map"
+              "title": "Config Map & Secrets - K8s"
             }
           },
           {
@@ -601,7 +601,7 @@
   "active": "0b8dd15ffe8d0b23",
   "lastOpenFiles": [
     "Ingress Controller.md",
-    "Config Map.md",
+    "Config Map & Secrets - K8s.md",
     "Ingress.md",
     "Services in K8s.md",
     "Pasted image 20250219200457.png",
