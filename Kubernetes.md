@@ -9,4 +9,12 @@ Container orchestration, provides high availability, scalability and disaster re
 
 ### Nodes
 physical/virtual machine which handles the pods runtime, networking, and other services.
-Components of node - [[Kubelet]], [[Kube-pro]]
+Components of node - [[Kubelet]], [[Kube-proxy]], [[Container Runtime]]
+
+### Pods
+
+Smallest deployable unit in Kubernetes. 
+-> Can have 1 to n number of containers inside a single pod, which communicates over localhost.
+-> Each containers insider the pod shares volumes configured.
+-> Pods are ephemeral - pods are easy to be replaced/displaced. 
+
