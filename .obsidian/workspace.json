@@ -215,6 +215,30 @@
             }
           },
           {
+            "id": "4aaec23c0ff0846d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingress & Ingress Controller.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ingress & Ingress Controller"
+            }
+          },
+          {
             "id": "d13f29aaede0ec69",
             "type": "leaf",
             "state": {
@@ -314,7 +338,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -468,10 +492,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "3d1730a5807c7044",
+  "active": "4aaec23c0ff0846d",
   "lastOpenFiles": [
-    "Kubernetes.md",
     "Services in K8s.md",
+    "Ingress & Ingress Controller.md",
+    "Kubernetes.md",
     "Nodes & Pods - K8s.md",
     "Pasted image 20250219193628.png",
     "Amortized Time.md",
@@ -510,7 +535,6 @@
     "Blog-Foundry",
     "RubyConf - Catching the AI Train.md",
     "Sidekiq - Launch.md",
-    "Sidekiq - Booting up.md",
     "Project-Foundry",
     "Misc/crypt-play/important.txt",
     "Misc/crypt-play/crypto-commands.txt",
