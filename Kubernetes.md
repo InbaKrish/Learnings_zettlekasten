@@ -6,3 +6,7 @@ Reference:
 ---
 
 Container orchestration, provides high availability, scalability and disaster recovery
+
+### Nodes
+physical/virtual machine which handles the pods runtime, networking, and other services.
+Components of node - [[Kubelet]], [[Kube-pro]]
