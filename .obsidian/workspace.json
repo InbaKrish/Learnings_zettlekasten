@@ -167,6 +167,30 @@
             }
           },
           {
+            "id": "de425510994b84a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kubernetes"
+            }
+          },
+          {
             "id": "68435775ccfe2702",
             "type": "leaf",
             "state": {
@@ -242,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -396,10 +420,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a7efb4aa8a1a7b8a",
+  "active": "de425510994b84a1",
   "lastOpenFiles": [
-    "Time & Space Complexity (Big O Notation).md",
     "Amortized Time.md",
+    "Kubernetes.md",
+    "Time & Space Complexity (Big O Notation).md",
     "Project-Foundry/One Place - Fashion AI.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
     "Pasted image 20250123211058.png",
@@ -439,7 +464,6 @@
     "Sidekiq - Signal Handling.md",
     "Project-Foundry/Web page save - Ruby gem.md",
     "Project-Foundry",
-    "Cache Invalidation.md",
     "Misc/crypt-play/important.txt",
     "Misc/crypt-play/crypto-commands.txt",
     "Misc/crypt-play",
