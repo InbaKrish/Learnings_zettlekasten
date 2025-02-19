@@ -191,6 +191,54 @@
             }
           },
           {
+            "id": "3d1730a5807c7044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Services in K8s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Services in K8s"
+            }
+          },
+          {
+            "id": "d13f29aaede0ec69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodes & Pods - K8s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nodes & Pods - K8s"
+            }
+          },
+          {
             "id": "68435775ccfe2702",
             "type": "leaf",
             "state": {
@@ -266,7 +314,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -420,11 +468,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "de425510994b84a1",
+  "active": "3d1730a5807c7044",
   "lastOpenFiles": [
+    "Kubernetes.md",
+    "Services in K8s.md",
+    "Nodes & Pods - K8s.md",
     "Pasted image 20250219193628.png",
     "Amortized Time.md",
-    "Kubernetes.md",
     "Time & Space Complexity (Big O Notation).md",
     "Project-Foundry/One Place - Fashion AI.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
@@ -450,7 +500,6 @@
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Hashing.md",
     "Digital Signature and verification.md",
-    "Pasted image 20241208113243.png",
     "BlogPosts/Blog setup.md",
     "vector_based_img_search_ror.pdf",
     "BlogPosts",
@@ -462,7 +511,6 @@
     "RubyConf - Catching the AI Train.md",
     "Sidekiq - Launch.md",
     "Sidekiq - Booting up.md",
-    "Sidekiq - Signal Handling.md",
     "Project-Foundry",
     "Misc/crypt-play/important.txt",
     "Misc/crypt-play/crypto-commands.txt",
