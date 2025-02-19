@@ -292,7 +292,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config Map & Secrets - K8s.md",
+                "file": "Services in K8s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -307,7 +307,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Config Map & Secrets - K8s"
+              "title": "Services in K8s"
             }
           },
           {
@@ -600,8 +600,9 @@
   },
   "active": "0b8dd15ffe8d0b23",
   "lastOpenFiles": [
-    "Ingress Controller.md",
     "Config Map & Secrets - K8s.md",
+    "Pasted image 20250219202827.png",
+    "Ingress Controller.md",
     "Ingress.md",
     "Services in K8s.md",
     "Pasted image 20250219200457.png",
@@ -628,7 +629,6 @@
     "SDE Abroad.md",
     "Thread.md",
     "Pasted image 20241221214500.png",
-    "Pasted image 20241221211518.png",
     "Apache Kafka.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Hashing.md",
@@ -639,7 +639,6 @@
     "Kafka.md",
     "Process.md",
     "Nginx.md",
-    "RubyConf 2024 - CFP.md",
     "Blog-Foundry",
     "Project-Foundry",
     "Misc/crypt-play/important.txt",

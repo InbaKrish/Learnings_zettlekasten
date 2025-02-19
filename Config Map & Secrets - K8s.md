@@ -64,3 +64,8 @@ spec:
 Similar to configmap, but the values are encrypted. 
 
 	By default the encryption is not followedm and is stored as plain values.
+
+By utilizing ConfigMaps and Secrets, Kubernetes enables the separation of configuration data from application code, enhancing security and flexibility in managing containerized applications.
+
+![[Pasted image 20250219202827.png]]
+
