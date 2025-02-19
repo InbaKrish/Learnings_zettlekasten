@@ -21,3 +21,7 @@ Smallest deployable unit in Kubernetes.
 
 ![[Pasted image 20250219193628.png]]
 
+### Services
+
+Abstraction config for the pods and a policy to access them, as the pods are ephemeral 
+
