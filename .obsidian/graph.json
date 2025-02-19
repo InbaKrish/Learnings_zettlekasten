@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "kuber",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 9.27083333333333,
   "linkStrength": 0.661458333333333,
   "linkDistance": 294,
-  "scale": 8,
-  "close": true
+  "scale": 0.4174059641172202,
+  "close": false
 }

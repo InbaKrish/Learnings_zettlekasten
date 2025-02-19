@@ -11,7 +11,3 @@ Key components of [[Kubernetes]]
 
 We can configure the rules in the ingress to routing the external traffic to internal services, say based on the hostname or path, etc,.
 
-### Ingress Controller
-
-Ingress is handled via the Ingress controller, using a [[Load Balance]] or a [[]]
-

@@ -172,7 +172,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Ingress Controller.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -187,7 +187,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "Ingress Controller"
             }
           },
           {
@@ -218,24 +218,10 @@
             "id": "4aaec23c0ff0846d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingress & Ingress Controller.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ingress & Ingress Controller"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -338,7 +324,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -492,11 +478,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "4aaec23c0ff0846d",
+  "active": "de425510994b84a1",
   "lastOpenFiles": [
-    "Services in K8s.md",
-    "Ingress & Ingress Controller.md",
+    "Ingress.md",
+    "Ingress Controller.md",
     "Kubernetes.md",
+    "Services in K8s.md",
     "Nodes & Pods - K8s.md",
     "Pasted image 20250219193628.png",
     "Amortized Time.md",
@@ -534,7 +521,6 @@
     "RubyConf 2024 - CFP.md",
     "Blog-Foundry",
     "RubyConf - Catching the AI Train.md",
-    "Sidekiq - Launch.md",
     "Project-Foundry",
     "Misc/crypt-play/important.txt",
     "Misc/crypt-play/crypto-commands.txt",
