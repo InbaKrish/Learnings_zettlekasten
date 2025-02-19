@@ -191,6 +191,102 @@
             }
           },
           {
+            "id": "b9f1e2bffdb922bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingress.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ingress"
+            }
+          },
+          {
+            "id": "4d2d13a494a66ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Services in K8s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Services in K8s"
+            }
+          },
+          {
+            "id": "ea0d9d6a7f857281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingress.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ingress"
+            }
+          },
+          {
+            "id": "f9025cf4f20bd5d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingress Controller.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ingress Controller"
+            }
+          },
+          {
             "id": "3d1730a5807c7044",
             "type": "leaf",
             "state": {
@@ -324,7 +420,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -478,12 +574,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "de425510994b84a1",
+  "active": "f9025cf4f20bd5d9",
   "lastOpenFiles": [
     "Ingress.md",
-    "Ingress Controller.md",
-    "Kubernetes.md",
     "Services in K8s.md",
+    "Pasted image 20250219200457.png",
+    "Ingress Controller.md",
+    "Pasted image 20250219200444.png",
+    "Kubernetes.md",
     "Nodes & Pods - K8s.md",
     "Pasted image 20250219193628.png",
     "Amortized Time.md",
@@ -507,8 +605,6 @@
     "Pasted image 20241221214500.png",
     "Pasted image 20241221211518.png",
     "Apache Kafka.md",
-    "Pasted image 20241210212310.png",
-    "Pasted image 20241210210908.png",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Hashing.md",
     "Digital Signature and verification.md",
@@ -520,7 +616,6 @@
     "Nginx.md",
     "RubyConf 2024 - CFP.md",
     "Blog-Foundry",
-    "RubyConf - Catching the AI Train.md",
     "Project-Foundry",
     "Misc/crypt-play/important.txt",
     "Misc/crypt-play/crypto-commands.txt",

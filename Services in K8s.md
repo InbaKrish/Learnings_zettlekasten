@@ -33,3 +33,5 @@ spec:
 ```
 
 In this configuration, the Service routes external traffic from port 30007 on any node to port 80 of the selected Pods.
+
+![[Pasted image 20250219200457.png]]

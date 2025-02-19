@@ -43,5 +43,5 @@ To use the Ingress resources, [[Ingress Controller]] needs to be deployed in the
 
 Popular ingress controllers include [[Nginx]], [[Traefik]], [[HAProxy]]
 
-
+![[Pasted image 20250219200444.png]]
 
