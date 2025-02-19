@@ -40,5 +40,27 @@ spec:
 ```
 
 Mounted volume,
-```ya
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: example-pod
+spec:
+  containers:
+    - name: example-container
+      image: nginx
+      volumeMounts:
+        - name: config-volume
+          mountPath: /etc/config
+  volumes:
+    - name: config-volume
+      configMap:
+        name: example-configmap
 ```
+
+
+### Secrets
+
+Similar to configmap, but the values are encrypted. 
+
+	By default the encryption is not followedm and is stored as plain values.
