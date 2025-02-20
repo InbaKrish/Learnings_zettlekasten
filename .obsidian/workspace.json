@@ -338,10 +338,24 @@
             "id": "4aaec23c0ff0846d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Config Map & Secrets - K8s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Config Map & Secrets - K8s"
             }
           },
           {
@@ -444,7 +458,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -598,13 +612,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0b8dd15ffe8d0b23",
+  "active": "4aaec23c0ff0846d",
   "lastOpenFiles": [
+    "Services in K8s.md",
     "Config Map & Secrets - K8s.md",
     "Pasted image 20250219202827.png",
     "Ingress Controller.md",
     "Ingress.md",
-    "Services in K8s.md",
     "Pasted image 20250219200457.png",
     "Pasted image 20250219200444.png",
     "Kubernetes.md",

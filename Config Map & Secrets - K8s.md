@@ -3,6 +3,7 @@ tags:
   - SystemDesign
   - Cloud
 ---
+Components of [[Kubernetes]]
 ### Config Map
 
 Used to store config related ENV values inside the K8s cluste.
