@@ -8,3 +8,5 @@ Node agents runes on each node within the Kubernetes cluster. It communicates wi
 -> Monitoring
 -> Resource management
 
+![[Pasted image 20250223153900.png]]
+
