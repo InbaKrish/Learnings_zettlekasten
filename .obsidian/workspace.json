@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Nodes - K8s.md",
+                "file": "Master Nodes or Control Plane - K8s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Master Nodes - K8s"
+              "title": "Master Nodes or Control Plane - K8s"
             }
           }
         ],
@@ -214,7 +214,7 @@
   "active": "07009da77965ebf3",
   "lastOpenFiles": [
     "Kube-proxy.md",
-    "Master Nodes - K8s.md",
+    "Master Nodes or Control Plane - K8s.md",
     "Kubelet.md",
     "Pasted image 20250223153900.png",
     "Container Runtime.md",
