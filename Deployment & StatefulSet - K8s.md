@@ -5,6 +5,7 @@ tags:
 ---
 Component of [[Kubernetes]]
 
+![[Pasted image 20250223151607.png]]
 ### Deployment
 
 -> Blue print to manage the replicas of the pods in different nodes to avoid downtimes.
