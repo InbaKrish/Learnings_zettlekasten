@@ -3,4 +3,4 @@ tags:
   - SystemDesign
   - Cloud
 ---
-Network component r
+Network component running inside each nodes of the k8s cluster.

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kube-proxy.md",
+                "file": "Master Nodes - K8s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kube-proxy"
+              "title": "Master Nodes - K8s"
             }
           }
         ],
@@ -214,6 +214,7 @@
   "active": "07009da77965ebf3",
   "lastOpenFiles": [
     "Kube-proxy.md",
+    "Master Nodes - K8s.md",
     "Kubelet.md",
     "Pasted image 20250223153900.png",
     "Container Runtime.md",
@@ -250,7 +251,6 @@
     "Apache Kafka.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Hashing.md",
-    "Digital Signature and verification.md",
     "vector_based_img_search_ror.pdf",
     "BlogPosts",
     "Blog-Foundry",
