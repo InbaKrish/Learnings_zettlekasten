@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container Runtime.md",
+                "file": "Kubelet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Container Runtime"
+              "title": "Kubelet"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "c7fb0eae4c4eafce",
   "lastOpenFiles": [
-    "Nodes & Pods - K8s.md",
     "Container Runtime.md",
+    "Kubelet.md",
+    "Nodes & Pods - K8s.md",
     "Kubernetes.md",
     "Deployment & StatefulSet - K8s.md",
     "Pasted image 20250223151607.png",
@@ -227,7 +228,6 @@
     "BlogPosts/Blog setup.md",
     "vector_based_img_search_ror.pdf",
     "BlogPosts",
-    "Kafka.md",
     "Blog-Foundry",
     "Project-Foundry",
     "Misc/crypt-play/important.txt",
