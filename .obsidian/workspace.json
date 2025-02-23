@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "49618bddc952512e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scheduler - K8s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scheduler - K8s"
+            }
+          },
+          {
             "id": "81ef07a551d1c382",
             "type": "leaf",
             "state": {
@@ -235,11 +259,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "81ef07a551d1c382",
+  "active": "49618bddc952512e",
   "lastOpenFiles": [
-    "Pasted image 20250223155012.png",
-    "API server - K8s.md",
+    "Scheduler - K8s.md",
     "Master Nodes or Control Plane - K8s.md",
+    "API server - K8s.md",
+    "Pasted image 20250223155012.png",
     "Kube-proxy.md",
     "Kubelet.md",
     "Pasted image 20250223153900.png",
@@ -267,7 +292,6 @@
     "BlogPosts/Is AI Replacing Software Engineers? A Mid-Level Developer’s Perspective.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
-    "Pasted image 20250120205752.png",
     "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
     "AI Agents.md",
     "PG Vector.md",

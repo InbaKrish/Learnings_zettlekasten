@@ -9,4 +9,5 @@ Central management entity to oversee the entire clusters' operations. It ensures
 
 Contains the below processes,
 1. [[API server - K8s]]
-2. 
+2. [[Scheduler - K8s]]
+3. 
