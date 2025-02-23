@@ -11,4 +11,6 @@ Contains the below processes,
 1. [[API server - K8s]]
 2. [[Scheduler - K8s]]
 3. [[Controller Manager - K8s]]
-4. 
+4. [[etcd - K8s]]
+
+A cluster can have multiple master nodes.

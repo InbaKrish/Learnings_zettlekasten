@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "0a9c7c9916e3f9b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "etcd - K8s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "etcd - K8s"
+            }
+          },
+          {
             "id": "ea17e51cc4709b7c",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,11 +307,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ea17e51cc4709b7c",
+  "active": "07009da77965ebf3",
   "lastOpenFiles": [
-    "Pasted image 20250223155834.png",
-    "Controller Manager - K8s.md",
+    "etcd - K8s.md",
+    "Pasted image 20250223160147.png",
     "Master Nodes or Control Plane - K8s.md",
+    "Controller Manager - K8s.md",
+    "Pasted image 20250223155834.png",
     "Scheduler - K8s.md",
     "Pasted image 20250223155505.png",
     "API server - K8s.md",
@@ -309,8 +335,6 @@
     "Ingress Controller.md",
     "Ingress.md",
     "Pasted image 20250219200457.png",
-    "Pasted image 20250219200444.png",
-    "Pasted image 20250219193628.png",
     "Amortized Time.md",
     "Time & Space Complexity (Big O Notation).md",
     "Project-Foundry/One Place - Fashion AI.md",
@@ -322,7 +346,6 @@
     "AI Agents.md",
     "PG Vector.md",
     "Materialized View.md",
-    "SDE Abroad.md",
     "vector_based_img_search_ror.pdf",
     "BlogPosts",
     "Blog-Foundry",
