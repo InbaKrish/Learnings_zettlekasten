@@ -188,8 +188,9 @@
   },
   "active": "c7fb0eae4c4eafce",
   "lastOpenFiles": [
-    "Kubernetes.md",
+    "Nodes & Pods - K8s.md",
     "Container Runtime.md",
+    "Kubernetes.md",
     "Deployment & StatefulSet - K8s.md",
     "Pasted image 20250223151607.png",
     "Pasted image 20250223151329.png",
@@ -202,7 +203,6 @@
     "Ingress.md",
     "Pasted image 20250219200457.png",
     "Pasted image 20250219200444.png",
-    "Nodes & Pods - K8s.md",
     "Pasted image 20250219193628.png",
     "Amortized Time.md",
     "Time & Space Complexity (Big O Notation).md",
