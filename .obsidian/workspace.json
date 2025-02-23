@@ -388,7 +388,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment & StatefulSet - K8s.md",
+                "file": "Kubernetes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -403,7 +403,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deployment & StatefulSet - K8s"
+              "title": "Kubernetes"
             }
           },
           {
@@ -662,10 +662,10 @@
   },
   "active": "c7fb0eae4c4eafce",
   "lastOpenFiles": [
+    "Deployment & StatefulSet - K8s.md",
     "Pasted image 20250223151607.png",
     "Pasted image 20250223151329.png",
     "Volumes - K8s.md",
-    "Deployment & StatefulSet - K8s.md",
     "Pasted image 20250223150701.png",
     "Config Map & Secrets - K8s.md",
     "Services in K8s.md",
@@ -688,7 +688,6 @@
     "Pasted image 20250120205752.png",
     "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
     "Pasted image 20250120204149.png",
-    "Pasted image 20250120204120.png",
     "AI Agents.md",
     "PG Vector.md",
     "Materialized View.md",
