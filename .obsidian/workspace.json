@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "ea17e51cc4709b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controller Manager - K8s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Controller Manager - K8s"
+            }
+          },
+          {
             "id": "49618bddc952512e",
             "type": "leaf",
             "state": {
@@ -259,11 +283,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "49618bddc952512e",
+  "active": "ea17e51cc4709b7c",
   "lastOpenFiles": [
-    "Pasted image 20250223155505.png",
-    "Scheduler - K8s.md",
+    "Pasted image 20250223155834.png",
+    "Controller Manager - K8s.md",
     "Master Nodes or Control Plane - K8s.md",
+    "Scheduler - K8s.md",
+    "Pasted image 20250223155505.png",
     "API server - K8s.md",
     "Pasted image 20250223155012.png",
     "Kube-proxy.md",
@@ -289,7 +315,6 @@
     "Time & Space Complexity (Big O Notation).md",
     "Project-Foundry/One Place - Fashion AI.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
-    "Pasted image 20250123211058.png",
     "BlogPosts/Is AI Replacing Software Engineers? A Mid-Level Developer’s Perspective.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
@@ -298,7 +323,6 @@
     "PG Vector.md",
     "Materialized View.md",
     "SDE Abroad.md",
-    "Thread.md",
     "vector_based_img_search_ror.pdf",
     "BlogPosts",
     "Blog-Foundry",
