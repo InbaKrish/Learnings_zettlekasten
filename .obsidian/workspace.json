@@ -359,6 +359,30 @@
             }
           },
           {
+            "id": "716a2bb95926c92a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volumes - K8s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Volumes - K8s"
+            }
+          },
+          {
             "id": "d13f29aaede0ec69",
             "type": "leaf",
             "state": {
@@ -458,7 +482,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -612,10 +636,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "4aaec23c0ff0846d",
+  "active": "716a2bb95926c92a",
   "lastOpenFiles": [
-    "Services in K8s.md",
     "Config Map & Secrets - K8s.md",
+    "Volumes - K8s.md",
+    "Services in K8s.md",
     "Pasted image 20250219202827.png",
     "Ingress Controller.md",
     "Ingress.md",
