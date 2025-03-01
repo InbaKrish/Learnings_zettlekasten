@@ -50,4 +50,18 @@ select authors.name from authors inner join blogs on blogs.author_id = authors.i
 
 -> [Explain analyze](https://www.postgresql.org/docs/current/sql-explain.html) provides the following plan,
 ```sql
+explain analyze select authors.name from authors inner join blogs on blogs.author_id = authors.id;
+                                                          QUERY PLAN                                                           
+-------------------------------------------------------------------------------------------------------------------------------
+ Hash Join  (cost=38647.00..85591.01 rows=1000000 width=33) (actual time=229.004..683.988 rows=1000000 loops=1)
+   Hash Cond: (blogs.author_id = authors.id)
+   ->  Seq Scan on blogs  (cost=0.00..28692.00 rows=1000000 width=4) (actual time=0.015..61.899 rows=1000000 loops=1)
+   ->  Hash  (cost=18334.00..18334.00 rows=1000000 width=37) (actual time=228.572..228.573 rows=1000000 loops=1)
+         Buckets: 65536  Batches: 32  Memory Usage: 2717kB
+         ->  Seq Scan on authors  (cost=0.00..18334.00 rows=1000000 width=37) (actual time=0.011..60.541 rows=1000000 loops=1)
+ Planning Time: 0.896 ms
+ Execution Time: 701.660 ms
+(8 rows)
 ```
+
+**Aah, will you accept, 701.660ms 
