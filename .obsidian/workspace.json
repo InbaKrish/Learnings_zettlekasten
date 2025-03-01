@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlogPosts/PostgreSQL - Semi-Joins - Boost your join table filter queries.md",
+                "file": "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL - Semi-Joins - Boost your join table filter queries"
+              "title": "SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance"
             }
           },
           {
@@ -333,7 +333,7 @@
   "active": "07009da77965ebf3",
   "lastOpenFiles": [
     "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
-    "BlogPosts/PostgreSQL - Semi-Joins - Boost your join table filter queries.md",
+    "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Untitled.md",
     "Pasted image 20250301173153.png",
     "BlogPosts/Is AI Replacing Software Engineers? A Mid-Level Developer’s Perspective.md",

@@ -1,5 +1,5 @@
 ---
-title: "SEMI-JOIN: Optimize Your JOIN-Based Filter Queries for Maximum Performance"
+title: SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance
 tags:
   - PostgreSQL
   - Databases
