@@ -51,20 +51,19 @@ select authors.name from authors inner join blogs on blogs.author_id = authors.i
 -> [Explain analyze](https://www.postgresql.org/docs/current/sql-explain.html) provides the following plan,
 ```sql
 explain analyze select authors.name from authors inner join blogs on blogs.author_id = authors.id;
-                                                          QUERY PLAN                                                           
--------------------------------------------------------------------------------------------------------------------------------
- Hash Join  (cost=38647.00..85591.01 rows=1000000 width=33) (actual time=229.004..683.988 rows=1000000 loops=1)
-   Hash Cond: (blogs.author_id = authors.id)
-   ->  Seq Scan on blogs  (cost=0.00..28692.00 rows=1000000 width=4) (actual time=0.015..61.899 rows=1000000 loops=1)
-   ->  Hash  (cost=18334.00..18334.00 rows=1000000 width=37) (actual time=228.572..228.573 rows=1000000 loops=1)
-         Buckets: 65536  Batches: 32  Memory Usage: 2717kB
-         ->  Seq Scan on authors  (cost=0.00..18334.00 rows=1000000 width=37) (actual time=0.011..60.541 rows=1000000 loops=1)
- Planning Time: 0.896 ms
- Execution Time: 701.660 ms
-(8 rows)
+                                                                    QUERY PLAN                                                                     
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ Merge Join  (cost=5.64..49642.51 rows=1000000 width=33) (actual time=0.044..135.106 rows=1000000 loops=1)
+   Merge Cond: (authors.id = blogs.author_id)
+   ->  Index Scan using authors_pkey on authors  (cost=0.42..34317.43 rows=1000000 width=37) (actual time=0.010..21.355 rows=300000 loops=1)
+   ->  Index Only Scan using blogs_author_id on blogs  (cost=0.42..25992.42 rows=1000000 width=4) (actual time=0.031..47.850 rows=1000000 loops=1)
+         Heap Fetches: 0
+ Planning Time: 0.409 ms
+ Execution Time: 151.686 ms
+(7 rows)
 ```
 
-**Aah, will you accept, 701.660ms 😕**, wait let's check the semi-join approach,
+Let's check the semi-join approach,
 ```sql
 select authors.name from authors where exists (select 1 from blogs where blogs.author_id = authors.id);
 ```
@@ -72,18 +71,14 @@ select authors.name from authors where exists (select 1 from blogs where blogs.a
 -> And now, we get,
 ```sql
 explain analyze select authors.name from authors where exists (select 1 from blogs where blogs.author_id = authors.id);
-                                                               QUERY PLAN                                                                
------------------------------------------------------------------------------------------------------------------------------------------
- Gather  (cost=30695.00..76533.44 rows=230362 width=33) (actual time=164.956..322.119 rows=289288 loops=1)
-   Workers Planned: 2
-   Workers Launched: 2
-   ->  Parallel Hash Semi Join  (cost=29695.00..52497.24 rows=95984 width=33) (actual time=156.848..274.184 rows=96429 loops=3)
-         Hash Cond: (authors.id = blogs.author_id)
-         ->  Parallel Seq Scan on authors  (cost=0.00..12500.67 rows=416667 width=37) (actual time=0.005..19.752 rows=333333 loops=3)
-         ->  Parallel Hash  (cost=22858.67..22858.67 rows=416667 width=4) (actual time=71.106..71.106 rows=333333 loops=3)
-               Buckets: 131072  Batches: 16  Memory Usage: 3520kB
-               ->  Parallel Seq Scan on blogs  (cost=0.00..22858.67 rows=416667 width=4) (actual time=0.014..25.661 rows=333333 loops=3)
- Planning Time: 0.334 ms
- Execution Time: 327.396 ms
-(11 rows)
+                                                                    QUERY PLAN                                                                     
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ Merge Semi Join  (cost=6.23..49459.71 rows=237176 width=33) (actual time=0.053..111.667 rows=289288 loops=1)
+   Merge Cond: (authors.id = blogs.author_id)
+   ->  Index Scan using authors_pkey on authors  (cost=0.42..34317.43 rows=1000000 width=37) (actual time=0.009..19.703 rows=300000 loops=1)
+   ->  Index Only Scan using blogs_author_id on blogs  (cost=0.42..25992.42 rows=1000000 width=4) (actual time=0.040..44.631 rows=1000000 loops=1)
+         Heap Fetches: 0
+ Planning Time: 0.415 ms
+ Execution Time: 116.221 ms
+(7 rows)
 ```
