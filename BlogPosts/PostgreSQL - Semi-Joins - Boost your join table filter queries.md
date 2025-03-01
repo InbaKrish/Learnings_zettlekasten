@@ -82,3 +82,9 @@ explain analyze select authors.name from authors where exists (select 1 from blo
  Execution Time: 116.221 ms
 (7 rows)
 ```
+
+In this approach semi-join is performed, and the exists short-circuits the filter query as soon as the first matching row is found.
+
+| JOIN    | SEMI JOIN |
+| ------- | --------- |
+| 148.116 |           |
