@@ -38,4 +38,5 @@ CREATE INDEX blogs_author_id ON blogs(author_id);
 
 now I need to perform the operation to find out authors without any blogs, so known approach is that we perform left join between the author and blogs and perform filter query to find rows from author table without and matching blog items.
 
-This works, but think twice, in this operation do we need to perform entire table left join to get the filter query (though Postgres handle the join efficiently with the planner). 
+This works, but think twice, in this operation do we need to perform entire table left join to get the filter query (though PostgreSQL handle the join efficiently with the planner). 
+
