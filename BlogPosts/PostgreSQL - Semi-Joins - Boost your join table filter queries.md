@@ -40,3 +40,8 @@ now I need to perform the operation to find out authors without any blogs, so kn
 
 This works, but think twice, in this operation do we need to perform entire table left join to get the filter query (though PostgreSQL handle the join efficiently with the planner). 
 
+---
+## Performance Battle (Joins vs Semi-Joins)
+
+Let's start with familiar inner join,
+
