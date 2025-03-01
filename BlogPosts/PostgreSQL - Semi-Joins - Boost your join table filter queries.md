@@ -85,11 +85,16 @@ explain analyze select authors.name from authors where exists (select 1 from blo
 
 In this approach semi-join is performed, and the exists short-circuits the filter query as soon as the first matching row is found.
 
-| JOIN    | SEMI JOIN |
-| ------- | --------- |
-| 148.116 | 116.073   |
-| 158.137 | 121.852   |
-| 139.534 | 112.830   |
-| 136.839 | 111.900   |
-| 143.235 | 115.967   |
-based on the above iterations, the **semi-**
+| JOIN (inner join) | SEMI JOIN (where exists) |
+| ----------------- | ------------------------ |
+| 148.116           | 116.073                  |
+| 158.137           | 121.852                  |
+| 139.534           | 112.830                  |
+| 136.839           | 111.900                  |
+| 143.235           | 115.967                  |
+based on the above iterations, the **semi-join** performs **20%** faster than normal **join** on average.
+
+Not ends here, in **INNER JOIN**, there is an obvious duplication issue, say author has more than one blog then the author name value gets duplicated, now to de-duplicate the results, we can perform the **DISTINCT** or the **GROUP BY** approach, so let's check the performances for those,
+
+1. Us
+
