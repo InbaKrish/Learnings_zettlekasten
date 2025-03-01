@@ -87,4 +87,9 @@ In this approach semi-join is performed, and the exists short-circuits the filte
 
 | JOIN    | SEMI JOIN |
 | ------- | --------- |
-| 148.116 |           |
+| 148.116 | 116.073   |
+| 158.137 | 121.852   |
+| 139.534 | 112.830   |
+| 136.839 | 111.900   |
+| 143.235 | 115.967   |
+based on the above iterations, the **semi-**
