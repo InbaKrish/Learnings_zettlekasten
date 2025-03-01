@@ -120,5 +120,45 @@ select distinct authors.name from authors inner join blogs on blogs.author_id = 
 ```
 
 **Bruh! 🫢**
+![[Pasted image 20250301173153.png]]
 
+-> Wait what about **GROUP BY**,
+```sql
+select authors.name from authors inner join blogs on blogs.author_id = authors.id group by authors.name;
+
+--- EXPLAIN ANALYZE OUTPUT
+ Group  (cost=87824.80..188178.89 rows=1000000 width=33) (actual time=414.521..647.118 rows=289288 loops=1)
+   Group Key: authors.name
+   ->  Gather Merge  (cost=87824.80..186095.55 rows=833334 width=33) (actual time=414.517..622.721 rows=290229 loops=1)
+         Workers Planned: 2
+         Workers Launched: 2
+         ->  Group  (cost=86824.77..88908.11 rows=416667 width=33) (actual time=394.005..520.693 rows=96743 loops=3)
+               Group Key: authors.name
+               ->  Sort  (cost=86824.77..87866.44 rows=416667 width=33) (actual time=393.996..499.231 rows=333333 loops=3)
+                     Sort Key: authors.name
+                     Sort Method: external merge  Disk: 14768kB
+                     Worker 0:  Sort Method: external merge  Disk: 13576kB
+                     Worker 1:  Sort Method: external merge  Disk: 13856kB
+                     ->  Merge Join  (cost=3.44..36535.96 rows=416667 width=33) (actual time=5.821..77.417 rows=333333 loops=3)
+                           Merge Cond: (blogs.author_id = authors.id)
+                           ->  Parallel Index Only Scan using blogs_author_id on blogs  (cost=0.42..20159.09 rows=416667 width=4) (actual time=0.029..17.542 rows=333333 loops=3)
+                                 Heap Fetches: 0
+                           ->  Index Scan using authors_pkey on authors  (cost=0.42..34317.43 rows=1000000 width=37) (actual time=0.026..24.040 rows=297278 loops=3)
+ Planning Time: 0.417 ms
+ JIT:
+   Functions: 26
+   Options: Inlining false, Optimization false, Expressions true, Deforming true
+   Timing: Generation 4.823 ms, Inlining 0.000 ms, Optimization 0.995 ms, Emission 13.016 ms, Total 18.835 ms
+ Execution Time: 656.955 ms
+(23 rows)
+```
+
+
+| JOIN (with DISTINCT) | JOIN (with GROUP BY) | SEMI JOIN (where exists) |
+| -------------------- | -------------------- | ------------------------ |
+| 148.116              |                      | 116.073                  |
+| 158.137              |                      | 121.852                  |
+| 139.534              |                      | 112.830                  |
+| 136.839              |                      | 111.900                  |
+| 143.235              |                      | 115.967                  |
 
