@@ -1,7 +1,8 @@
 ---
 tags:
   - PostgreSQL
-title: PostgreSQL - Semi-Joins - Boost your join table filter queries
+  - Databases
+title: "SEMI-JOIN: Optimize Your JOIN-Based Filter Queries for Maximum Performance"
 date: 2025-03-25
 draft: "false"
 ---
