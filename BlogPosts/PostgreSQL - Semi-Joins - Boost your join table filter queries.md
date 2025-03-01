@@ -64,4 +64,26 @@ explain analyze select authors.name from authors inner join blogs on blogs.autho
 (8 rows)
 ```
 
-**Aah, will you accept, 701.660ms 
+**Aah, will you accept, 701.660ms 😕**, wait let's check the semi-join approach,
+```sql
+select authors.name from authors where exists (select 1 from blogs where blogs.author_id = authors.id);
+```
+
+-> And now, we get,
+```sql
+explain analyze select authors.name from authors where exists (select 1 from blogs where blogs.author_id = authors.id);
+                                                               QUERY PLAN                                                                
+-----------------------------------------------------------------------------------------------------------------------------------------
+ Gather  (cost=30695.00..76533.44 rows=230362 width=33) (actual time=164.956..322.119 rows=289288 loops=1)
+   Workers Planned: 2
+   Workers Launched: 2
+   ->  Parallel Hash Semi Join  (cost=29695.00..52497.24 rows=95984 width=33) (actual time=156.848..274.184 rows=96429 loops=3)
+         Hash Cond: (authors.id = blogs.author_id)
+         ->  Parallel Seq Scan on authors  (cost=0.00..12500.67 rows=416667 width=37) (actual time=0.005..19.752 rows=333333 loops=3)
+         ->  Parallel Hash  (cost=22858.67..22858.67 rows=416667 width=4) (actual time=71.106..71.106 rows=333333 loops=3)
+               Buckets: 131072  Batches: 16  Memory Usage: 3520kB
+               ->  Parallel Seq Scan on blogs  (cost=0.00..22858.67 rows=416667 width=4) (actual time=0.014..25.661 rows=333333 loops=3)
+ Planning Time: 0.334 ms
+ Execution Time: 327.396 ms
+(11 rows)
+```
