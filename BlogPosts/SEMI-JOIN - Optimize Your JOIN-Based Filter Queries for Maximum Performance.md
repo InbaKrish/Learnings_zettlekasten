@@ -87,6 +87,8 @@ explain analyze select authors.name from authors where exists (select 1 from blo
 
 In this approach semi-join is performed, and the exists short-circuits the filter query as soon as the first matching row is found.
 
+![[Pasted image 20250301190348.png]]
+
 | JOIN (inner join) | SEMI JOIN (where exists) |
 | ----------------- | ------------------------ |
 | 148.116           | 116.073                  |
@@ -122,7 +124,6 @@ select distinct authors.name from authors inner join blogs on blogs.author_id = 
 ```
 
 **Bruh! 🫢**
-![[Pasted image 20250301173153.png]]
 
 -> Wait what about **GROUP BY**,
 ```sql
