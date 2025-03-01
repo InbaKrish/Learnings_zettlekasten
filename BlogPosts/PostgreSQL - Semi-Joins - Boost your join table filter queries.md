@@ -26,9 +26,13 @@ CREATE TABLE blogs(
 	name character varying unique
 );
 
+-- randomly matching blogs to different authors, each can have 0/n number of blogs associated
 INSERT INTO blogs (author_id, name)
 	SELECT floor(random() * 300000 + 1)::int, md5(random()::text)
 	FROM generate_series(1, 1000000);
+
+-- add index for foreign key
+CREATE INDEX blogs_author_id ON blogs(author_id);
 ```
 
 
