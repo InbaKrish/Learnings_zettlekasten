@@ -96,5 +96,29 @@ based on the above iterations, the **semi-join** performs **20%** faster than no
 
 Not ends here, in **INNER JOIN**, there is an obvious duplication issue, say author has more than one blog then the author name value gets duplicated, now to de-duplicate the results, we can perform the **DISTINCT** or the **GROUP BY** approach, so let's check the performances for those,
 
-1. Us
+-> Using **DISTINCT**,
+```sql
+select distinct authors.name from authors inner join blogs on blogs.author_id = authors.id;
+
+--- EXPLAIN ANALYZE OUTPUT
+ Unique  (cost=204009.80..209009.80 rows=1000000 width=33) (actual time=1180.678..1540.446 rows=289288 loops=1)
+   ->  Sort  (cost=204009.80..206509.80 rows=1000000 width=33) (actual time=1180.676..1480.833 rows=1000000 loops=1)
+         Sort Key: authors.name
+         Sort Method: external merge  Disk: 42096kB
+         ->  Merge Join  (cost=4.33..49660.96 rows=1000000 width=33) (actual time=2.727..142.405 rows=1000000 loops=1)
+               Merge Cond: (authors.id = blogs.author_id)
+               ->  Index Scan using authors_pkey on authors  (cost=0.42..34317.43 rows=1000000 width=37) (actual time=0.006..23.055 rows=300000 loops=1)
+               ->  Index Only Scan using blogs_author_id on blogs  (cost=0.42..25992.42 rows=1000000 width=4) (actual time=0.015..48.093 rows=1000000 loops=1)
+                     Heap Fetches: 0
+ Planning Time: 0.279 ms
+ JIT:
+   Functions: 6
+   Options: Inlining false, Optimization false, Expressions true, Deforming true
+   Timing: Generation 0.775 ms, Inlining 0.000 ms, Optimization 0.177 ms, Emission 2.443 ms, Total 3.396 ms
+ Execution Time: 1550.252 ms
+(15 rows)
+```
+
+**Bruh! 🫢**
+
 
