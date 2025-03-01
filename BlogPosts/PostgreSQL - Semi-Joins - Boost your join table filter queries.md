@@ -176,3 +176,6 @@ select authors.name from authors where not exists (select 1 from blogs where blo
 
 ---
 ## Further Reading
+
+https://www.geeksforgeeks.org/difference-between-anti-join-and-semi-join/
+https://www.pgmustard.com/docs/explain/merge-semi-join
