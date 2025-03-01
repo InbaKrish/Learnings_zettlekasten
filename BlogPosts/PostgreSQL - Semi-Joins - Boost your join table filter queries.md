@@ -44,4 +44,10 @@ This works, but think twice, in this operation do we need to perform entire tabl
 ## Performance Battle (Joins vs Semi-Joins)
 
 Let's start with familiar inner join,
+```sql
+select authors.name from authors inner join blogs on blogs.author_id = authors.id;
+```
 
+-> [Explain analyze](https://www.postgresql.org/docs/current/sql-explain.html) provides the following plan,
+```sql
+```
