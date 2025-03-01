@@ -165,4 +165,14 @@ select authors.name from authors inner join blogs on blogs.author_id = authors.i
 from above observations, its obvious that **WHERE EXISTS** approach performs faster than the traditional join based approach, and the performance to the load also will be much efficient in this approach, as its clear that it performs a short-circuit filtering.
 
 Similarly to find non-associated filtering, we can
--> Instead of **LEFT JO**
+-> Instead of **LEFT JOIN** and **id IS NULL** way,
+```sql
+select authors.name from authors left join blogs on blogs.author_id = authors.id where blogs.id is null;
+```
+-> we can do **WHERE NOT EXISTS**,
+```sql
+select authors.name from authors where not exists (select 1 from blogs where blogs.author_id = authors.id);
+```
+
+---
+## Further Reading
