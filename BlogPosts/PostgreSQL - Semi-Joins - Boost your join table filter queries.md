@@ -1,11 +1,12 @@
 ---
+title: "SEMI-JOIN: Optimize Your JOIN-Based Filter Queries for Maximum Performance"
 tags:
   - PostgreSQL
   - Databases
-title: "SEMI-JOIN: Optimize Your JOIN-Based Filter Queries for Maximum Performance"
 date: 2025-03-25
 draft: "false"
 ---
+
 Think about you have two tables author and blogs, 
 ```sql
 -- Authors table
