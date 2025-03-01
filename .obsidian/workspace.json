@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Nodes or Control Plane - K8s.md",
+                "file": "BlogPosts/PostgreSQL - Semi-Joins - Boost your join table filter queries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Master Nodes or Control Plane - K8s"
+              "title": "PostgreSQL - Semi-Joins - Boost your join table filter queries"
+            }
+          },
+          {
+            "id": "f44b280412fb067d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian to Github page - Automated Blog pipeline"
             }
           },
           {
@@ -205,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -309,9 +332,12 @@
   },
   "active": "07009da77965ebf3",
   "lastOpenFiles": [
+    "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
+    "BlogPosts/PostgreSQL - Semi-Joins - Boost your join table filter queries.md",
+    "BlogPosts/Is AI Replacing Software Engineers? A Mid-Level Developer’s Perspective.md",
+    "Master Nodes or Control Plane - K8s.md",
     "etcd - K8s.md",
     "Pasted image 20250223160147.png",
-    "Master Nodes or Control Plane - K8s.md",
     "Controller Manager - K8s.md",
     "Pasted image 20250223155834.png",
     "Scheduler - K8s.md",
@@ -339,10 +365,8 @@
     "Time & Space Complexity (Big O Notation).md",
     "Project-Foundry/One Place - Fashion AI.md",
     "Project-Foundry/Supermemory AI - Clone in Rails.md",
-    "BlogPosts/Is AI Replacing Software Engineers? A Mid-Level Developer’s Perspective.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
-    "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
     "AI Agents.md",
     "PG Vector.md",
     "Materialized View.md",
