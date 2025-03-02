@@ -35,3 +35,5 @@ additionally how these components and modules interact between each other.
 
 1. Broken the system into components.
 2. Every components have their responsibilities and boundaries defined.
+3. For every components we have the (slight) technical details figured out.
+4. Each components (in isolation) is scalable, fault tolerant and available.
