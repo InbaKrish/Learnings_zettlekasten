@@ -25,3 +25,6 @@ How to approach?
 	2. Scalability & Fault tolerance
 	3. Async processing
 	4. Communication
+
+
+**For large PS**
