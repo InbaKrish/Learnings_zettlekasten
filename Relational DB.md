@@ -9,7 +9,9 @@ Data is stored and represented as rows and columns.
 Provides **transactions**
 
 A - Atomicity
+	Transactions
 C - Consistency
+	Constraints, Cascades, Triggers
 I - Isolation
 D - Durability
 
