@@ -69,24 +69,10 @@
             "id": "578f07bc53ba3bf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational DB.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Relational DB"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -242,7 +228,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SystemDesign",
+                "query": "tag:#SystemDesign/Databases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -330,7 +316,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apache Kafka.md"
+                "file": "Apache Kafka.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Apache Kafka"
@@ -342,12 +331,12 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -367,8 +356,8 @@
   },
   "active": "578f07bc53ba3bf9",
   "lastOpenFiles": [
-    "SysD.md",
     "Relational DB.md",
+    "SysD.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Pasted image 20250301190348.png",
     "Pasted image 20250301190331.png",
