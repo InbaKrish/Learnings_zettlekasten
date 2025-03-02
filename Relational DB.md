@@ -13,7 +13,7 @@ A - Atomicity
 C - Consistency
 	Constraints, Cascades, Triggers
 I - Isolation
-	 Isolations levels, Read phenomena
+	[[Isolation Levels]], [[Read Phenomena]]
 D - Durability
-	WAL
+	[[WAL]]
 
