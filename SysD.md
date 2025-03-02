@@ -20,4 +20,8 @@ How to approach?
 1. Understand the problem statement
 2. Break down the PS into small components (very important step)
 	1. Disect the component (if required), within the top level component's boundary.
-3. 
+3. For each component/sub-component look into the below details,
+	1. Databases (Storage) and Cache
+	2. Scalability & Fault tolerance
+	3. Async processing
+	4. Communication
