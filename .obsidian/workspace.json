@@ -35,9 +35,19 @@
             "id": "07009da77965ebf3",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "55ace04412a2ca5b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
+                "file": "SysD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance"
+              "title": "SysD"
             }
           },
           {
@@ -176,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +218,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cloud",
+                "query": "tag:#SystemDesign",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +239,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -330,12 +341,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "07009da77965ebf3",
+  "active": "55ace04412a2ca5b",
   "lastOpenFiles": [
+    "SysD.md",
+    "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Pasted image 20250301190348.png",
     "Pasted image 20250301190331.png",
     "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
-    "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Untitled.md",
     "Pasted image 20250301173153.png",
     "BlogPosts/Is AI Replacing Software Engineers? A Mid-Level Developer’s Perspective.md",
@@ -358,7 +370,6 @@
     "Pasted image 20250223151607.png",
     "Pasted image 20250223151329.png",
     "Volumes - K8s.md",
-    "Pasted image 20250223150701.png",
     "Config Map & Secrets - K8s.md",
     "Services in K8s.md",
     "Ingress Controller.md",
