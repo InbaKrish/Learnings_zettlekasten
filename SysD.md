@@ -31,4 +31,7 @@ additionally how these components and modules interact between each other.
 **For large PS** - start top down approach
 **For small PS** - start bottom up approach
 
-### Where to stop / Evaluate 
+### Where to stop / Evaluate good SysD and avoid over eng
+
+1. Broken the system into components.
+2. Every components have their responsibilities and boundaries defined.
