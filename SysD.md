@@ -10,3 +10,9 @@ Given a set of requirements (say building a facebook),
 -> decide modules
 additionally how these components and modules interact between each other.
 
+Steps,
+1. Breakdown the requirement/problem statement into small solvable sub-modules.
+2. Decide on the key components required and frame out the responsibilities of those components.
+3. Decide on the boundaries for those components.
+4. Make the components scale, fault tolerant and available.
+
