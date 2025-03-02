@@ -18,3 +18,4 @@ what is the work,
 
 How to approach?
 1. Understand the problem statement
+2. Break down the PS into small components (very important step)
