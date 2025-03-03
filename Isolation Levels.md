@@ -11,3 +11,6 @@ tags:
 ## Read Uncommitted (Dirty reads)
 
 -> Reads uncommitted values updated in other parallel transactions.
+
+## Serializable (Stritght)
+
