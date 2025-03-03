@@ -14,3 +14,4 @@ tags:
 
 ## Serializable (Stritght)
 
+Locks the read of a row on other transactions, until the transaction gets committed/rolled back.
