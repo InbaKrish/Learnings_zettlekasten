@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "07009da77965ebf3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "55ace04412a2ca5b",
             "type": "leaf",
             "state": {
@@ -196,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5503abdb1d5b6ca1",
@@ -316,13 +307,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apache Kafka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Apache Kafka"
+              "title": "Outline"
             }
           },
           {
@@ -356,8 +346,8 @@
   },
   "active": "578f07bc53ba3bf9",
   "lastOpenFiles": [
-    "Relational DB.md",
     "SysD.md",
+    "Relational DB.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Pasted image 20250301190348.png",
     "Pasted image 20250301190331.png",
