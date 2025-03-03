@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -345,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read Phenomena.md",
+                "file": "Isolation Levels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Read Phenomena"
+              "title": "Outline of Isolation Levels"
             }
           },
           {
@@ -383,7 +383,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "67957f8bb272ce1c",
+  "active": "578f07bc53ba3bf9",
   "lastOpenFiles": [
     "Read Phenomena.md",
     "Isolation Levels.md",
