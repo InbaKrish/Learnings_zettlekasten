@@ -59,10 +59,24 @@
             "id": "578f07bc53ba3bf9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Isolation Levels.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Isolation Levels"
             }
           },
           {
@@ -307,12 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Isolation Levels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Isolation Levels"
             }
           },
           {
@@ -346,6 +361,7 @@
   },
   "active": "578f07bc53ba3bf9",
   "lastOpenFiles": [
+    "Isolation Levels.md",
     "SysD.md",
     "Relational DB.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
@@ -381,7 +397,6 @@
     "Amortized Time.md",
     "Time & Space Complexity (Big O Notation).md",
     "Project-Foundry/One Place - Fashion AI.md",
-    "Project-Foundry/Supermemory AI - Clone in Rails.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
