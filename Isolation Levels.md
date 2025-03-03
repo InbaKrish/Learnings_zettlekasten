@@ -2,11 +2,47 @@
 tags:
   - SystemDesign/Databases
 ---
+
+| Isolation Level  | Dirty Read             | Nonrepeatable Read | Phantom Read           | Serialization Anomaly |     |
+| ---------------- | ---------------------- | ------------------ | ---------------------- | --------------------- | --- |
+| Read uncommitted | Allowed, but not in PG | Possible           | Possible               | Possible              |     |
+| Read committed   | Not possible           | Possible           | Possible               | Possible              |     |
+| Repeatable read  | Not possible           | Not possible       | Allowed, but not in PG | Possible              |     |
+| Serializable     | Not possible           | Not possible       | Not possible           | Not possible          |     |
 ## Repeatable Reads
 
 -> Repeat same read value under a transaction even if the value gets updated (committed), in a parallel transaction.
 
-**Postgresql** along with dirty reads, also prevents the phantom reads via the Repeatable Read tran 
+**Postgresql** along with dirty reads, also prevents the phantom reads via the Repeatable Read transactions (ref- [[Isolation Levels]]) 
+
+```ruby
+product_id = 1  
+  
+# T1  
+Product.transaction(isolation: :repeatable_read) do  
+initial_price = Product.find(product_id).price  
+puts "Transaction 1: Initial read price is #{initial_price}"  
+  
+# T2  
+Thread.new do  
+Product.transaction(isolation: :repeatable_read) do  
+product = Product.find(product_id)  
+product.update(price: initial_price + 100)  
+puts "Transaction 2: Updated price to #{product.price}"  
+end  
+end.join  
+  
+sleep(3)  
+  
+# T1  
+final_price = Product.find(product_id).price  
+puts "Transaction 1: Re-read price within the same transaction is #{final_price}"  
+end  
+  
+#=> Transaction 1: Initial read price is 300  
+#=> Transaction 2: Updated price to 400  
+#=> Transaction 1: Re-read price within the same transaction is 300
+```
 ## Read Committed
 
 -> Within a transaction the updated value gets read, if any parallel transaction commits the update. So there may be inconsistent reads within a transaction based on parallel transaction commits.
