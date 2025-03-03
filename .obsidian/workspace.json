@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "67957f8bb272ce1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read Phenomena.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Read Phenomena"
+            }
+          },
+          {
             "id": "f44b280412fb067d",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isolation Levels.md",
+                "file": "Read Phenomena.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Isolation Levels"
+              "title": "Outline of Read Phenomena"
             }
           },
           {
@@ -359,8 +383,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "578f07bc53ba3bf9",
+  "active": "67957f8bb272ce1c",
   "lastOpenFiles": [
+    "Read Phenomena.md",
     "Isolation Levels.md",
     "SysD.md",
     "Relational DB.md",
@@ -396,7 +421,6 @@
     "Ingress.md",
     "Amortized Time.md",
     "Time & Space Complexity (Big O Notation).md",
-    "Project-Foundry/One Place - Fashion AI.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
