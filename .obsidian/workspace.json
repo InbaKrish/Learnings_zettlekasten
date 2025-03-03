@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -345,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isolation Levels.md",
+                "file": "Read Phenomena.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Isolation Levels"
+              "title": "Outline of Read Phenomena"
             }
           },
           {
@@ -383,10 +383,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "578f07bc53ba3bf9",
+  "active": "67957f8bb272ce1c",
   "lastOpenFiles": [
-    "Read Phenomena.md",
     "Isolation Levels.md",
+    "Read Phenomena.md",
     "SysD.md",
     "Relational DB.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
