@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Scaling Databases (State-full Components).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Scaling Databases (State-full Components)"
             }
           },
           {
@@ -410,7 +410,7 @@
   "active": "bc48a8be0f0c4549",
   "lastOpenFiles": [
     "Isolation Levels.md",
-    "Untitled 1.md",
+    "Scaling Databases (State-full Components).md",
     "Read Phenomena.md",
     "SysD.md",
     "Relational DB.md",
