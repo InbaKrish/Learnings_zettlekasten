@@ -12,3 +12,4 @@ tags:
 2. Asynchronous Replication
 	1. Faster writes but eventual consistent.
 
+To distribute the read load across the replica, we need to use tools like [[PgPool]], [[HAProxy]].

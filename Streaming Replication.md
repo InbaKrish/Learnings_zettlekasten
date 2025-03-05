@@ -3,4 +3,7 @@ tags:
   - SystemDesign/Databases
   - PostgreSQL
 ---
-Provided by Postgre
+Provided by PostgreSQL. Can be used for [[Read Replica]] and normal backup replicas.
+
+![[Pasted image 20250305073732.png]]
+
