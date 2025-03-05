@@ -7,3 +7,5 @@ Provided by PostgreSQL. Can be used for [[Read Replica]] and normal backup repli
 
 ![[Pasted image 20250305073732.png]]
 
+This way of replication is Asynchronous, therefore eventual consistency.
+
