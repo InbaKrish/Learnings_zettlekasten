@@ -2,6 +2,8 @@
 tags:
   - SystemDesign/Databases
   - PostgreSQL
+Reference:
+  - https://www.youtube.com/watch?v=Yy0GJjRQcRQ
 ---
 Provided by PostgreSQL. Can be used for [[Read Replica]] and normal backup replicas.
 
