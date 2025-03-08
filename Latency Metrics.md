@@ -10,5 +10,5 @@ Reference:
 	1. Example, say P95 is 90ms, then 95 requests time < 90ms, and 5 requests > 90ms
 3. P50 (percentile 50)
 
-
+[[SLA agreement]] and Latency metrics are important for third party integrations.
 

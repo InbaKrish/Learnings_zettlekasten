@@ -152,6 +152,30 @@
             }
           },
           {
+            "id": "b5e5533e06150465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLA agreement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SLA agreement"
+            }
+          },
+          {
             "id": "25093e0ebb001582",
             "type": "leaf",
             "state": {
@@ -296,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -452,10 +476,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "96bd5e53a3b45eb8",
+  "active": "b5e5533e06150465",
   "lastOpenFiles": [
-    "Graph Databases.md",
+    "SLA agreement.md",
     "Latency Metrics.md",
+    "Graph Databases.md",
     "Wide Column Data stores.md",
     "Column-Family Structure.md",
     "Non-relational DBs (NoSQL).md",
@@ -483,7 +508,6 @@
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Pasted image 20250301190348.png",
     "Pasted image 20250301190331.png",
-    "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
     "Pasted image 20250301173153.png",
     "Pasted image 20250223160147.png",
     "Pasted image 20250223155834.png",
