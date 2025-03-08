@@ -12,7 +12,7 @@ Reference:
 
 ## Examples
 
-1. Data can fit in **single node**, data consistency and correctness - go with relational databases (ACID)
+1. Data can fit in **single node**, data consistency and correctness - go with relational databases (ACID) (SQL Databases)
 2. **Single node**, complex queries - relational databases
 3. Key value based access, really fast access - Redis
 4. Advances data structures & algos - [[Redis]]
