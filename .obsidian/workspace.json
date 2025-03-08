@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8ba838529342a9c6",
+  "active": "5cf398cbb2ae2a67",
   "lastOpenFiles": [
     "Key-Value stores.md",
     "Non-relational DBs (NoSQL).md",
