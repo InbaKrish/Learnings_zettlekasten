@@ -23,4 +23,32 @@ Consider a `users` table containing millions of records. To implement horizontal
 
 ## Vertical Partitioning
 
-Splitting the tables' columns between two databases (or shards), therefore the tables data get spl
+Splitting the tables' columns between two databases (or shards), therefore the tables data gets split between the shards (based on columns).
+
+-> **Example**,
+Consider a `customers` table with columns:
+
+- `customer_id`
+- `name`
+- `email`
+- `address`
+- `phone_number`
+- `purchase_history    
+
+If `purchase_history` is large and infrequently accessed, you can partition it vertically:
+
+1. **Create Separate Tables**:
+    - `customer_info` containing:
+        - `customer_id`
+        - `name`
+        - `email`
+        - `address`
+        - `phone_number`
+
+    - `customer_purchases` containing:
+        - `customer_id`
+        - `purchase_history`
+
+2. **Establish Relationships**: Use `customer_id` as a foreign key to maintain the relationship between the tables.
+    
+3. **Accessing Data**: Join the tables when necessary to retrieve comprehensive customer information.
