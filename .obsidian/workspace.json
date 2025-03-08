@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read Replica.md",
+                "file": "Config Map & Secrets - K8s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Read Replica"
+              "title": "Config Map & Secrets - K8s"
             }
           },
           {
@@ -362,7 +362,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SystemDesign/Databases",
+                "query": "tag:#cache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -489,16 +489,20 @@
   },
   "active": "578f07bc53ba3bf9",
   "lastOpenFiles": [
+    "Kubernetes.md",
+    "Nginx.md",
+    "Ingress Controller.md",
+    "Load Balance.md",
+    "Scaling Databases (State-full Components).md",
+    "SysD.md",
+    "Read Replica.md",
     "2025-03-08.md",
     "Isolation Levels.md",
-    "Scaling Databases (State-full Components).md",
     "Streaming Replication.md",
     "Cover Letter.md",
     "Pasted image 20250305073732.png",
     "Read Phenomena.md",
-    "Read Replica.md",
     "Sharding.md",
-    "SysD.md",
     "Relational DB.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Pasted image 20250301190348.png",
@@ -520,11 +524,7 @@
     "Kubelet.md",
     "Pasted image 20250223153900.png",
     "Container Runtime.md",
-    "Nodes & Pods - K8s.md",
-    "Kubernetes.md",
-    "Deployment & StatefulSet - K8s.md",
     "Pasted image 20250223151607.png",
-    "Volumes - K8s.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
