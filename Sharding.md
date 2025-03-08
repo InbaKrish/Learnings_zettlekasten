@@ -6,3 +6,9 @@ Split data into multiple sub-sets (shards). Writes will be shared across shards 
 
 -> Distribute data across multiple machines
 
+![[Pasted image 20250308133723.png]]
+
+Each database is thus  a Shard and the data we say is partitioned (split across).
+
+
+
