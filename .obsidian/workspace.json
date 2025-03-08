@@ -79,8 +79,7 @@
               "title": "Sharding"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,11 +235,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8fbe25faab01d343",
+  "active": "ac4a3c87b749bcc2",
   "lastOpenFiles": [
+    "Partitioning.md",
     "Sharding.md",
     "Pasted image 20250308133723.png",
-    "Partitioning.md",
     "Scaling Databases (State-full Components).md",
     "Config Map & Secrets - K8s.md",
     "Kubernetes.md",
