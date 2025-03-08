@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -332,10 +332,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8ba838529342a9c6",
+  "active": "b7f81d105d24c4c6",
   "lastOpenFiles": [
-    "Document DBs.md",
     "Key-Value stores.md",
+    "Document DBs.md",
     "Graph Databases.md",
     "Non-relational DBs (NoSQL).md",
     "Sharding.md",
