@@ -11,4 +11,4 @@ tags:
 ## Horizontal Scaling
 
 [[Read Replica]]
-[[Sharding]]
+[[Sharding]] & [[Partitioning]]

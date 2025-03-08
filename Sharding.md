@@ -4,3 +4,5 @@ tags:
 ---
 Split data into multiple sub-sets (shards). Writes will be shared across shards (based on the shard condition).
 
+-> Distribute data across multiple machines
+

@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6694c3d1ee34c00b",
+        "id": "aa3c8983168c56d9",
         "type": "tabs",
         "children": [
           {
-            "id": "c7fb0eae4c4eafce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubelet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kubelet"
-            }
-          },
-          {
-            "id": "55ace04412a2ca5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SysD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SysD"
-            }
-          },
-          {
-            "id": "578f07bc53ba3bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Config Map & Secrets - K8s.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Config Map & Secrets - K8s"
-            }
-          },
-          {
-            "id": "bc48a8be0f0c4549",
+            "id": "ac4a3c87b749bcc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +32,31 @@
             }
           },
           {
-            "id": "dd8cbd6ece76e537",
+            "id": "8fbe25faab01d343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partitioning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Partitioning"
+            }
+          },
+          {
+            "id": "eba49f19d4e77502",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,211 +78,9 @@
               "icon": "lucide-file",
               "title": "Sharding"
             }
-          },
-          {
-            "id": "e9eabc8836770fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Streaming Replication.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Streaming Replication"
-            }
-          },
-          {
-            "id": "0b920cadea6e68db",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "50bbef764287618e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read Replica.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Read Replica"
-            }
-          },
-          {
-            "id": "67957f8bb272ce1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read Phenomena.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Read Phenomena"
-            }
-          },
-          {
-            "id": "f44b280412fb067d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BlogPosts/Obsidian to Github page - Automated Blog pipeline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian to Github page - Automated Blog pipeline"
-            }
-          },
-          {
-            "id": "0a9c7c9916e3f9b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "etcd - K8s.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "etcd - K8s"
-            }
-          },
-          {
-            "id": "ea17e51cc4709b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Controller Manager - K8s.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Controller Manager - K8s"
-            }
-          },
-          {
-            "id": "49618bddc952512e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler - K8s.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scheduler - K8s"
-            }
-          },
-          {
-            "id": "81ef07a551d1c382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API server - K8s.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "API server - K8s"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -383,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -487,13 +236,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "578f07bc53ba3bf9",
+  "active": "8fbe25faab01d343",
   "lastOpenFiles": [
+    "Sharding.md",
+    "Partitioning.md",
+    "Scaling Databases (State-full Components).md",
+    "Config Map & Secrets - K8s.md",
     "Kubernetes.md",
     "Nginx.md",
     "Ingress Controller.md",
     "Load Balance.md",
-    "Scaling Databases (State-full Components).md",
     "SysD.md",
     "Read Replica.md",
     "2025-03-08.md",
@@ -502,7 +254,6 @@
     "Cover Letter.md",
     "Pasted image 20250305073732.png",
     "Read Phenomena.md",
-    "Sharding.md",
     "Relational DB.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Pasted image 20250301190348.png",
@@ -521,9 +272,7 @@
     "API server - K8s.md",
     "Pasted image 20250223155012.png",
     "Kube-proxy.md",
-    "Kubelet.md",
     "Pasted image 20250223153900.png",
-    "Container Runtime.md",
     "Pasted image 20250223151607.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
