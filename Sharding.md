@@ -10,5 +10,5 @@ Split data into multiple sub-sets (shards). Writes will be shared across shards 
 
 Each database is thus  a Shard and the data we say is partitioned (split across).
 
-
+**Note**  - Cross shard queries are expensice,
 
