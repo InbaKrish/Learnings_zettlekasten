@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -428,7 +428,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "25093e0ebb001582",
+  "active": "f2b1821a3cb51f4a",
   "lastOpenFiles": [
     "Column-Family Structure.md",
     "Wide Column Data stores.md",
