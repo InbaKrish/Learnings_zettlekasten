@@ -9,3 +9,5 @@ tags:
 **Applications** - to store any key based data like profile data, user data, messages, etc,.
 
 **Note** - we can make any databases like relational or document based DBs to work as key value stores (as this is just an access pattern).
+
+Examples - 
