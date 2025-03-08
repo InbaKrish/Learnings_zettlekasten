@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-relational DBs.md",
+                "file": "Non-relational DBs (NoSQL).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Non-relational DBs"
+              "title": "Non-relational DBs (NoSQL)"
             }
           }
         ],
@@ -263,7 +263,7 @@
   "active": "5cf398cbb2ae2a67",
   "lastOpenFiles": [
     "Sharding.md",
-    "Non-relational DBs.md",
+    "Non-relational DBs (NoSQL).md",
     "Scaling Databases (State-full Components).md",
     "Partitioning.md",
     "Pasted image 20250308133723.png",
