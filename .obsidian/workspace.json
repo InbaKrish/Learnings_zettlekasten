@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wide Column Data stores.md",
+                "file": "Graph Databases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wide Column Data stores"
+              "title": "Graph Databases"
             }
           },
           {
@@ -430,8 +430,8 @@
   },
   "active": "f2b1821a3cb51f4a",
   "lastOpenFiles": [
-    "Column-Family Structure.md",
     "Wide Column Data stores.md",
+    "Column-Family Structure.md",
     "Non-relational DBs (NoSQL).md",
     "Choosing the Database.md",
     "Graph Databases.md",
