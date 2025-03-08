@@ -1,6 +1,8 @@
 ---
 tags:
   - SystemDesign/Databases
+Reference:
+  - https://www.youtube.com/watch?v=6GebEqt6Ynk&t=59s
 ---
 -> Understand what type of data we are storing
 -> How much data we are storing
