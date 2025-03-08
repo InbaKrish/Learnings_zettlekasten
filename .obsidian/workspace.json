@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Sharding"
             }
+          },
+          {
+            "id": "5cf398cbb2ae2a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-relational DBs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Non-relational DBs"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,11 +260,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "eba49f19d4e77502",
+  "active": "5cf398cbb2ae2a67",
   "lastOpenFiles": [
+    "Sharding.md",
+    "Non-relational DBs.md",
     "Scaling Databases (State-full Components).md",
     "Partitioning.md",
-    "Sharding.md",
     "Pasted image 20250308133723.png",
     "Config Map & Secrets - K8s.md",
     "Kubernetes.md",
