@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,11 +236,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "eba49f19d4e77502",
+  "active": "8fbe25faab01d343",
   "lastOpenFiles": [
+    "Sharding.md",
     "Pasted image 20250308133723.png",
     "Partitioning.md",
-    "Sharding.md",
     "Scaling Databases (State-full Components).md",
     "Config Map & Secrets - K8s.md",
     "Kubernetes.md",
@@ -273,7 +273,6 @@
     "API server - K8s.md",
     "Pasted image 20250223155012.png",
     "Pasted image 20250223153900.png",
-    "Pasted image 20250223151607.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
