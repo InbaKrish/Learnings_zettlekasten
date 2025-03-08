@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lambda Architecture.md",
+                "file": "etcd - K8s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lambda Architecture"
+              "title": "etcd - K8s"
             }
           },
           {
@@ -502,10 +502,10 @@
   },
   "active": "aaccaa0179c00c7b",
   "lastOpenFiles": [
+    "Lambda Architecture.md",
     "Pasted image 20250308203707.png",
     "Pasted image 20250308203055.png",
     "SLA agreement.md",
-    "Lambda Architecture.md",
     "Latency Metrics.md",
     "Graph Databases.md",
     "Wide Column Data stores.md",
@@ -537,7 +537,6 @@
     "Pasted image 20250223160147.png",
     "Pasted image 20250223155834.png",
     "Pasted image 20250223155505.png",
-    "Pasted image 20250223155012.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
