@@ -7,5 +7,5 @@ All databases that are non relational.
 -> Provides [[Sharding]] out of the box.
 
 Types,
-[[Document DBs]], [[Key-Value stores]], [[Graph Databases]]
+[[Document DBs]], [[Key-Value stores]], [[Wide Column Data stores]], [[Graph Databases]]
 

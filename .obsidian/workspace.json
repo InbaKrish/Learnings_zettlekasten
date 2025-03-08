@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "fa7a3e13f76fc51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wide Column Data stores.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wide Column Data stores"
+            }
+          },
+          {
             "id": "b7f81d105d24c4c6",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -356,13 +380,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "19081d4337888d15",
+  "active": "fa7a3e13f76fc51f",
   "lastOpenFiles": [
-    "Graph Databases.md",
+    "Wide Column Data stores.md",
+    "Non-relational DBs (NoSQL).md",
     "Choosing the Database.md",
+    "Graph Databases.md",
     "Key-Value stores.md",
     "Document DBs.md",
-    "Non-relational DBs (NoSQL).md",
     "Sharding.md",
     "Scaling Databases (State-full Components).md",
     "Partitioning.md",
@@ -388,7 +413,6 @@
     "Untitled.md",
     "Pasted image 20250301173153.png",
     "BlogPosts/Is AI Replacing Software Engineers? A Mid-Level Developer’s Perspective.md",
-    "Master Nodes or Control Plane - K8s.md",
     "Pasted image 20250223160147.png",
     "Pasted image 20250223155834.png",
     "Pasted image 20250223155505.png",
