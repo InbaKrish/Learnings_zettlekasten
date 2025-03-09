@@ -6,4 +6,5 @@ Temporary storage, to store frequently accessed data, to avoid expensive network
 
 Cache stores - [[Redis]], [[Memcached]]
 
-**Note** - Caches are not restricted to store only to RAM, any storage to 
+**Note** - Caches are not restricted to store only to RAM, any storage (that is *nearer*) to avoid expensive IOs.
+
