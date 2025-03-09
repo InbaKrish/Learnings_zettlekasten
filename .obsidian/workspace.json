@@ -200,6 +200,30 @@
             }
           },
           {
+            "id": "2c61dc299430c634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Caching.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Caching"
+            }
+          },
+          {
             "id": "25093e0ebb001582",
             "type": "leaf",
             "state": {
@@ -344,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -500,8 +524,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "aaccaa0179c00c7b",
+  "active": "2c61dc299430c634",
   "lastOpenFiles": [
+    "etcd - K8s.md",
+    "Caching.md",
     "Lambda Architecture.md",
     "Pasted image 20250308203707.png",
     "Pasted image 20250308203055.png",
@@ -530,7 +556,6 @@
     "Streaming Replication.md",
     "Cover Letter.md",
     "Pasted image 20250305073732.png",
-    "Read Phenomena.md",
     "Pasted image 20250301190348.png",
     "Pasted image 20250301190331.png",
     "Pasted image 20250301173153.png",
