@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caching.md",
+                "file": "Redis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caching"
+              "title": "Redis"
             }
           },
           {
@@ -527,8 +527,9 @@
   },
   "active": "2c61dc299430c634",
   "lastOpenFiles": [
-    "etcd - K8s.md",
     "Caching.md",
+    "Redis.md",
+    "etcd - K8s.md",
     "Lambda Architecture.md",
     "Pasted image 20250308203707.png",
     "Pasted image 20250308203055.png",
@@ -555,7 +556,6 @@
     "2025-03-08.md",
     "Isolation Levels.md",
     "Streaming Replication.md",
-    "Cover Letter.md",
     "Pasted image 20250305073732.png",
     "Pasted image 20250301190348.png",
     "Pasted image 20250301190331.png",
