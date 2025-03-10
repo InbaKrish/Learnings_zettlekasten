@@ -349,7 +349,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document DBs.md",
+                "file": "Claim-Check Pattern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -364,11 +364,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Document DBs"
+              "title": "Claim-Check Pattern"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -525,12 +525,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "2c61dc299430c634",
+  "active": "dd6dd9532f4125f7",
   "lastOpenFiles": [
+    "Pasted image 20250310085623.png",
+    "Document DBs.md",
+    "Claim-Check Pattern.md",
+    "Redis.md",
     "Pasted image 20250310082200.png",
     "Pasted image 20250310082100.png",
     "Caching.md",
-    "Redis.md",
     "etcd - K8s.md",
     "Lambda Architecture.md",
     "Pasted image 20250308203707.png",
@@ -543,7 +546,6 @@
     "Non-relational DBs (NoSQL).md",
     "Choosing the Database.md",
     "Key-Value stores.md",
-    "Document DBs.md",
     "Sharding.md",
     "Scaling Databases (State-full Components).md",
     "Partitioning.md",
@@ -556,13 +558,11 @@
     "SysD.md",
     "Read Replica.md",
     "2025-03-08.md",
-    "Isolation Levels.md",
     "Pasted image 20250305073732.png",
     "Pasted image 20250301190348.png",
     "Pasted image 20250301190331.png",
     "Pasted image 20250301173153.png",
     "Pasted image 20250223160147.png",
-    "Pasted image 20250223155834.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
