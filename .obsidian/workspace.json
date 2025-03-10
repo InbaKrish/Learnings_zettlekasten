@@ -349,7 +349,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claim-Check Pattern.md",
+                "file": "Event-Sourcing pattern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -364,7 +364,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Claim-Check Pattern"
+              "title": "Event-Sourcing pattern"
             }
           }
         ],
@@ -527,9 +527,11 @@
   },
   "active": "dd6dd9532f4125f7",
   "lastOpenFiles": [
+    "Pasted image 20250310090204.png",
+    "Claim-Check Pattern.md",
+    "Event-Sourcing pattern.md",
     "Pasted image 20250310085623.png",
     "Document DBs.md",
-    "Claim-Check Pattern.md",
     "Redis.md",
     "Pasted image 20250310082200.png",
     "Pasted image 20250310082100.png",
@@ -557,12 +559,10 @@
     "Load Balance.md",
     "SysD.md",
     "Read Replica.md",
-    "2025-03-08.md",
     "Pasted image 20250305073732.png",
     "Pasted image 20250301190348.png",
     "Pasted image 20250301190331.png",
     "Pasted image 20250301173153.png",
-    "Pasted image 20250223160147.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
