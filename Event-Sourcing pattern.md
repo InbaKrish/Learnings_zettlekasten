@@ -16,7 +16,6 @@ Store the every events in a event store, like a database.
 
 1. **Event Creation** - when the user performs an action (say adds an item to the cart), the application creates an event object to describe the action.
 2. **Event Storage** - the event is stored in an append-only immutable storage, hence data can only be added, cannot be deleted/modified.
-3. **State Rebuilding** - to determine the current state of an entity, the application replays all the events related to that entity from the event store.
+3. **State Rebuilding** - to determine the current state of an entity, the application replays all the events related to that entity from the event store. ![[Pasted image 20250310090854.png]]
 
 Imagine an e-commerce application. Instead of storing the current state of a shopping cart (items, quantities, etc.), we store events like "_ItemAddedToCart_," "_ItemRemovedFromCart_," "_QuantityUpdated_," etc. Each event represents a specific change to the cart. The current state of the cart can be reconstructed at any time by replaying these events in order.
-
