@@ -349,7 +349,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event-Sourcing pattern.md",
+                "file": "Caching.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -364,7 +364,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Event-Sourcing pattern"
+              "title": "Caching"
             }
           }
         ],
@@ -527,11 +527,11 @@
   },
   "active": "dd6dd9532f4125f7",
   "lastOpenFiles": [
+    "Event-Sourcing pattern.md",
     "Pasted image 20250310090854.png",
     "Pasted image 20250310090846.png",
     "Pasted image 20250310090204.png",
     "Claim-Check Pattern.md",
-    "Event-Sourcing pattern.md",
     "Pasted image 20250310085623.png",
     "Document DBs.md",
     "Redis.md",
@@ -562,7 +562,6 @@
     "SysD.md",
     "Read Replica.md",
     "Pasted image 20250305073732.png",
-    "Pasted image 20250301190348.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
