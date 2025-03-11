@@ -366,9 +366,33 @@
               "icon": "lucide-file",
               "title": "Caching"
             }
+          },
+          {
+            "id": "f39af117868937ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Client side caching.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Client side caching"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -525,8 +549,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "dd6dd9532f4125f7",
+  "active": "f39af117868937ae",
   "lastOpenFiles": [
+    "Client side caching.md",
+    "Caching.md",
     "Event-Sourcing pattern.md",
     "Pasted image 20250310090854.png",
     "Pasted image 20250310090846.png",
@@ -537,7 +563,6 @@
     "Redis.md",
     "Pasted image 20250310082200.png",
     "Pasted image 20250310082100.png",
-    "Caching.md",
     "etcd - K8s.md",
     "Lambda Architecture.md",
     "Pasted image 20250308203707.png",

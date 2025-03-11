@@ -25,5 +25,5 @@ Cache stores - [[Redis]], [[Memcached]]
 
 
 ## Levels of Caching
-
+[[Client side caching]]
 
