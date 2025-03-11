@@ -373,7 +373,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Client side caching.md",
+                "file": "Scaling Databases (State-full Components).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -388,7 +388,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Client side caching"
+              "title": "Scaling Databases (State-full Components)"
             }
           }
         ],
@@ -424,7 +424,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cache",
+                "query": "tag:#SystemDesign/Databases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -445,12 +445,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5503abdb1d5b6ca1",
