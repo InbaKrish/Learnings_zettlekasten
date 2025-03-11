@@ -24,4 +24,6 @@ Cache stores - [[Redis]], [[Memcached]]
 	**Example** - youtube trending videos, when a high followers celebrity tweets/ports something.
 
 
+## Levels of Caching
+
 
