@@ -18,8 +18,10 @@ Cache stores - [[Redis]], [[Memcached]]
 ## Eager Population
 
 -> One way is the application writes the data to both the database and the cache at the same time.
-**Example** - live cricket score/commentary
+	**Example** - live cricket score/commentary
 
 -> Other way, in this we proactively push the data to the cache based on the pre-calculcated/expected traffic for the resource.
-**Example** - youtube trending videos, when a high followers ce
+	**Example** - youtube trending videos, when a high followers celebrity tweets/ports something.
+
+
 
