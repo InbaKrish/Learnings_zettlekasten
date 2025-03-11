@@ -13,5 +13,12 @@ Cache stores - [[Redis]], [[Memcached]]
 ## Lazy population
 
 -> First read for the required data in the cache if data exists, return it, else check for the database (do the heavy operations), then persist that data into the cache (with expiration) and return the data in the response.
-**Example** - caching blog and related contents in the cache for
+**Example** - caching blog and related contents in the cache for faster response.
+
+## Eager Population
+
+-> Application writes the data to both the database and the cache at the same time.
+**Example** - live cricket score/commentry
+
+
 
