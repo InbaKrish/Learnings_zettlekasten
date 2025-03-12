@@ -390,9 +390,33 @@
               "icon": "lucide-file",
               "title": "Scaling Databases (State-full Components)"
             }
+          },
+          {
+            "id": "f883e975809b7fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CDN (Content Delivery Networks).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CDN (Content Delivery Networks)"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -549,8 +573,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f39af117868937ae",
+  "active": "f883e975809b7fa4",
   "lastOpenFiles": [
+    "Scaling Databases (State-full Components).md",
+    "CDN (Content Delivery Networks).md",
     "Client side caching.md",
     "Caching.md",
     "Event-Sourcing pattern.md",
@@ -576,7 +602,6 @@
     "Choosing the Database.md",
     "Key-Value stores.md",
     "Sharding.md",
-    "Scaling Databases (State-full Components).md",
     "Partitioning.md",
     "Pasted image 20250308133723.png",
     "Config Map & Secrets - K8s.md",
@@ -585,7 +610,6 @@
     "Ingress Controller.md",
     "Load Balance.md",
     "SysD.md",
-    "Read Replica.md",
     "Pasted image 20250305073732.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
