@@ -368,6 +368,30 @@
             }
           },
           {
+            "id": "ffb25cc26a2cd496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Client side caching.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Client side caching"
+            }
+          },
+          {
             "id": "f39af117868937ae",
             "type": "leaf",
             "state": {
@@ -416,7 +440,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -575,10 +599,10 @@
   },
   "active": "f883e975809b7fa4",
   "lastOpenFiles": [
-    "Scaling Databases (State-full Components).md",
-    "CDN (Content Delivery Networks).md",
-    "Client side caching.md",
     "Caching.md",
+    "Client side caching.md",
+    "CDN (Content Delivery Networks).md",
+    "Scaling Databases (State-full Components).md",
     "Event-Sourcing pattern.md",
     "Pasted image 20250310090854.png",
     "Pasted image 20250310090846.png",
