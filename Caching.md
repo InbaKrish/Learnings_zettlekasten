@@ -25,5 +25,5 @@ Cache stores - [[Redis]], [[Memcached]]
 
 
 ## Levels of Caching
-[[Client side caching]], [[CDN (Content Delivery Networks)]]
+[[Client side caching]], [[CDN (Content Delivery Networks)]],[[Remote Cache]]
 
