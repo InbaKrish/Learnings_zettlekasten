@@ -464,7 +464,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -621,10 +621,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "336ee287828b3818",
+  "active": "f883e975809b7fa4",
   "lastOpenFiles": [
-    "Remote Cache.md",
     "Caching.md",
+    "Remote Cache.md",
     "Scaling Databases (State-full Components).md",
     "Client side caching.md",
     "CDN (Content Delivery Networks).md",
