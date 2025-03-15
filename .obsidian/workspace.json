@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etcd - K8s.md",
+                "file": "Ingress Controller.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "etcd - K8s"
+              "title": "Ingress Controller"
             }
           },
           {
@@ -275,24 +275,10 @@
             "id": "b7f81d105d24c4c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Databases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Graph Databases"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -416,36 +402,12 @@
             }
           },
           {
-            "id": "f39af117868937ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scaling Databases (State-full Components).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scaling Databases (State-full Components)"
-            }
-          },
-          {
             "id": "f883e975809b7fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CDN (Content Delivery Networks).md",
+                "file": "Choosing the Database.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -460,11 +422,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CDN (Content Delivery Networks)"
+              "title": "Choosing the Database"
+            }
+          },
+          {
+            "id": "ee95018dd7e201e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Redis"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -496,7 +482,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SystemDesign/Databases",
+                "query": "tag:Cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -621,14 +607,23 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f883e975809b7fa4",
+  "active": "aaccaa0179c00c7b",
   "lastOpenFiles": [
-    "Pasted image 20250313085204.png",
+    "etcd - K8s.md",
+    "Column-Family Structure.md",
+    "Kubernetes.md",
+    "Graph Databases.md",
+    "Choosing the Database.md",
+    "Redis.md",
+    "Sharding.md",
+    "Wide Column Data stores.md",
+    "Key-Value stores.md",
     "Caching.md",
     "Remote Cache.md",
-    "Scaling Databases (State-full Components).md",
     "Client side caching.md",
     "CDN (Content Delivery Networks).md",
+    "Pasted image 20250313085204.png",
+    "Scaling Databases (State-full Components).md",
     "Event-Sourcing pattern.md",
     "Pasted image 20250310090854.png",
     "Pasted image 20250310090846.png",
@@ -636,29 +631,19 @@
     "Claim-Check Pattern.md",
     "Pasted image 20250310085623.png",
     "Document DBs.md",
-    "Redis.md",
     "Pasted image 20250310082200.png",
     "Pasted image 20250310082100.png",
-    "etcd - K8s.md",
     "Lambda Architecture.md",
     "Pasted image 20250308203707.png",
     "Pasted image 20250308203055.png",
     "SLA agreement.md",
     "Latency Metrics.md",
-    "Graph Databases.md",
-    "Wide Column Data stores.md",
-    "Column-Family Structure.md",
     "Non-relational DBs (NoSQL).md",
-    "Choosing the Database.md",
-    "Key-Value stores.md",
-    "Sharding.md",
     "Partitioning.md",
     "Pasted image 20250308133723.png",
     "Config Map & Secrets - K8s.md",
-    "Kubernetes.md",
     "Nginx.md",
     "Ingress Controller.md",
-    "Pasted image 20250305073732.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
