@@ -11,10 +11,24 @@
             "id": "5e629cf6ac53c68f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -173,10 +187,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "194bea2527d20605",
+  "active": "5e629cf6ac53c68f",
   "lastOpenFiles": [
-    "Kubernetes.md",
     "Untitled.md",
+    "Kubernetes.md",
     "Ingress Controller.md",
     "etcd - K8s.md",
     "Column-Family Structure.md",
