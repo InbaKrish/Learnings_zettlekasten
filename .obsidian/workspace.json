@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valet.md",
+                "file": "Valet Key pattern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Valet"
+              "title": "Valet Key pattern"
             }
           }
         ]
@@ -189,7 +189,8 @@
   },
   "active": "5e629cf6ac53c68f",
   "lastOpenFiles": [
-    "Valet.md",
+    "Pasted image 20250318141931.png",
+    "Valet Key pattern.md",
     "Kubernetes.md",
     "Ingress Controller.md",
     "etcd - K8s.md",
@@ -224,7 +225,6 @@
     "Partitioning.md",
     "Pasted image 20250308133723.png",
     "Config Map & Secrets - K8s.md",
-    "Nginx.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
