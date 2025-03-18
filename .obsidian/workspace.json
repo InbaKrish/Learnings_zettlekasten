@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Valet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Valet"
             }
           }
         ]
@@ -189,7 +189,7 @@
   },
   "active": "5e629cf6ac53c68f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Valet.md",
     "Kubernetes.md",
     "Ingress Controller.md",
     "etcd - K8s.md",
