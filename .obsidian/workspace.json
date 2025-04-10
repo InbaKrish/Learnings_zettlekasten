@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Token Bucket.md",
+                "file": "Asymmetric Encryption.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Token Bucket"
+              "title": "Asymmetric Encryption"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Cloud",
+                "query": "tag:#Cryptography/Encryption",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,9 +215,13 @@
   },
   "active": "fb40eb6e90c3df72",
   "lastOpenFiles": [
+    "Symmetric Encryption.md",
+    "Asymmetric Encryption.md",
+    "Hybrid Encryption.md",
+    "Pasted image 20240817185938.png",
+    "Token Bucket.md",
     "Pasted image 20250401073700.png",
     "Valet Key pattern.md",
-    "Token Bucket.md",
     "Pasted image 20250318141931.png",
     "Kubernetes.md",
     "Ingress Controller.md",
@@ -244,12 +249,7 @@
     "Pasted image 20250310082200.png",
     "Pasted image 20250310082100.png",
     "Lambda Architecture.md",
-    "Pasted image 20250308203707.png",
-    "Pasted image 20250308203055.png",
     "SLA agreement.md",
-    "Latency Metrics.md",
-    "Non-relational DBs (NoSQL).md",
-    "Partitioning.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
