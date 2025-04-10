@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asymmetric Encryption.md",
+                "file": "Digital Signature and verification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Asymmetric Encryption"
+              "title": "Digital Signature and verification"
             }
           }
         ],
@@ -215,9 +215,10 @@
   },
   "active": "fb40eb6e90c3df72",
   "lastOpenFiles": [
-    "Symmetric Encryption.md",
-    "Asymmetric Encryption.md",
     "Hybrid Encryption.md",
+    "Asymmetric Encryption.md",
+    "Digital Signature and verification.md",
+    "Symmetric Encryption.md",
     "Pasted image 20240817185938.png",
     "Token Bucket.md",
     "Pasted image 20250401073700.png",
