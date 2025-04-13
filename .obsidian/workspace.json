@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cryptography/Encryption",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +213,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "fb40eb6e90c3df72",
+  "active": "3e69df879c98fcea",
   "lastOpenFiles": [
     "Hybrid Encryption.md",
     "Asymmetric Encryption.md",
