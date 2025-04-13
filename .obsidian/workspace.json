@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Signature and verification.md",
+                "file": "Asymmetric Encryption.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Digital Signature and verification"
+              "title": "Asymmetric Encryption"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Cryptography/Encryption",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,12 +213,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "3e69df879c98fcea",
+  "active": "fb40eb6e90c3df72",
   "lastOpenFiles": [
-    "Hybrid Encryption.md",
+    "Symmetric Encryption.md",
     "Asymmetric Encryption.md",
     "Digital Signature and verification.md",
-    "Symmetric Encryption.md",
+    "Hybrid Encryption.md",
     "Pasted image 20240817185938.png",
     "Token Bucket.md",
     "Pasted image 20250401073700.png",
