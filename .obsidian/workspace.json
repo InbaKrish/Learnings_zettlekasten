@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Digital Signature and verification"
             }
+          },
+          {
+            "id": "3ad38669be1451e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebRTC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "WebRTC"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,12 +237,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "fb40eb6e90c3df72",
+  "active": "3ad38669be1451e4",
   "lastOpenFiles": [
+    "Digital Signature and verification.md",
+    "WebRTC.md",
     "Hybrid Encryption.md",
     "Asymmetric Encryption.md",
     "Symmetric Encryption.md",
-    "Digital Signature and verification.md",
     "Pasted image 20240817185938.png",
     "Token Bucket.md",
     "Pasted image 20250401073700.png",
@@ -250,7 +275,6 @@
     "Pasted image 20250310082200.png",
     "Pasted image 20250310082100.png",
     "Lambda Architecture.md",
-    "SLA agreement.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
