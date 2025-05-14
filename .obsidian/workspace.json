@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -333,8 +333,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "bc5a9eb5ef8c7c5c",
+  "active": "4a21d4afa96e3b9e",
   "lastOpenFiles": [
+    "NAT.md",
     "ICE.md",
     "WebRTC.md",
     "TURN.md",
@@ -342,7 +343,6 @@
     "Pasted image 20250514152004.png",
     "Pasted image 20250514151716.png",
     "Pasted image 20250514151548.png",
-    "NAT.md",
     "Pasted image 20250514124914.png",
     "Digital Signature and verification.md",
     "Hybrid Encryption.md",
