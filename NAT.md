@@ -2,6 +2,8 @@
 
 **NAT (Network Address Translation)** is a technique used in networking that **translates private IP addresses** used inside a local network to a **single public IP address (or a few)** used on the wider internet. It allows multiple devices on a private network to **share a single public IP address** for accessing external networks, such as the internet.
 
+![[Pasted image 20250514124914.png]]
+
 ---
 
 ## 🧠 Why NAT Exists
@@ -28,11 +30,8 @@
 2. **Router (NAT device)**:
     - Translates the source IP `192.168.1.2` to `203.0.113.10`, but keeps track of the original source port (e.g., maps `192.168.1.2:10500 → 203.0.113.10:50000`).
     - Sends request to `example.com:80` as if it came from `203.0.113.10:50000`.
-        
 3. **Server at example.com** responds to `203.0.113.10:50000`.
-    
 4. **Router receives the response**, looks in its NAT table, sees:
-    
     - `203.0.113.10:50000 → 192.168.1.2:10500`
-        
     - Translates the destination back and sends it to your laptop.
+
