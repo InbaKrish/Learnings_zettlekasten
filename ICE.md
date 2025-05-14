@@ -52,7 +52,7 @@ Assume both Alice and Bob are behind NATs.
 - Alice sends her candidates to Bob.
 - Bob sends his candidates to Alice.
 
-Usually via **SDP** inside a **signaling server** (e.g., WebSocket).
+Usually via [[SDP]] inside a **signaling server** (e.g., WebSocket).
 
 ---
 
