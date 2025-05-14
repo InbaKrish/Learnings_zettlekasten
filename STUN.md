@@ -5,7 +5,7 @@ Tell me my public IP Address/Port through NAT. Works for Full-cone, Post/Address
 Runs on post 3478, 5349 for TLS.
 
 ![[Pasted image 20250514151548.png]]
-![[Pasted image 20250514151716.png]]
+![[Pasted image 20250514151716.png]] can be resolved with [[TURN]]
 
 ---
 A **STUN (Session Traversal Utilities for NAT)** server is a tool used in networking—especially in **real-time communication (RTC)** applications like **VoIP, WebRTC, and video conferencing**—to help **clients behind NATs** discover their **public-facing IP address and port**.
