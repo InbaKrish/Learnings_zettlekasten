@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "WebRTC"
             }
+          },
+          {
+            "id": "6d7fe3dda4f25ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NAT"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,10 +261,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "3ad38669be1451e4",
+  "active": "6d7fe3dda4f25ccc",
   "lastOpenFiles": [
-    "Digital Signature and verification.md",
+    "NAT.md",
     "WebRTC.md",
+    "Digital Signature and verification.md",
     "Hybrid Encryption.md",
     "Asymmetric Encryption.md",
     "Symmetric Encryption.md",
@@ -274,7 +299,6 @@
     "Document DBs.md",
     "Pasted image 20250310082200.png",
     "Pasted image 20250310082100.png",
-    "Lambda Architecture.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
