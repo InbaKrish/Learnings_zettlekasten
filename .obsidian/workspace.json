@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -357,10 +357,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "3a4de4ae5bfa3b70",
+  "active": "3ad38669be1451e4",
   "lastOpenFiles": [
-    "Pasted image 20250514160358.png",
     "SDP.md",
+    "Pasted image 20250514160358.png",
     "ICE.md",
     "STUN.md",
     "NAT.md",
@@ -394,7 +394,6 @@
     "Client side caching.md",
     "Pasted image 20250313085204.png",
     "Pasted image 20250310090854.png",
-    "Pasted image 20250310090846.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
