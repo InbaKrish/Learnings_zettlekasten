@@ -7,3 +7,5 @@ Reference:
 ---
 [[NAT]] [[STUN]] [[ICE]] 
 
+![[Pasted image 20250515121946.png]]
+
