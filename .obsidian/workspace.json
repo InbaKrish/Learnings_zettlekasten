@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "6bf31aef97592cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State-Of-The-Art Prompting For AI Agents.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "State-Of-The-Art Prompting For AI Agents"
+            }
+          },
+          {
             "id": "bc5a9eb5ef8c7c5c",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -357,15 +381,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "3ad38669be1451e4",
+  "active": "6bf31aef97592cd4",
   "lastOpenFiles": [
+    "WebRTC.md",
+    "State-Of-The-Art Prompting For AI Agents.md",
     "Pasted image 20250515121946.png",
     "SDP.md",
     "Pasted image 20250514160358.png",
     "ICE.md",
     "STUN.md",
     "NAT.md",
-    "WebRTC.md",
     "TURN.md",
     "Pasted image 20250514152004.png",
     "Pasted image 20250514151716.png",
@@ -394,7 +419,6 @@
     "Remote Cache.md",
     "Client side caching.md",
     "Pasted image 20250313085204.png",
-    "Pasted image 20250310090854.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
