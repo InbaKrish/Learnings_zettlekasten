@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "c13d3ac87145de6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Long Term Agentic Memory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Long Term Agentic Memory"
+            }
+          },
+          {
             "id": "bc5a9eb5ef8c7c5c",
             "type": "leaf",
             "state": {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -381,10 +405,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6bf31aef97592cd4",
+  "active": "c13d3ac87145de6c",
   "lastOpenFiles": [
-    "WebRTC.md",
+    "Pasted image 20250607114430.png",
+    "Pasted image 20250607114251.png",
+    "Pasted image 20250607114217.png",
     "State-Of-The-Art Prompting For AI Agents.md",
+    "Long Term Agentic Memory.md",
+    "WebRTC.md",
     "Pasted image 20250515121946.png",
     "SDP.md",
     "Pasted image 20250514160358.png",
@@ -404,7 +432,6 @@
     "Token Bucket.md",
     "Pasted image 20250401073700.png",
     "Valet Key pattern.md",
-    "Pasted image 20250318141931.png",
     "Kubernetes.md",
     "Ingress Controller.md",
     "etcd - K8s.md",
@@ -416,9 +443,6 @@
     "Wide Column Data stores.md",
     "Key-Value stores.md",
     "Caching.md",
-    "Remote Cache.md",
-    "Client side caching.md",
-    "Pasted image 20250313085204.png",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
