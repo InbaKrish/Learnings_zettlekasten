@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Long Term Agentic Memory.md",
+                "file": "Nodes & Pods - K8s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Long Term Agentic Memory"
+              "title": "Nodes & Pods - K8s"
+            }
+          },
+          {
+            "id": "de49698d185a165c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kubernetes"
+            }
+          },
+          {
+            "id": "80e0ebdaafa4b67a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -248,7 +282,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -405,13 +439,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c13d3ac87145de6c",
+  "active": "80e0ebdaafa4b67a",
   "lastOpenFiles": [
+    "Nodes & Pods - K8s.md",
+    "Kubernetes.md",
+    "Kube-proxy.md",
+    "Long Term Agentic Memory.md",
     "Pasted image 20250607114430.png",
     "Pasted image 20250607114251.png",
     "Pasted image 20250607114217.png",
     "State-Of-The-Art Prompting For AI Agents.md",
-    "Long Term Agentic Memory.md",
     "WebRTC.md",
     "Pasted image 20250515121946.png",
     "SDP.md",
@@ -430,9 +467,7 @@
     "Symmetric Encryption.md",
     "Pasted image 20240817185938.png",
     "Token Bucket.md",
-    "Pasted image 20250401073700.png",
     "Valet Key pattern.md",
-    "Kubernetes.md",
     "Ingress Controller.md",
     "etcd - K8s.md",
     "Column-Family Structure.md",
@@ -442,7 +477,6 @@
     "Sharding.md",
     "Wide Column Data stores.md",
     "Key-Value stores.md",
-    "Caching.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
