@@ -152,16 +152,6 @@
             }
           },
           {
-            "id": "80e0ebdaafa4b67a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "bc5a9eb5ef8c7c5c",
             "type": "leaf",
             "state": {
@@ -282,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -444,6 +434,8 @@
   "lastOpenFiles": [
     "Nodes & Pods - K8s.md",
     "Kubernetes.md",
+    "RubyConf 2024 - CFP.md",
+    "ICE.md",
     "Kube-proxy.md",
     "Long Term Agentic Memory.md",
     "Pasted image 20250607114430.png",
@@ -454,7 +446,6 @@
     "Pasted image 20250515121946.png",
     "SDP.md",
     "Pasted image 20250514160358.png",
-    "ICE.md",
     "STUN.md",
     "NAT.md",
     "TURN.md",
@@ -477,7 +468,6 @@
     "Redis.md",
     "Sharding.md",
     "Wide Column Data stores.md",
-    "Key-Value stores.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
