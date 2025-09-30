@@ -282,7 +282,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -314,7 +314,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cryptography/Encryption",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -440,7 +440,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "80e0ebdaafa4b67a",
+  "active": "bc5a9eb5ef8c7c5c",
   "lastOpenFiles": [
     "Nodes & Pods - K8s.md",
     "Kubernetes.md",
