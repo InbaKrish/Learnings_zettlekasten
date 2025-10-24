@@ -35,24 +35,10 @@
             "id": "bcde9b09e16a74bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NAT"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -217,8 +203,8 @@
   },
   "active": "bcde9b09e16a74bc",
   "lastOpenFiles": [
-    "WebRTC.md",
     "NAT.md",
+    "WebRTC.md",
     "ICE.md",
     "Nodes & Pods - K8s.md",
     "Kubernetes.md",
