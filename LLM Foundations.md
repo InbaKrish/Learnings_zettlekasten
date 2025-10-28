@@ -7,4 +7,9 @@ Reference:
 ![[Pasted image 20251028180252.png]]
 
 AI - Branch of computer science making machines think and have human like behaviours
-ML - learn pattern from data and 
+ML - learn pattern from data and make predictions
+NN - mimic human brain 
+DL - subset of NN, to solve complex problems
+GenAI - generative dynamic content based on the patterns learnt
+LLM - form of GenAI, generates human like text from the extensive textual data
+
