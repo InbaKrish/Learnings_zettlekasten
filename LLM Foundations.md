@@ -6,3 +6,5 @@ Reference:
 ---
 ![[Pasted image 20251028180252.png]]
 
+AI - Branch of computer science making machines think and have human like behaviours
+ML - learn pattern from data and 
