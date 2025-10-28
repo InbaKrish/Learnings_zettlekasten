@@ -17,5 +17,5 @@ LLM - form of GenAI, generates human like text from the extensive textual data
 Lies at the core of GenAI. Generates data out of simple input data. (eg: ChatGPT)
 Trained using [[Supervised Learning]] (using data with corresponding labels)
 
-Look into [[Markov Chain]], which is an early example of GenAI.
+Look Ups - [[Markov Chain]], which is an early example of GenAI and GAN ([General Adversarial Networks](https://areganti.notion.site/Week-1-Part-1-Applied-LLM-Foundations-and-Real-World-Use-Cases-3f381d027e0041739fec6178d3f8aa18#:~:text=The%20landscape%20has,of%20generated%20content.))
 
