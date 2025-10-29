@@ -40,57 +40,9 @@
               "icon": "lucide-file",
               "title": "AI Agents"
             }
-          },
-          {
-            "id": "5edd4cdd7ca6f5f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM Foundations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LLM Foundations"
-            }
-          },
-          {
-            "id": "43636bfe031dc362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LLM"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,12 +200,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "43636bfe031dc362",
+  "active": "bcde9b09e16a74bc",
   "lastOpenFiles": [
+    "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
+    "LLM Foundations.md",
+    "Untitled.base",
+    "LLM.md",
+    "2402.06196v3.pdf",
+    "Unconfirmed 143936.crdownload",
     "WebRTC.md",
     "AI Agents.md",
-    "LLM Foundations.md",
-    "LLM.md",
     "Pasted image 20251028180252.png",
     "NAT.md",
     "ICE.md",
@@ -286,16 +241,12 @@
     "etcd - K8s.md",
     "Column-Family Structure.md",
     "Graph Databases.md",
-    "Choosing the Database.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
     "BlogPosts",
     "Blog-Foundry",
     "Project-Foundry",
-    "Misc/crypt-play/important.txt",
-    "Misc/crypt-play/crypto-commands.txt",
-    "Misc/crypt-play",
-    "Misc/crypt-play.zip"
+    "Misc/crypt-play/important.txt"
   ]
 }
