@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "bcde9b09e16a74bc",
+            "id": "7a48de0d6c5ddd91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Agents.md",
+                "file": "LLM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI Agents"
+              "title": "LLM"
+            }
+          },
+          {
+            "id": "bcde9b09e16a74bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance"
             }
           }
         ],
@@ -200,16 +224,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "bcde9b09e16a74bc",
+  "active": "7a48de0d6c5ddd91",
   "lastOpenFiles": [
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
+    "AI Agents.md",
     "LLM Foundations.md",
     "Untitled.base",
     "LLM.md",
     "2402.06196v3.pdf",
     "Unconfirmed 143936.crdownload",
     "WebRTC.md",
-    "AI Agents.md",
     "Pasted image 20251028180252.png",
     "NAT.md",
     "ICE.md",

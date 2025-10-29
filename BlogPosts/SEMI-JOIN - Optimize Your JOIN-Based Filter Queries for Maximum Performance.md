@@ -5,6 +5,8 @@ tags:
   - Databases
 date: 2025-03-25
 draft: "false"
+Reference:
+  - https://arxiv.org/html/2502.15181v1
 ---
 
 Think about you have two tables author and blogs, 
