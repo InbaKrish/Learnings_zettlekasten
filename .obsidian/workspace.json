@@ -11,24 +11,10 @@
             "id": "bc5a9eb5ef8c7c5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebRTC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "WebRTC"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -265,11 +251,11 @@
   },
   "active": "43636bfe031dc362",
   "lastOpenFiles": [
-    "LLM.md",
-    "LLM Foundations.md",
-    "Pasted image 20251028180252.png",
-    "AI Agents.md",
     "WebRTC.md",
+    "AI Agents.md",
+    "LLM Foundations.md",
+    "LLM.md",
+    "Pasted image 20251028180252.png",
     "NAT.md",
     "ICE.md",
     "Nodes & Pods - K8s.md",

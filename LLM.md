@@ -1,3 +1,7 @@
+---
+Reference:
+  - https://arxiv.org/html/2402.06196v3#S1
+---
 **Large** means the size of the dataset and the architecture.
 Trained on a massive dataset, so that it recognize the language and more complex patterns.
 Model parameters are like the knobs and switches that the algorithm tunes during training to make accurate predictions or generate meaningful outputs.
