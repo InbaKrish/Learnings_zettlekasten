@@ -11,7 +11,7 @@ ML - learn pattern from data and make predictions
 NN - mimic human brain 
 DL - subset of NN, to solve complex problems
 GenAI - generative dynamic content based on the patterns learnt
-LLM - form of GenAI, generates human like text from the extensive textual data
+[[LLM]] - form of GenAI, generates human like text from the extensive textual data
 
 ## Foundation Models
 Lies at the core of GenAI. Generates data out of simple input data. (eg: ChatGPT)

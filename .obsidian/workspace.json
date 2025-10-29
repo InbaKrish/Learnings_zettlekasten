@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "LLM Foundations"
             }
+          },
+          {
+            "id": "43636bfe031dc362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LLM"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,10 +263,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "5edd4cdd7ca6f5f9",
+  "active": "43636bfe031dc362",
   "lastOpenFiles": [
-    "Pasted image 20251028180252.png",
+    "LLM.md",
     "LLM Foundations.md",
+    "Pasted image 20251028180252.png",
     "AI Agents.md",
     "WebRTC.md",
     "NAT.md",
@@ -269,7 +294,6 @@
     "Hybrid Encryption.md",
     "Asymmetric Encryption.md",
     "Symmetric Encryption.md",
-    "Pasted image 20240817185938.png",
     "Token Bucket.md",
     "Valet Key pattern.md",
     "Ingress Controller.md",
