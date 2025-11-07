@@ -4,6 +4,7 @@ Reference:
 ---
 ## Pre-Training
 
+[[]]
 Takes days to weeks to months. Uses large set of data (for domain training) - can customize the model's architecture, size, tokenizer, etc,.
 
 Pre-trained on extensive datasets.
@@ -12,4 +13,7 @@ Examples of domain-specific pre-training include models like ESMFold, ProGen2 fo
 
 ---
 ## Fine-Tuning
+
 Takes minutes to hours.
+
+Fine-tuning involves training a pre-trained LLM on a specific task or domain, adapting its knowledge to a narrower context. Examples include Alpaca (fine-tuned LLaMA-7B model for general tasks), xFinance (fine-tuned LLaMA-13B model for financial-specific tasks), and ChatDoctor (fine-tuned LLaMA-7B model for medical chat). The costs for fine-tuning are significantly smaller compared to pre-training.
