@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Training.md",
+                "file": "Domain Adaptation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pre-Training"
+              "title": "Domain Adaptation"
             }
           },
           {
@@ -250,8 +250,9 @@
   },
   "active": "d57cd3dcae10e946",
   "lastOpenFiles": [
-    "Domain Adaptation.md",
+    "Pasted image 20251126154151.png",
     "Pre-Training.md",
+    "Domain Adaptation.md",
     "LLM.md",
     "Zero-shot learning.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
@@ -288,7 +289,6 @@
     "Symmetric Encryption.md",
     "Token Bucket.md",
     "Valet Key pattern.md",
-    "Ingress Controller.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
