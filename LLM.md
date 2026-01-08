@@ -2,7 +2,9 @@
 Reference:
   - https://arxiv.org/html/2402.06196v3#S1
 ---
+[[Representation Models]] are LLMs that won't generate text and is used for task specific use cases like classifications.
 
+Whereas [[Generation Models]] are the one's which generates text outputs
 
 **Large** means the size of the dataset and the architecture.
 Trained on a massive dataset, so that it recognize the language and more complex patterns.
