@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
+                "file": "LLM Foundations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -122,11 +122,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance"
+              "title": "LLM Foundations"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -284,17 +284,18 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "7c6c5fa93db0eca2",
+  "active": "7a48de0d6c5ddd91",
   "lastOpenFiles": [
+    "LLM Foundations.md",
+    "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
+    "Untitled.md",
     "Fine-Tuning.md",
     "Domain Adaptation.md",
     "Pasted image 20251126154151.png",
     "Pre-Training.md",
     "LLM.md",
     "Zero-shot learning.md",
-    "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "AI Agents.md",
-    "LLM Foundations.md",
     "Untitled.base",
     "2402.06196v3.pdf",
     "Unconfirmed 143936.crdownload",
@@ -324,7 +325,6 @@
     "Asymmetric Encryption.md",
     "Symmetric Encryption.md",
     "Token Bucket.md",
-    "Valet Key pattern.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
