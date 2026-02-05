@@ -11,10 +11,24 @@
             "id": "bc5a9eb5ef8c7c5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ingress Controller.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ingress Controller"
             }
           },
           {
@@ -125,8 +139,7 @@
               "title": "LLM Foundations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,8 +298,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "7a48de0d6c5ddd91",
+  "active": "bc5a9eb5ef8c7c5c",
   "lastOpenFiles": [
+    "Symmetric Encryption.md",
     "Asymmetric Encryption.md",
     "Scaling Databases (State-full Components).md",
     "WebRTC.md",
@@ -325,7 +339,6 @@
     "Pasted image 20250514151548.png",
     "Digital Signature and verification.md",
     "Hybrid Encryption.md",
-    "Symmetric Encryption.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
