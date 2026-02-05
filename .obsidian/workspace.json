@@ -21,10 +21,24 @@
             "id": "7a48de0d6c5ddd91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Symmetric Encryption.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Symmetric Encryption"
             }
           },
           {
@@ -144,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SystemDesign",
+                "query": "tag:#Cryptography/Encryption",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,6 +287,7 @@
   },
   "active": "7a48de0d6c5ddd91",
   "lastOpenFiles": [
+    "Asymmetric Encryption.md",
     "Scaling Databases (State-full Components).md",
     "WebRTC.md",
     "LLM.md",
@@ -310,7 +325,6 @@
     "Pasted image 20250514151548.png",
     "Digital Signature and verification.md",
     "Hybrid Encryption.md",
-    "Asymmetric Encryption.md",
     "Symmetric Encryption.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
