@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "565efdc5050d0757",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "7a48de0d6c5ddd91",
             "type": "leaf",
             "state": {
@@ -139,7 +151,8 @@
               "title": "LLM Foundations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,7 +311,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "bc5a9eb5ef8c7c5c",
+  "active": "565efdc5050d0757",
   "lastOpenFiles": [
     "Symmetric Encryption.md",
     "Asymmetric Encryption.md",
