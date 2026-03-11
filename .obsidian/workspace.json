@@ -47,23 +47,48 @@
             "id": "ccfd6c186a470cfa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents"
             }
           },
           {
             "id": "7a48de0d6c5ddd91",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Symmetric Encryption.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Symmetric Encryption"
             }
           },
           {
@@ -312,10 +337,10 @@
   },
   "active": "ccfd6c186a470cfa",
   "lastOpenFiles": [
-    "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
-    "Untitled.base",
-    "Untitled.md",
     "Symmetric Encryption.md",
+    "Untitled.base",
+    "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
+    "Untitled.md",
     "Asymmetric Encryption.md",
     "Scaling Databases (State-full Components).md",
     "WebRTC.md",
