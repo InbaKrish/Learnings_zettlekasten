@@ -17,3 +17,14 @@ It acts as the **AI’s short-term working memory** during a coding session.
 ---
 
 ## What's already been handled by Cursor (to Manage the context)?
+
+### MCP - Loading only the required
+
+ Agent only receives a small bit of static context, including names of the tools, prompting it to look up tools when the task calls for it.
+ ![[Pasted image 20260311193110.png]]
+
+### Chat History Compaction
+
+When the model's context window fills up, Cursor triggers a summarization step to give the agent a fresh context window with a summary of its work so far.
+
+**Note:** But the agent's knowledge can degrade after summarization since it's a lossy compression of the context. The agent might have forgotten crucial details about its task.
