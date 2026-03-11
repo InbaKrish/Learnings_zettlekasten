@@ -99,21 +99,22 @@ The primary engineering trade-off for LSP integration is latency and infrastruct
 
 Code snippet
 
-```
+```mermaid
 sequenceDiagram
-    participant LLM as Coding Agent (LLM Core)
-    participant Orchestrator as Context Engine (Tool Caller)
-    participant LSP as Language Server (e.g., TSServer, Pyright)
-    participant FS as Local File System
-    
-    LLM->>Orchestrator: Call Tool: get_symbol_definition("api/user_controller.ts", line 45, col 12)
-    Orchestrator->>LSP: JSON-RPC Request: textDocument/definition
-    Note right of LSP: Parses active AST, computes exact symbol reference based on TS scoping rules.
-    LSP-->>Orchestrator: JSON Response: {"uri": "file:///models/user_entity.ts", "range": {"start": {"line": 10}, "end": {"line": 25}}}
-    Orchestrator->>FS: Read file "models/user_entity.ts" at precise extracted range
-    FS-->>Orchestrator: Returns precise class interface and docstring
-    Orchestrator-->>LLM: Context Injected: "interface UserEntity { id: string; save(db: Database): Promise<boolean>; }"
-    Note left of LLM: Agent continues reasoning iteration with mathematically exact, compiler-verified context.
+    participant LLM
+    participant Orchestrator
+    participant LSP
+    participant FS
+
+    LLM->>Orchestrator: get symbol definition
+    Orchestrator->>LSP: textDocument definition request
+    LSP-->>Orchestrator: return uri and range
+    Orchestrator->>FS: read file
+    FS-->>Orchestrator: return interface snippet
+    Orchestrator-->>LLM: inject context
+
+    Note right of LSP: parses AST and resolves symbol
+    Note left of LLM: continues reasoning with verified context
 ```
 
 ## Practical Application
@@ -153,42 +154,38 @@ Furthermore, HITL requires highly granular, Role-Based Access Control (RBAC) pol
 
 Code snippet
 
-```
+```mermaid
 stateDiagram-v2
-    [*] --> LLM_Reasoning: User Prompt or Background Task Received
-    
-    LLM_Reasoning --> ToolCall_Generation: Agent Decides on Action
-    
-    ToolCall_Generation --> PolicyEngine: Emit Proposed Action (e.g., Bash Command)
-    
+    [*] --> LLM_Reasoning
+
+    LLM_Reasoning --> ToolCall_Generation
+    ToolCall_Generation --> PolicyEngine
+
     state PolicyEngine {
         direction LR
-        Evaluate --> Safe_Action: Read-Only / Within Boundary
-        Evaluate --> Requires_Approval: Mutates State / Destructive
+        Evaluate --> Safe_Action
+        Evaluate --> Requires_Approval
     }
-    
-    PolicyEngine --> ExecutionSandbox: If Evaluated as Safe_Action
-    
-    PolicyEngine --> ThreadSuspension: If Evaluated as Requires_Approval
-    
-    ThreadSuspension --> NotificationService: Serialize State & Dispatch Request (IDE UI/Slack)
-    
-    NotificationService --> HumanOperator: Display Proposed Action, Reasoning, and Impact
-    
-    HumanOperator --> WebhookReceiver: Human Input: Approve / Reject / Modify Command
-    
-    WebhookReceiver --> StateRehydration: Deserialization
-    
-    StateRehydration --> ExecutionSandbox: If Approved
-    StateRehydration --> FeedbackLoop: If Rejected (Inject Human Rejection Note into Context)
-    StateRehydration --> ModifiedExecution: If Modified by User
-    
-    FeedbackLoop --> LLM_Reasoning: Agent attempts alternative reasoning path
-    
-    ExecutionSandbox --> LLM_Reasoning: Return terminal standard output/error
-    ModifiedExecution --> LLM_Reasoning: Return terminal output
-    
-    LLM_Reasoning --> [*]: Final Goal Accomplished
+
+    PolicyEngine --> ExecutionSandbox
+    PolicyEngine --> ThreadSuspension
+
+    ThreadSuspension --> NotificationService
+    NotificationService --> HumanOperator
+    HumanOperator --> WebhookReceiver
+
+    WebhookReceiver --> StateRehydration
+
+    StateRehydration --> ExecutionSandbox
+    StateRehydration --> FeedbackLoop
+    StateRehydration --> ModifiedExecution
+
+    FeedbackLoop --> LLM_Reasoning
+
+    ExecutionSandbox --> LLM_Reasoning
+    ModifiedExecution --> LLM_Reasoning
+
+    LLM_Reasoning --> [*]
 ```
 
 ## Practical Application
@@ -227,7 +224,7 @@ The architectural genius of multi-tiered RAG lies in the parallel synthesis of t
 
 Code snippet
 
-```
+```mermaid
 flowchart TD
     User --> Classifier{LLM Query Intent & Routing Classifier}
     
@@ -281,7 +278,7 @@ Furthermore, intelligent summarization techniques are consistently applied to ol
 
 Code snippet
 
-```
+```mermaid
 flowchart TD
     Q --> H
     
