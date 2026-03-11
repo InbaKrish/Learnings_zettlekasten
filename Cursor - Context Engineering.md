@@ -14,6 +14,16 @@ It acts as the **AI’s short-term working memory** during a coding session.
 - **Our Only Lever:** Aside from training a custom model, curating the context window is the _only_ tool we have to influence the quality of the agent's next action
 - **Avoiding the "Dumb Zone":** The more you fill the 170k+ token context window, the worse your outcomes will get. Pushing an agent past roughly 40% capacity with noise and bloated tool outputs forces it into a "dumb zone" where performance drops
 
+You should optimize your context window for:
+- Correctness
+- Completeness
+- Size
+
+Put another way, the worst things that can happen to your context window, in order, are:
+- Incorrect Information
+- Missing Information
+- Too much Noise
+
 ---
 
 ## What's already been handled by Cursor (to Manage the context)?
@@ -48,7 +58,13 @@ Back and forth chatbot vibe.
 
 ### Slightly Better Way
 
-start over when you get off track, discarding your session and starting a new one, perhaps with a little more steering in the prompt.
+Start over when you get off track, discarding your session and starting a new one, perhaps with a little more steering in the prompt.
 
 > [original prompt], but make sure you use XYZ approach, because ABC approach won't work
+
+### Slightly Smarter - Intentional Compaction
+
+We have probably done something I've come to call "intentional compaction". Whether you're on track or not, as your context starts to fill up, you probably want to pause your work and start over with a fresh context window. To do this, you might use a prompt like,
+
+> "Write everything we did so far to `progress.md`, ensure to note the end goal, the approach we're taking, the steps we've done so far, and the current failure we're working on"
 
