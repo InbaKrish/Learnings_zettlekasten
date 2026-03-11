@@ -35,3 +35,12 @@ When the model's context window fills up, Cursor triggers a summarization step t
 
 1. Storing tool responses to files and letting agent find only the required part, instead of dumping all to the context.
 2. Storing the terminal outputs in a similar way to efficiently focus on the required part instead of dumping all the terminal content.
+
+---
+
+## How we manage agent's context?
+
+### Naive Way
+
+Back and forth chatbot vibe.
+
