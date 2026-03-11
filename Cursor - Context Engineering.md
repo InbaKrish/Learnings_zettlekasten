@@ -68,3 +68,18 @@ We have probably done something I've come to call "intentional compaction". Whet
 
 > "Write everything we did so far to `progress.md`, ensure to note the end goal, the approach we're taking, the steps we've done so far, and the current failure we're working on"
 
+#### What Exactly Are We Compacting?
+
+What eats up context?
+
+- Searching for files
+- Understanding code flow
+- Applying edits
+- Test/build logs
+- Huge JSON blobs from tools
+
+All of these can flood the context window. **Compaction** is simply distilling them into structured artifacts.
+
+![[Pasted image 20260311195516.png]]
+
+
