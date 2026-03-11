@@ -44,3 +44,11 @@ When the model's context window fills up, Cursor triggers a summarization step t
 
 Back and forth chatbot vibe.
 
+![[Pasted image 20260311194225.png]]
+
+### Slightly Better Way
+
+start over when you get off track, discarding your session and starting a new one, perhaps with a little more steering in the prompt.
+
+> [original prompt], but make sure you use XYZ approach, because ABC approach won't work
+
