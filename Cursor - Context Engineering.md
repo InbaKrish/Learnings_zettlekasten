@@ -62,7 +62,7 @@ Start over when you get off track, discarding your session and starting a new on
 
 > [original prompt], but make sure you use XYZ approach, because ABC approach won't work
 
-### Slightly Smarter - Intentional Compaction
+### Intentional Compaction
 
 We have probably done something I've come to call "intentional compaction". Whether you're on track or not, as your context starts to fill up, you probably want to pause your work and start over with a fresh context window. To do this, you might use a prompt like,
 
@@ -81,5 +81,14 @@ What eats up context?
 All of these can flood the context window. **Compaction** is simply distilling them into structured artifacts.
 
 ![[Pasted image 20260311195516.png]]
+
+
+### Using Sub-Agents
+
+Sub-Agents - default sub-agents are already a feature in cursor. We can manually trigger sub-agents to dedicate some research work aside in a separate context instead of polluting the main context window.
+
+Say, checking through some referenced like RFC, Tech Docs, PRDs, JIRA tickets, etc,. these can be dedicated to Sub-agents so they take the entire content and compact the required info and give that back to main agent.
+
+![[Pasted image 20260311200831.png]]
 
 
