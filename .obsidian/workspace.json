@@ -342,14 +342,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "copilot:Copilot Chat": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "840fa0b76ba7fdc8",
   "lastOpenFiles": [
-    "Cursor - Context Engineering.md",
-    "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
     "Symmetric Encryption.md",
+    "Excalidraw/Drawing 2026-03-11 18.57.11.excalidraw.md",
+    "Cursor - Context Engineering.md",
+    "Excalidraw",
+    "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
     "Untitled.base",
     "Asymmetric Encryption.md",
     "Scaling Databases (State-full Components).md",
@@ -390,7 +393,6 @@
     "vector_based_img_search_ror.pdf",
     "BlogPosts",
     "Blog-Foundry",
-    "Project-Foundry",
-    "Misc/crypt-play/important.txt"
+    "Project-Foundry"
   ]
 }
