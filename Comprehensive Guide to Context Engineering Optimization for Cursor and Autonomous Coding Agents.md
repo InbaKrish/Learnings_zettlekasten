@@ -1,3 +1,11 @@
+---
+tags:
+  - AI
+Reference:
+  - https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
+  - https://www.youtube.com/watch?v=rmvDxxNubIg
+  - https://github.com/humanlayer/humanlayer
+---
 The paradigm of software development is undergoing a profound structural shift driven by the integration of Large Language Models (LLMs) into the integrated development environment (IDE). The transition from rudimentary code completion tools to autonomous, agentic systems capable of orchestrating complex repository-wide refactoring necessitates a fundamental evolution in how these systems process information. This evolution is encapsulated in the discipline of context engineering. Unlike prompt engineering, which focuses on the semantic phrasing of instructions to elicit specific responses, context engineering is the systematic, algorithmic curation, structuring, and provisioning of external data to an LLM to ground its reasoning within a specific, localized environment.
 
 For coding agents, this localized environment is the codebase—a highly structured, interconnected, and logically deterministic graph of files, functions, dependencies, and execution states. The core challenge in context engineering for coding agents lies in the inherent limitations of transformer-based architectures. While context windows have expanded substantially, processing hundreds of thousands of tokens introduces severe latency, high computational costs, and the well-documented attention degradation phenomenon, where models fail to retrieve relevant facts buried within massive context payloads. Furthermore, code is not akin to natural language prose; it is a rigid, mathematical structure where a single hallucinated variable name or misunderstood type signature renders the entire output mathematically and functionally invalid.

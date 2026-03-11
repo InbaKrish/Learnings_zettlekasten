@@ -229,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -336,7 +335,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ccfd6c186a470cfa",
+  "active": "194bea2527d20605",
   "lastOpenFiles": [
     "Untitled.base",
     "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
