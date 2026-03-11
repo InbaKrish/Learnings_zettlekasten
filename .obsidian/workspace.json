@@ -47,24 +47,10 @@
             "id": "ccfd6c186a470cfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -337,9 +323,9 @@
   },
   "active": "ccfd6c186a470cfa",
   "lastOpenFiles": [
+    "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
     "Symmetric Encryption.md",
     "Untitled.base",
-    "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
     "Untitled.md",
     "Asymmetric Encryption.md",
     "Scaling Databases (State-full Components).md",
