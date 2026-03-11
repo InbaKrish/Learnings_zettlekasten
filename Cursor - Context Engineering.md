@@ -28,3 +28,10 @@ It acts as the **AI’s short-term working memory** during a coding session.
 When the model's context window fills up, Cursor triggers a summarization step to give the agent a fresh context window with a summary of its work so far.
 
 **Note:** But the agent's knowledge can degrade after summarization since it's a lossy compression of the context. The agent might have forgotten crucial details about its task.
+
+![[Pasted image 20260311193242.png]]
+
+### Others
+
+1. Storing tool responses to files and letting agent find only the required part, instead of dumping all to the context.
+2. Storing the terminal outputs in a similar way to efficiently focus on the required part instead of dumping all the terminal content.
