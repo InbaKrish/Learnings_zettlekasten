@@ -107,4 +107,3 @@ Designing your **ENTIRE WORKFLOW** around context management, and keeping utiliz
 **This is not magic**, frequent Intentional Compaction via a research/plan/implement flow will make your performance **better**, but what makes it **good enough for hard problems** is that you build high-leverage human review into your pipeline.
 
 ![[Pasted image 20260312134454.png]]
-
