@@ -107,3 +107,7 @@ Designing your **ENTIRE WORKFLOW** around context management, and keeping utiliz
 **This is not magic**, frequent Intentional Compaction via a research/plan/implement flow will make your performance **better**, but what makes it **good enough for hard problems** is that you build high-leverage human review into your pipeline.
 
 ![[Pasted image 20260312134454.png]]
+
+A bad line of code is… a bad line of code. But a bad line of a **plan** could lead to hundreds of bad lines of code. And a bad line of **research**, a misunderstanding of how the codebase works or where certain functionality is located, could land you with thousands of bad lines of code.
+
+![[Pasted image 20260312135028.png]]
