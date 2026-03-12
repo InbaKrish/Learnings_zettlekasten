@@ -96,4 +96,5 @@ Say, checking through some referenced like RFC, Tech Docs, PRDs, JIRA tickets, e
 Designing your **ENTIRE WORKFLOW** around context management, and keeping utilization in the 40%-60% range (depends on complexity of the problem)
 
 **Research** - Understand the codebase, the files relevant to the issue, and how information flows, and perhaps potential causes of a problem.
-> Works well to perform any analysis, checking the im
+> Works well to perform any analysis, checking the impact area's before proposing an approach
+
