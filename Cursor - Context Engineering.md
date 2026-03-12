@@ -100,4 +100,9 @@ Designing your **ENTIRE WORKFLOW** around context management, and keeping utiliz
 
 **Plan** - *You know what it is*, with the research we did (if we) and other references and query, trigger the Plan mode to generate a plan for the implementation.
 
-**Implement** - 
+**Implement** - Trigger the plan to build it.
+
+**THE IMPORTANT PART IS, EACH STEPS ARE EXECUTED IN SEPARATE CHAT WINDOWS (THAT'S THE WHOLE POINT).**
+
+**This is not magic**, frequent Intentional Compaction via a research/plan/implement flow will make your performance **better**, but what makes it **good enough for hard problems** is that you build high-leverage human review into your pipeline.
+
