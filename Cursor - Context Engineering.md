@@ -91,10 +91,13 @@ Say, checking through some referenced like RFC, Tech Docs, PRDs, JIRA tickets, e
 ![[Pasted image 20260311200831.png]]
 
 
-### Frequent Intentional Comapaction - RPI
+### Frequent Intentional Compaction - RPI
 
 Designing your **ENTIRE WORKFLOW** around context management, and keeping utilization in the 40%-60% range (depends on complexity of the problem)
 
 **Research** - Understand the codebase, the files relevant to the issue, and how information flows, and perhaps potential causes of a problem.
 > Works well to perform any analysis, checking the impact area's before proposing an approach
 
+**Plan** - *You know what it is*, with the research we did (if we) and other references and query, trigger the Plan mode to generate a plan for the implementation.
+
+**Implement** - 

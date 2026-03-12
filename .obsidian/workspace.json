@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "840fa0b76ba7fdc8",
+            "id": "7a48de0d6c5ddd91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,30 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "Cursor - Context Engineering"
-            }
-          },
-          {
-            "id": "7a48de0d6c5ddd91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symmetric Encryption.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Symmetric Encryption"
             }
           },
           {
@@ -347,8 +323,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "840fa0b76ba7fdc8",
+  "active": "7a48de0d6c5ddd91",
   "lastOpenFiles": [
+    "Symmetric Encryption.md",
+    "WebRTC.md",
+    "Cursor - Context Engineering.md",
     "Pasted image 20260311200831.png",
     "Pasted image 20260311195516.png",
     "Pasted image 20260311194225.png",
@@ -357,15 +336,12 @@
     "Pasted image 20260311191944.png",
     "Pasted image 20260311191514.png",
     "Pasted image 20260311191152.png",
-    "Symmetric Encryption.md",
     "Excalidraw/Drawing 2026-03-11 18.57.11.excalidraw.md",
-    "Cursor - Context Engineering.md",
     "Excalidraw",
     "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
     "Untitled.base",
     "Asymmetric Encryption.md",
     "Scaling Databases (State-full Components).md",
-    "WebRTC.md",
     "LLM.md",
     "LLM Foundations.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
@@ -385,7 +361,6 @@
     "RubyConf 2024 - CFP.md",
     "Kube-proxy.md",
     "Long Term Agentic Memory.md",
-    "Pasted image 20250607114430.png",
     "State-Of-The-Art Prompting For AI Agents.md",
     "SDP.md",
     "STUN.md",
