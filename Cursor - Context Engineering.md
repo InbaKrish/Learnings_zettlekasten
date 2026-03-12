@@ -82,7 +82,6 @@ All of these can flood the context window. **Compaction** is simply distilling
 
 ![[Pasted image 20260311195516.png]]
 
-
 ### Using Sub-Agents
 
 Sub-Agents - default sub-agents are already a feature in cursor. We can manually trigger sub-agents to dedicate some research work aside in a separate context instead of polluting the main context window.
@@ -92,3 +91,4 @@ Say, checking through some referenced like RFC, Tech Docs, PRDs, JIRA tickets, e
 ![[Pasted image 20260311200831.png]]
 
 
+### Frequest In

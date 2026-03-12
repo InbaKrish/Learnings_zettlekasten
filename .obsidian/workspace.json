@@ -343,7 +343,8 @@
       "command-palette:Open command palette": false,
       "copilot:Copilot Chat": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "840fa0b76ba7fdc8",
