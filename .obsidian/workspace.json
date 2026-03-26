@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursor - Context Engineering.md",
+                "file": "Project-Foundry/Music - Specific Section Playlist creator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -74,7 +74,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cursor - Context Engineering"
+              "title": "Music - Specific Section Playlist creator"
             }
           },
           {
@@ -325,12 +325,17 @@
   },
   "active": "7a48de0d6c5ddd91",
   "lastOpenFiles": [
+    "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
+    "Project-Foundry/Music - Specific Section Playlist creator.md",
+    "Project-Foundry/One Place - Fashion AI.md",
+    "Project-Foundry/Web page save - Ruby gem.md",
+    "Project-Foundry/Supermemory AI - Clone in Rails.md",
+    "Cursor - Context Engineering.md",
     "Pasted image 20260312135028.png",
     "Pasted image 20260312134555.png",
     "Pasted image 20260312134454.png",
     "Symmetric Encryption.md",
     "WebRTC.md",
-    "Cursor - Context Engineering.md",
     "Pasted image 20260311200831.png",
     "Pasted image 20260311195516.png",
     "Pasted image 20260311194225.png",
@@ -338,7 +343,6 @@
     "Pasted image 20260311193110.png",
     "Pasted image 20260311191944.png",
     "Pasted image 20260311191514.png",
-    "Pasted image 20260311191152.png",
     "Excalidraw/Drawing 2026-03-11 18.57.11.excalidraw.md",
     "Excalidraw",
     "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
@@ -361,10 +365,6 @@
     "Kubernetes.md",
     "RubyConf 2024 - CFP.md",
     "Kube-proxy.md",
-    "Long Term Agentic Memory.md",
-    "State-Of-The-Art Prompting For AI Agents.md",
-    "SDP.md",
-    "STUN.md",
     "Leetcode_Probs/product_except_self.rb",
     "Leetcode_Probs",
     "vector_based_img_search_ror.pdf",
