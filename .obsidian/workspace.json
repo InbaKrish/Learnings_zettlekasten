@@ -102,13 +102,27 @@
             }
           },
           {
-            "id": "3113b28967af7851",
+            "id": "6c97b0795bbb7499",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Why Harness Engineering Matters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Why Harness Engineering Matters"
             }
           },
           {
@@ -357,8 +371,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3113b28967af7851",
+  "active": "6c97b0795bbb7499",
   "lastOpenFiles": [
+    "Harness Engineering.md",
+    "Domain Adaptation.md",
+    "Project-Foundry/Music - Specific Section Playlist creator.md",
     "Why Harness Engineering Matters.md",
     "Pasted image 20260611185323.png",
     "Pasted image 20260611185153.png",
@@ -366,8 +383,6 @@
     "State-Of-The-Art Prompting For AI Agents.md",
     "Pasted image 20260611184934.png",
     "Pasted image 20260611184823.png",
-    "Harness Engineering.md",
-    "Project-Foundry/Music - Specific Section Playlist creator.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry/One Place - Fashion AI.md",
     "Project-Foundry/Web page save - Ruby gem.md",
@@ -390,7 +405,6 @@
     "LLM Foundations.md",
     "BlogPosts/SEMI-JOIN - Optimize Your JOIN-Based Filter Queries for Maximum Performance.md",
     "Fine-Tuning.md",
-    "Domain Adaptation.md",
     "Pre-Training.md",
     "Zero-shot learning.md",
     "AI Agents.md",
