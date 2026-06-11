@@ -73,3 +73,32 @@ The distinction between a harness and an ordinary assistant is not capability â€
 
 ---
 
+#### The One Principle the Whole Chapter Builds Toward
+
+> **The key capability of an agent system is constrained execution.**
+
+Every section maps to a source file that proves it:
+
+|Source file|What it proves|
+|---|---|
+|`constants/prompts.ts`|Prompt = control plane, not personality|
+|`utils/systemPrompt.ts`|Behavior follows explicit layered precedence|
+|`query.ts`|Runtime depends on continuous loop state, not one-shot Q&A|
+|`tools/toolOrchestration.ts`|Tool calls obey scheduling discipline|
+|`tools/BashTool/prompt.ts`|High-risk tools need high-density constraints|
+
+And the final statement the chapter closes with:
+
+> _Systems cannot preserve order through "smartness." They preserve order through structure. Structure is less flashy than smartness, but usually more reliable._
+
+---
+
+### The mental model to carry forward
+
+Think of Claude Code not as "GPT with a terminal," but as a **constrained execution engine** â€” like a JVM, not a REPL. The model is the bytecode. 
+
+The harness is the JVM: 
+- it manages memory (context), 
+- decides what can run in parallel (scheduler), 
+- defines what the bytecode is allowed to touch (permissions), and 
+- handles exceptions through defined paths (recovery), not improvised ones.
