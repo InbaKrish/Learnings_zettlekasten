@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Harness Engineering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -98,7 +98,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Harness Engineering"
             }
           },
           {
@@ -350,7 +350,7 @@
   "active": "605008d2ec203232",
   "lastOpenFiles": [
     "Project-Foundry/Music - Specific Section Playlist creator.md",
-    "Untitled.md",
+    "Harness Engineering.md",
     "Project-Foundry/ActiveRecord - DuckDB - Adapter.md",
     "Project-Foundry/One Place - Fashion AI.md",
     "Project-Foundry/Web page save - Ruby gem.md",
