@@ -105,24 +105,10 @@
             "id": "3113b28967af7851",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why Harness Engineering Matters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why Harness Engineering Matters"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -373,11 +359,11 @@
   },
   "active": "3113b28967af7851",
   "lastOpenFiles": [
+    "Why Harness Engineering Matters.md",
     "Pasted image 20260611185323.png",
     "Pasted image 20260611185153.png",
     "Pasted image 20260611185045.png",
     "State-Of-The-Art Prompting For AI Agents.md",
-    "Why Harness Engineering Matters.md",
     "Pasted image 20260611184934.png",
     "Pasted image 20260611184823.png",
     "Harness Engineering.md",
@@ -394,7 +380,6 @@
     "WebRTC.md",
     "Pasted image 20260311200831.png",
     "Pasted image 20260311195516.png",
-    "Pasted image 20260311194225.png",
     "Excalidraw/Drawing 2026-03-11 18.57.11.excalidraw.md",
     "Excalidraw",
     "Comprehensive Guide to Context Engineering Optimization for Cursor and Autonomous Coding Agents.md",
