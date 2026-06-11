@@ -61,3 +61,15 @@ The specific prohibitions baked into `BashTool/prompt.ts`:
 |Skipping hooks|Bypasses team safety gates|
 
 The principle: **don't trust tone. Constrain the interface.** A model that sounds confident while running `rm -rf` is more dangerous than one that sounds uncertain but is constrained.
+
+---
+
+#### Layer 5: Errors Are the Main Path
+
+Most systems treat failure as exceptional. Claude Code treats it as structural — because it always is for agent systems.
+
+![[Pasted image 20260611185323.png]]
+The distinction between a harness and an ordinary assistant is not capability — it's failure routing. An assistant says "sorry, something went wrong." A harness knows when not to start, when to retry, when to terminate cleanly, and how to report accurately.
+
+---
+
